@@ -2,10 +2,12 @@
   "id": 1914493421,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-02",
+    "date:cessation_upper": "2024-07-02",
     "date:inception_lower": "2024-07-01",
     "date:inception_upper": "2024-07-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-01",
+    "edtf:cessation": "2024-07-02T04:31:42Z",
+    "edtf:inception": "2024-07-01T23:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-07-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.512417,
     "geom:longitude": -102.103286,
     "iata:airline": "UA",
+    "icao:aircraft": "B737",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102534019,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N27724",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "90854957",
+      "swim:gufi": "KC81388200"
+    },
     "wof:country": "US",
     "wof:created": 1719937285,
     "wof:geomhash": "b9e617aa80dabb56896871b70acf102e",
@@ -46,12 +59,12 @@
     ],
     "wof:id": 1914493421,
     "wof:involves": [
-      102527513,
       102534019,
       1159285413,
-      -1
+      1159289869,
+      102527513
     ],
-    "wof:lastmodified": 1719937285,
+    "wof:lastmodified": 1719938996,
     "wof:name": "UA3860 (CLE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

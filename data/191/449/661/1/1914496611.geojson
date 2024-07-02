@@ -2,10 +2,12 @@
   "id": 1914496611,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-01",
+    "date:cessation_upper": "2024-07-01",
     "date:inception_lower": "2024-07-01",
     "date:inception_upper": "2024-07-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-01",
+    "edtf:cessation": "2024-07-01T23:30:40Z",
+    "edtf:inception": "2024-07-01T19:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2024-07-01",
@@ -48,6 +50,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90752693"
+    },
     "wof:country": "US",
     "wof:created": 1719938402,
     "wof:geomhash": "1b3bbc939bc3a370232933405173139d",
@@ -88,7 +93,7 @@
       1763552131,
       1763588139
     ],
-    "wof:lastmodified": 1719938402,
+    "wof:lastmodified": 1719938999,
     "wof:name": "MX229 (SFO-SDF)",
     "wof:parent_id": 1763588139,
     "wof:placetype": "custom",

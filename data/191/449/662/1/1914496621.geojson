@@ -2,10 +2,12 @@
   "id": 1914496621,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-07-01",
-    "date:inception_upper": "2024-07-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-01",
+    "date:cessation_lower": "2024-07-02",
+    "date:cessation_upper": "2024-07-02",
+    "date:inception_lower": "2024-07-02",
+    "date:inception_upper": "2024-07-02",
+    "edtf:cessation": "2024-07-02T07:41:37Z",
+    "edtf:inception": "2024-07-02T03:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "PD",
     "flysfo:base_airline": "",
@@ -24,6 +26,7 @@
     "geom:longitude": -100.9996425,
     "iata:airline": "PD",
     "iata:base_airline": "",
+    "icao:aircraft": "E295",
     "icao:airline": "POE",
     "icao:base_airline": "TSC",
     "lbl:latitude": 37.61799,
@@ -39,6 +42,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "CGZQE",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90762261"
+    },
     "wof:country": "US",
     "wof:created": 1719938406,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -94,7 +105,7 @@
       1763588267,
       1159283753
     ],
-    "wof:lastmodified": 1719938406,
+    "wof:lastmodified": 1719938999,
     "wof:name": "PD670 (SFO-YYZ)",
     "wof:parent_id": 1763588267,
     "wof:placetype": "custom",
