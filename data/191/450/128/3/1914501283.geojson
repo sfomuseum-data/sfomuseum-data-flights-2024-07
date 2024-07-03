@@ -2,10 +2,12 @@
   "id": 1914501283,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-02",
+    "date:cessation_upper": "2024-07-02",
     "date:inception_lower": "2024-07-02",
     "date:inception_upper": "2024-07-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-02",
+    "edtf:cessation": "2024-07-02T23:15:00Z",
+    "edtf:inception": "2024-07-02T22:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240702-A-KLM-6772",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N373NW",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90868531",
+      "swim:gufi": "KL77091300"
+    },
     "wof:country": "US",
     "wof:created": 1720023111,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1914501283,
     "wof:involves": [
+      1763588243,
+      1159284613,
+      1159292085,
       102527513,
       102533795,
-      1159284261,
-      1763588243,
-      1159284613
+      1159284261
     ],
-    "wof:lastmodified": 1720023111,
+    "wof:lastmodified": 1720025427,
     "wof:name": "DL1559 (LAX-SFO)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

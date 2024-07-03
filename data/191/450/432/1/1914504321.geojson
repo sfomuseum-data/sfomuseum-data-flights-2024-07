@@ -2,10 +2,12 @@
   "id": 1914504321,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-02",
+    "date:cessation_upper": "2024-07-02",
     "date:inception_lower": "2024-07-02",
     "date:inception_upper": "2024-07-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-02",
+    "edtf:cessation": "2024-07-02T20:00:04Z",
+    "edtf:inception": "2024-07-02T04:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AI",
     "flysfo:date": "2024-07-02",
@@ -21,9 +23,11 @@
     "geom:latitude": 25.408824,
     "geom:longitude": -22.331438,
     "iata:airline": "AI",
+    "icao:aircraft": "B77L",
     "icao:airline": "AIC",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289989,
     "sfomuseum:airline_id": 1159283649,
     "sfomuseum:arrival_id": 102555641,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "VTAEH",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90792105"
+    },
     "wof:country": "US",
     "wof:created": 1720024178,
     "wof:geomhash": "142a7e9d13c268eeb70ef8e16df288c7",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 1914504321,
     "wof:involves": [
+      1763588405,
+      1159289989,
       102555641,
       102527513,
-      1159283649,
-      1763588405
+      1159283649
     ],
-    "wof:lastmodified": 1720024178,
+    "wof:lastmodified": 1720025452,
     "wof:name": "AI176 (SFO-BLR)",
     "wof:parent_id": 1763588405,
     "wof:placetype": "custom",

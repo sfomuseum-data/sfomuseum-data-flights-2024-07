@@ -2,10 +2,12 @@
   "id": 1914500741,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-02",
+    "date:cessation_upper": "2024-07-02",
     "date:inception_lower": "2024-07-02",
     "date:inception_upper": "2024-07-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-02",
+    "edtf:cessation": "2024-07-02T21:11:40Z",
+    "edtf:inception": "2024-07-02T20:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.778435,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240702-A-AAL-9424",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N912AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90853497"
+    },
     "wof:country": "US",
     "wof:created": 1720022924,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 1914500741,
     "wof:involves": [
+      1159283849,
+      1528104577,
       102527513,
       102528997,
       1159283813,
-      1763588227,
-      1159283849
+      1763588227
     ],
-    "wof:lastmodified": 1720022924,
+    "wof:lastmodified": 1720025430,
     "wof:name": "AS672 (SAN-SFO)",
     "wof:parent_id": 1763588227,
     "wof:placetype": "custom",

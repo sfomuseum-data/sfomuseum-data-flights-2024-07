@@ -2,10 +2,12 @@
   "id": 1914500041,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-02",
+    "date:cessation_upper": "2024-07-02",
     "date:inception_lower": "2024-07-02",
     "date:inception_upper": "2024-07-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-02",
+    "edtf:cessation": "2024-07-02T14:48:53Z",
+    "edtf:inception": "2024-07-02T00:38:30Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AI",
     "flysfo:date": "2024-07-02",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +53,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90771025"
+    },
     "wof:country": "US",
     "wof:created": 1720022678,
     "wof:geomhash": "c9618692327b148a3f9466df78845400",
@@ -88,7 +96,7 @@
       1159283649,
       1763588451
     ],
-    "wof:lastmodified": 1720022678,
+    "wof:lastmodified": 1720025430,
     "wof:name": "AI173 (DEL-SFO)",
     "wof:parent_id": 1763588451,
     "wof:placetype": "custom",
