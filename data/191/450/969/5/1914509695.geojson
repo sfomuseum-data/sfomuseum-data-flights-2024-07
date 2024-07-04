@@ -2,10 +2,12 @@
   "id": 1914509695,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-04",
+    "date:cessation_upper": "2024-07-04",
     "date:inception_lower": "2024-07-03",
     "date:inception_upper": "2024-07-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-03",
+    "edtf:cessation": "2024-07-04T03:08:34Z",
+    "edtf:inception": "2024-07-03T21:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.057846,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "ACA",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618249,
     "lbl:longitude": -122.381477,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240703-A-ANZ-4613",
@@ -53,6 +57,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90963033",
+      "swim:gufi": "KP83807400"
+    },
     "wof:country": "US",
     "wof:created": 1720109070,
     "wof:geomhash": "d6fced31e2f30d79d54c9b38b6916cc7",
@@ -88,13 +96,14 @@
     ],
     "wof:id": 1914509695,
     "wof:involves": [
-      102527513,
       102554351,
       1159283597,
       1763588153,
-      1159283697
+      1159283697,
+      1813375783,
+      102527513
     ],
-    "wof:lastmodified": 1720109070,
+    "wof:lastmodified": 1720111927,
     "wof:name": "AC763 (YUL-SFO)",
     "wof:parent_id": 1763588153,
     "wof:placetype": "custom",

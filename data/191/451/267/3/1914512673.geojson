@@ -2,10 +2,12 @@
   "id": 1914512673,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-03",
+    "date:cessation_upper": "2024-07-03",
     "date:inception_lower": "2024-07-03",
     "date:inception_upper": "2024-07-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-03",
+    "edtf:cessation": "2024-07-03T16:31:19Z",
+    "edtf:inception": "2024-07-03T15:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.484166,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.621076,
     "lbl:longitude": -122.390239,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240703-A-ANZ-9357",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N826UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90925102"
+    },
     "wof:country": "US",
     "wof:created": 1720110153,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 1914512673,
     "wof:involves": [
+      1159283697,
+      1159289407,
       102527513,
       102532251,
       1159285413,
-      1763588327,
-      1159283697
+      1763588327
     ],
-    "wof:lastmodified": 1720110153,
+    "wof:lastmodified": 1720111933,
     "wof:name": "UA2378 (PDX-SFO)",
     "wof:parent_id": 1763588327,
     "wof:placetype": "custom",

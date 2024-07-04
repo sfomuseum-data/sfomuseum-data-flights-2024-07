@@ -2,10 +2,12 @@
   "id": 1914513953,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-03",
+    "date:cessation_upper": "2024-07-03",
     "date:inception_lower": "2024-07-03",
     "date:inception_upper": "2024-07-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-03",
+    "edtf:cessation": "2024-07-03T18:06:00Z",
+    "edtf:inception": "2024-07-03T13:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "ACA",
     "icao:base_airline": "AUA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555091,
     "sfomuseum:base_flight_id": "20240703-D-AUA-8318",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "CGNGV",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90916443",
+      "swim:gufi": "KO38536400"
+    },
     "wof:country": "US",
     "wof:created": 1720110604,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -92,9 +105,10 @@
       102527513,
       1159283597,
       1763588135,
-      1159283947
+      1159283947,
+      1813375783
     ],
-    "wof:lastmodified": 1720110604,
+    "wof:lastmodified": 1720111937,
     "wof:name": "AC736 (SFO-YYZ)",
     "wof:parent_id": 1763588135,
     "wof:placetype": "custom",

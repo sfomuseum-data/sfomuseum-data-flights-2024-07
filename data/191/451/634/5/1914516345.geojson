@@ -2,10 +2,12 @@
   "id": 1914516345,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-04",
+    "date:cessation_upper": "2024-07-04",
     "date:inception_lower": "2024-07-03",
     "date:inception_upper": "2024-07-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-03",
+    "edtf:cessation": "2024-07-04T10:02:21Z",
+    "edtf:inception": "2024-07-03T19:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SQ",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -9.197052,
     "iata:airline": "SQ",
     "iata:base_airline": "",
+    "icao:aircraft": "A359",
     "icao:airline": "SIA",
     "icao:base_airline": "AIC",
     "lbl:latitude": 37.617906,
     "lbl:longitude": -122.390944,
+    "sfomuseum:aircraft_id": 1377564293,
     "sfomuseum:airline_id": 1159286259,
     "sfomuseum:arrival_id": 102551593,
     "sfomuseum:base_flight_id": "20240703-D-AIC-7203",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "9VSJH",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90948463"
+    },
     "wof:country": "US",
     "wof:created": 1720111478,
     "wof:geomhash": "998e7b0d931c2ad5e41dcc1541aaab60",
@@ -92,9 +104,10 @@
       102527513,
       1159286259,
       1763588447,
-      1159283649
+      1159283649,
+      1377564293
     ],
-    "wof:lastmodified": 1720111478,
+    "wof:lastmodified": 1720111944,
     "wof:name": "SQ31 (SFO-SIN)",
     "wof:parent_id": 1763588447,
     "wof:placetype": "custom",
