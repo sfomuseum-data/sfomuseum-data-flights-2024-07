@@ -1,0 +1,72 @@
+{
+  "id": 1914511053,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-07-03",
+    "date:inception_upper": "2024-07-03",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-03",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2024-07-03",
+    "flysfo:estimated_timestamp": 1720025340,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "DL425",
+    "flysfo:gate": "",
+    "flysfo:journey": "SMF-SFO",
+    "flysfo:scheduled_timestamp": 1720024560,
+    "flysfo:timestamp": 1720025340,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-121.589912,38.685533",
+    "geom:latitude": 38.1517615,
+    "geom:longitude": -121.98042749999999,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102530559,
+    "sfomuseum:flight_id": "20240703-A-DAL-425",
+    "sfomuseum:flight_number": [
+      "DAL425",
+      "DL425"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1720109566,
+    "wof:geomhash": "f5805f1be1c56ce2a2965880e252c65f",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1914511053,
+        "flight_id": 1914511053
+      }
+    ],
+    "wof:id": 1914511053,
+    "wof:involves": [
+      102527513,
+      102530559,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1720109566,
+    "wof:name": "DL425 (SMF-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2024-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -121.589912,
+    38.685533
+  ],
+  "geometry": {"coordinates":[[-121.589912,38.685533],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
