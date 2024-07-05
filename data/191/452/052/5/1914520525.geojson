@@ -2,10 +2,12 @@
   "id": 1914520525,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-05",
+    "date:cessation_upper": "2024-07-05",
     "date:inception_lower": "2024-07-04",
     "date:inception_upper": "2024-07-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-04",
+    "edtf:cessation": "2024-07-05T00:45:09Z",
+    "edtf:inception": "2024-07-04T11:58:48Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CX",
     "flysfo:date": "2024-07-04",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91009787"
+    },
     "wof:country": "US",
     "wof:created": 1720195884,
     "wof:geomhash": "300aa0b6d6fd1fa7d09bf740f0e0c265",
@@ -88,7 +93,7 @@
       1159284127,
       1763588417
     ],
-    "wof:lastmodified": 1720195884,
+    "wof:lastmodified": 1720198101,
     "wof:name": "CX892 (HKG-SFO)",
     "wof:parent_id": 1763588417,
     "wof:placetype": "custom",

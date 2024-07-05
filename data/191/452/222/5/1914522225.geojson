@@ -2,10 +2,12 @@
   "id": 1914522225,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-04",
+    "date:cessation_upper": "2024-07-04",
     "date:inception_lower": "2024-07-04",
     "date:inception_upper": "2024-07-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-04",
+    "edtf:cessation": "2024-07-04T18:07:00Z",
+    "edtf:inception": "2024-07-04T12:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.620929,
     "lbl:longitude": -122.390272,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240704-A-ANA-7007",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N782UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91015618",
+      "swim:gufi": "KN34532500"
+    },
     "wof:country": "US",
     "wof:created": 1720196476,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
@@ -92,9 +105,10 @@
       102530049,
       1159285413,
       1763588325,
-      1159283875
+      1159283875,
+      1159289985
     ],
-    "wof:lastmodified": 1720196476,
+    "wof:lastmodified": 1720198126,
     "wof:name": "UA354 (EWR-SFO)",
     "wof:parent_id": 1763588325,
     "wof:placetype": "custom",

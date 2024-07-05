@@ -2,10 +2,12 @@
   "id": 1914520073,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-04",
+    "date:cessation_upper": "2024-07-04",
     "date:inception_lower": "2024-07-04",
     "date:inception_upper": "2024-07-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-04",
+    "edtf:cessation": "2024-07-04T17:24:00Z",
+    "edtf:inception": "2024-07-04T16:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "CFG",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240704-A-CFG-5011",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N929AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91034818"
+    },
     "wof:country": "US",
     "wof:created": 1720195731,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 1914520073,
     "wof:involves": [
+      1763588183,
+      1159284193,
+      1528104577,
       102527513,
       102533795,
-      1159283813,
-      1763588183,
-      1159284193
+      1159283813
     ],
-    "wof:lastmodified": 1720195731,
+    "wof:lastmodified": 1720198098,
     "wof:name": "AS965 (LAX-SFO)",
     "wof:parent_id": 1763588183,
     "wof:placetype": "custom",
