@@ -2,10 +2,12 @@
   "id": 1914532757,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-06",
+    "date:cessation_upper": "2024-07-06",
     "date:inception_lower": "2024-07-05",
     "date:inception_upper": "2024-07-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-05",
+    "edtf:cessation": "2024-07-06T03:56:00Z",
+    "edtf:inception": "2024-07-05T23:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "ACA",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618249,
     "lbl:longitude": -122.381477,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555091,
     "sfomuseum:base_flight_id": "20240705-D-ANZ-4734",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "CGNAM",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91081781",
+      "swim:gufi": "KO71043600"
+    },
     "wof:country": "US",
     "wof:created": 1720283340,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1914532757,
     "wof:involves": [
+      1159283697,
+      1813375783,
       102555091,
       102527513,
       1159283597,
-      1763588153,
-      1159283697
+      1763588153
     ],
-    "wof:lastmodified": 1720283340,
+    "wof:lastmodified": 1720284702,
     "wof:name": "AC744 (SFO-YYZ)",
     "wof:parent_id": 1763588153,
     "wof:placetype": "custom",

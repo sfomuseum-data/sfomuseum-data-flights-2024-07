@@ -2,10 +2,12 @@
   "id": 1914529411,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-05",
+    "date:cessation_upper": "2024-07-05",
     "date:inception_lower": "2024-07-05",
     "date:inception_upper": "2024-07-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-05",
+    "edtf:cessation": "2024-07-05T23:31:45Z",
+    "edtf:inception": "2024-07-05T22:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91158767"
+    },
     "wof:country": "US",
     "wof:created": 1720282131,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -94,7 +99,7 @@
       1763588203,
       1159283849
     ],
-    "wof:lastmodified": 1720282131,
+    "wof:lastmodified": 1720284685,
     "wof:name": "AS673 (PDX-SFO)",
     "wof:parent_id": 1763588203,
     "wof:placetype": "custom",
