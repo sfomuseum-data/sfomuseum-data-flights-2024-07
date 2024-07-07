@@ -2,10 +2,12 @@
   "id": 1914540947,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-06",
+    "date:cessation_upper": "2024-07-06",
     "date:inception_lower": "2024-07-06",
     "date:inception_upper": "2024-07-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-06",
+    "edtf:cessation": "2024-07-06T18:22:00Z",
+    "edtf:inception": "2024-07-06T14:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "CCA",
     "lbl:latitude": 37.621107,
     "lbl:longitude": -122.389874,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240706-A-CCA-7295",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N210UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91199351",
+      "swim:gufi": "KG40688700"
+    },
     "wof:country": "US",
     "wof:created": 1720369218,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1914540947,
     "wof:involves": [
-      102527513,
       102533631,
       1159285413,
       1763588333,
-      1159283605
+      1159283605,
+      1159289985,
+      102527513
     ],
-    "wof:lastmodified": 1720369218,
+    "wof:lastmodified": 1720370770,
     "wof:name": "UA2672 (ORD-SFO)",
     "wof:parent_id": 1763588333,
     "wof:placetype": "custom",

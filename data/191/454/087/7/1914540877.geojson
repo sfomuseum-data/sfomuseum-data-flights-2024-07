@@ -2,10 +2,12 @@
   "id": 1914540877,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-07",
+    "date:cessation_upper": "2024-07-07",
     "date:inception_lower": "2024-07-06",
     "date:inception_upper": "2024-07-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-06",
+    "edtf:cessation": "2024-07-07T02:17:00Z",
+    "edtf:inception": "2024-07-06T22:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-07-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 49.395798,
     "geom:longitude": -136.169672,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618486,
     "lbl:longitude": -122.384457,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531979,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +56,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91243048",
+      "swim:gufi": "KS00884100"
+    },
     "wof:country": "US",
     "wof:created": 1720369194,
     "wof:geomhash": "40576486fbb454d3a66da49d62a0ae33",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 1914540877,
     "wof:involves": [
-      102527513,
       102531979,
       1159285413,
-      1763588339
+      1763588339,
+      1528104577,
+      102527513
     ],
-    "wof:lastmodified": 1720369194,
+    "wof:lastmodified": 1720370769,
     "wof:name": "UA2191 (ANC-SFO)",
     "wof:parent_id": 1763588339,
     "wof:placetype": "custom",
