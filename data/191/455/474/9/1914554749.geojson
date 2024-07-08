@@ -2,10 +2,12 @@
   "id": 1914554749,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-07-07",
-    "date:inception_upper": "2024-07-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-07",
+    "date:cessation_lower": "2024-07-08",
+    "date:cessation_upper": "2024-07-08",
+    "date:inception_lower": "2024-07-08",
+    "date:inception_upper": "2024-07-08",
+    "edtf:cessation": "2024-07-08T05:15:31Z",
+    "edtf:inception": "2024-07-08T02:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -107.78563,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "AAR",
     "lbl:latitude": 37.620304,
     "lbl:longitude": -122.388827,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531131,
     "sfomuseum:base_flight_id": "20240707-D-AAR-6311",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N437UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91256959",
+      "swim:gufi": "KO81387100"
+    },
     "wof:country": "US",
     "wof:created": 1720457236,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1914554749,
     "wof:involves": [
+      1159283917,
+      1159292085,
       102531131,
       102527513,
       1159285413,
-      1763588315,
-      1159283917
+      1763588315
     ],
-    "wof:lastmodified": 1720457236,
+    "wof:lastmodified": 1720457548,
     "wof:name": "UA2262 (SFO-MSP)",
     "wof:parent_id": 1763588315,
     "wof:placetype": "custom",
