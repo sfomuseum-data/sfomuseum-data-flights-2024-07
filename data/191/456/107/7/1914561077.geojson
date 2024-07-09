@@ -2,10 +2,12 @@
   "id": 1914561077,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-08",
+    "date:cessation_upper": "2024-07-08",
     "date:inception_lower": "2024-07-08",
     "date:inception_upper": "2024-07-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-08",
+    "edtf:cessation": "2024-07-08T15:16:46Z",
+    "edtf:inception": "2024-07-08T14:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "DAL",
     "icao:base_airline": "CAL",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240708-A-CAL-9171",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N3738B",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91377805",
+      "swim:gufi": "KL47464202"
+    },
     "wof:country": "US",
     "wof:created": 1720541564,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -92,9 +105,10 @@
       102533795,
       1159284261,
       1763588247,
-      1159284153
+      1159284153,
+      1159289871
     ],
-    "wof:lastmodified": 1720541564,
+    "wof:lastmodified": 1720543926,
     "wof:name": "DL1421 (LAX-SFO)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",

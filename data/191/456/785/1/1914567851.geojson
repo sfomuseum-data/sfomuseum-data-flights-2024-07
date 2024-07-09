@@ -2,10 +2,12 @@
   "id": 1914567851,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-08",
+    "date:cessation_upper": "2024-07-08",
     "date:inception_lower": "2024-07-08",
     "date:inception_upper": "2024-07-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-08",
+    "edtf:cessation": "2024-07-08T10:55:00Z",
+    "edtf:inception": "2024-07-08T06:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.5210065,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61756,
     "lbl:longitude": -122.381052,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102532047,
     "sfomuseum:base_flight_id": "20240708-D-ANZ-9030",
@@ -53,6 +57,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91355815",
+      "swim:gufi": "KO13211200"
+    },
     "wof:country": "US",
     "wof:created": 1720543606,
     "wof:geomhash": "ff243e97b2d4ce40e0a4accb79115371",
@@ -92,9 +100,10 @@
       102527513,
       1159285413,
       1763588143,
-      1159283697
+      1159283697,
+      1528104575
     ],
-    "wof:lastmodified": 1720543606,
+    "wof:lastmodified": 1720543934,
     "wof:name": "UA2110 (SFO-BWI)",
     "wof:parent_id": 1763588143,
     "wof:placetype": "custom",

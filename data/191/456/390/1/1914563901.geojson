@@ -2,10 +2,12 @@
   "id": 1914563901,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-08",
+    "date:cessation_upper": "2024-07-08",
     "date:inception_lower": "2024-07-08",
     "date:inception_upper": "2024-07-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-08",
+    "edtf:cessation": "2024-07-08T20:47:00Z",
+    "edtf:inception": "2024-07-08T15:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.3334745,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "AAL",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102531023,
     "sfomuseum:base_flight_id": "20240708-D-BAW-5609",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N951XV",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91383341",
+      "swim:gufi": "KO49539200"
+    },
     "wof:country": "US",
     "wof:created": 1720542444,
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1914563901,
     "wof:involves": [
+      1377564297,
       102531023,
       102527513,
       1159283849,
       1763588207,
       1159284021
     ],
-    "wof:lastmodified": 1720542444,
+    "wof:lastmodified": 1720543931,
     "wof:name": "AA651 (SFO-MIA)",
     "wof:parent_id": 1763588207,
     "wof:placetype": "custom",

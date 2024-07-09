@@ -2,10 +2,12 @@
   "id": 1914563123,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-08",
+    "date:cessation_upper": "2024-07-08",
     "date:inception_lower": "2024-07-08",
     "date:inception_upper": "2024-07-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-08",
+    "edtf:cessation": "2024-07-08T14:14:00Z",
+    "edtf:inception": "2024-07-08T05:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-07-08",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.686867,
     "geom:longitude": 9.012156999999995,
     "iata:airline": "UA",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617458,
     "lbl:longitude": -122.391079,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102541685,
@@ -48,6 +52,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91354390",
+      "swim:gufi": "KO45691200"
+    },
     "wof:country": "US",
     "wof:created": 1720542172,
     "wof:geomhash": "d46bcc8d1d94e68df95be799ac6a3b4c",
@@ -83,12 +91,13 @@
     ],
     "wof:id": 1914563123,
     "wof:involves": [
+      1159293215,
       102527513,
       102541685,
       1159285413,
       1763588443
     ],
-    "wof:lastmodified": 1720542172,
+    "wof:lastmodified": 1720543909,
     "wof:name": "UA3905 (NRT-SFO)",
     "wof:parent_id": 1763588443,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914563125,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-08",
+    "date:cessation_upper": "2024-07-08",
     "date:inception_lower": "2024-07-08",
     "date:inception_upper": "2024-07-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-08",
+    "edtf:cessation": "2024-07-08T08:05:00Z",
+    "edtf:inception": "2024-07-08T04:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-07-08",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.797588,
     "geom:longitude": -108.8546935,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619425,
     "lbl:longitude": -122.384028,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102534097,
@@ -48,6 +52,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91439318",
+      "swim:gufi": "KH07368200"
+    },
     "wof:country": "US",
     "wof:created": 1720542173,
     "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
@@ -83,12 +91,13 @@
     ],
     "wof:id": 1914563125,
     "wof:involves": [
-      102527513,
       102534097,
       1159285413,
-      1763588357
+      1763588357,
+      1377564285,
+      102527513
     ],
-    "wof:lastmodified": 1720542173,
+    "wof:lastmodified": 1720543909,
     "wof:name": "UA3919 (IAH-SFO)",
     "wof:parent_id": 1763588357,
     "wof:placetype": "custom",
