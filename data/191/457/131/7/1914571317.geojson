@@ -2,10 +2,12 @@
   "id": 1914571317,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-09",
+    "date:cessation_upper": "2024-07-09",
     "date:inception_lower": "2024-07-09",
     "date:inception_upper": "2024-07-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-09",
+    "edtf:cessation": "2024-07-09T13:13:30Z",
+    "edtf:inception": "2024-07-09T08:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91453769"
+    },
     "wof:country": "US",
     "wof:created": 1720627782,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -94,7 +99,7 @@
       1763588197,
       1159283849
     ],
-    "wof:lastmodified": 1720627782,
+    "wof:lastmodified": 1720630368,
     "wof:name": "AS571 (HNL-SFO)",
     "wof:parent_id": 1763588197,
     "wof:placetype": "custom",

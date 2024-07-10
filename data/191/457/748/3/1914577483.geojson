@@ -2,10 +2,12 @@
   "id": 1914577483,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-10",
+    "date:cessation_upper": "2024-07-10",
     "date:inception_lower": "2024-07-09",
     "date:inception_upper": "2024-07-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-09",
+    "edtf:cessation": "2024-07-10T04:51:09Z",
+    "edtf:inception": "2024-07-09T18:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "TP",
     "flysfo:date": "2024-07-09",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.195417,
     "geom:longitude": -65.753267,
     "iata:airline": "TP",
+    "icao:aircraft": "A339",
     "icao:airline": "TAP",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1393786509,
     "sfomuseum:airline_id": 1159285271,
     "sfomuseum:arrival_id": 102535643,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91581645"
+    },
     "wof:country": "US",
     "wof:created": 1720629930,
     "wof:geomhash": "d52bb0a5cfa06eebb6a938b29d78a44d",
@@ -46,12 +56,12 @@
     ],
     "wof:id": 1914577483,
     "wof:involves": [
+      1393786509,
       102535643,
       102527513,
-      1159285271,
-      -1
+      1159285271
     ],
-    "wof:lastmodified": 1720629930,
+    "wof:lastmodified": 1720630390,
     "wof:name": "TP9245 (SFO-LIS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
