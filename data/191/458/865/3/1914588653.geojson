@@ -2,10 +2,12 @@
   "id": 1914588653,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-10",
+    "date:cessation_upper": "2024-07-10",
     "date:inception_lower": "2024-07-10",
     "date:inception_upper": "2024-07-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-10",
+    "edtf:cessation": "2024-07-10T01:21:16Z",
+    "edtf:inception": "2024-07-10T00:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91534670"
+    },
     "wof:country": "US",
     "wof:created": 1720716519,
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
@@ -94,7 +99,7 @@
       1763588155,
       1159286015
     ],
-    "wof:lastmodified": 1720716519,
+    "wof:lastmodified": 1720716822,
     "wof:name": "UA2611 (SFO-PDX)",
     "wof:parent_id": 1763588155,
     "wof:placetype": "custom",

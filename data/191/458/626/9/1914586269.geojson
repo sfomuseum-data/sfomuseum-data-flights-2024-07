@@ -2,10 +2,12 @@
   "id": 1914586269,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-10",
+    "date:cessation_upper": "2024-07-10",
     "date:inception_lower": "2024-07-10",
     "date:inception_upper": "2024-07-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-10",
+    "edtf:cessation": "2024-07-10T21:29:08Z",
+    "edtf:inception": "2024-07-10T20:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:base_flight_id": "20240710-D-AAL-7629",
@@ -39,6 +43,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N532AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91613545"
+    },
     "wof:country": "US",
     "wof:created": 1720715694,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -88,13 +96,14 @@
     ],
     "wof:id": 1914586269,
     "wof:involves": [
+      1159283849,
+      1159289871,
       102527209,
       102527513,
       1159283813,
-      1763588211,
-      1159283849
+      1763588211
     ],
-    "wof:lastmodified": 1720715694,
+    "wof:lastmodified": 1720716815,
     "wof:name": "AS114 (SFO-LAS)",
     "wof:parent_id": 1763588211,
     "wof:placetype": "custom",

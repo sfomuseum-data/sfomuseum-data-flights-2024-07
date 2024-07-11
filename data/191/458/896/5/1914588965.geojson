@@ -2,10 +2,12 @@
   "id": 1914588965,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-11",
+    "date:cessation_upper": "2024-07-11",
     "date:inception_lower": "2024-07-10",
     "date:inception_upper": "2024-07-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-10",
+    "edtf:cessation": "2024-07-11T07:59:00Z",
+    "edtf:inception": "2024-07-10T22:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -58.794018,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.61844,
     "lbl:longitude": -122.392214,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102542801,
     "sfomuseum:base_flight_id": "20240710-D-DLH-8730",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N217UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91624608",
+      "swim:gufi": "KO64402400"
+    },
     "wof:country": "US",
     "wof:created": 1720716630,
     "wof:geomhash": "b03e5f5c78933bb0f626aa81ed57f330",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1914588965,
     "wof:involves": [
+      1763588461,
+      1159286015,
+      1159289985,
       102542801,
       102527513,
-      1159285413,
-      1763588461,
-      1159286015
+      1159285413
     ],
-    "wof:lastmodified": 1720716630,
+    "wof:lastmodified": 1720716823,
     "wof:name": "UA968 (SFO-AMS)",
     "wof:parent_id": 1763588461,
     "wof:placetype": "custom",

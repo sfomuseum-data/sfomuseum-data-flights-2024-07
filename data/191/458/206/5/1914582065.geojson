@@ -2,10 +2,12 @@
   "id": 1914582065,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-10",
+    "date:cessation_upper": "2024-07-10",
     "date:inception_lower": "2024-07-10",
     "date:inception_upper": "2024-07-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-10",
+    "edtf:cessation": "2024-07-10T18:23:22Z",
+    "edtf:inception": "2024-07-10T16:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.484166,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B737",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240710-A-AAL-7502",
@@ -53,6 +57,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91584537",
+      "swim:gufi": "KS57067400"
+    },
     "wof:country": "US",
     "wof:created": 1720714199,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -88,13 +96,14 @@
     ],
     "wof:id": 1914582065,
     "wof:involves": [
+      1763588199,
+      1159283849,
+      1159289869,
       102527513,
       102532251,
-      1159283813,
-      1763588199,
-      1159283849
+      1159283813
     ],
-    "wof:lastmodified": 1720714199,
+    "wof:lastmodified": 1720716803,
     "wof:name": "AS842 (PDX-SFO)",
     "wof:parent_id": 1763588199,
     "wof:placetype": "custom",

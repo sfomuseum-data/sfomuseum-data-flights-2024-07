@@ -2,10 +2,12 @@
   "id": 1914582751,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-11",
+    "date:cessation_upper": "2024-07-11",
     "date:inception_lower": "2024-07-10",
     "date:inception_upper": "2024-07-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-10",
+    "edtf:cessation": "2024-07-11T04:16:08Z",
+    "edtf:inception": "2024-07-10T17:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "LH",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91590657"
+    },
     "wof:country": "US",
     "wof:created": 1720714451,
     "wof:geomhash": "eba9741d16611c9af3d962416d546de7",
@@ -94,7 +99,7 @@
       1763588445,
       1159283697
     ],
-    "wof:lastmodified": 1720714451,
+    "wof:lastmodified": 1720716827,
     "wof:name": "LH458 (MUC-SFO)",
     "wof:parent_id": 1763588445,
     "wof:placetype": "custom",

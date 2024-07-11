@@ -2,10 +2,12 @@
   "id": 1914588881,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-10",
+    "date:cessation_upper": "2024-07-10",
     "date:inception_lower": "2024-07-10",
     "date:inception_upper": "2024-07-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-10",
+    "edtf:cessation": "2024-07-10T05:21:00Z",
+    "edtf:inception": "2024-07-10T02:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -108.5435595,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "AAR",
     "lbl:latitude": 37.618486,
     "lbl:longitude": -122.384457,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533051,
     "sfomuseum:base_flight_id": "20240710-D-AAR-6317",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91543426",
+      "swim:gufi": "KO83109300"
+    },
     "wof:country": "US",
     "wof:created": 1720716602,
     "wof:geomhash": "b03a18c879ef85a5ca01fa93c99f372c",
@@ -88,13 +96,14 @@
     ],
     "wof:id": 1914588881,
     "wof:involves": [
+      1763588339,
+      1159283917,
+      1159289871,
       102533051,
       102527513,
-      1159285413,
-      1763588339,
-      1159283917
+      1159285413
     ],
-    "wof:lastmodified": 1720716602,
+    "wof:lastmodified": 1720716833,
     "wof:name": "UA737 (SFO-MCI)",
     "wof:parent_id": 1763588339,
     "wof:placetype": "custom",

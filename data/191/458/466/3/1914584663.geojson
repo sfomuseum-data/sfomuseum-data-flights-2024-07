@@ -2,10 +2,12 @@
   "id": 1914584663,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-10",
+    "date:cessation_upper": "2024-07-10",
     "date:inception_lower": "2024-07-10",
     "date:inception_upper": "2024-07-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-10",
+    "edtf:cessation": "2024-07-10T20:05:29Z",
+    "edtf:inception": "2024-07-10T09:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -61.410693,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "icao:base_airline": "BEL",
     "lbl:latitude": 37.61836,
     "lbl:longitude": -122.393229,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240710-A-BEL-9099",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91555853"
+    },
     "wof:country": "US",
     "wof:created": 1720715126,
     "wof:geomhash": "c7bf5337358552a3a60caed0c1e9ea63",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 1914584663,
     "wof:involves": [
+      1159293215,
       102527513,
       102556703,
       1159285413,
       1763588455,
       1377675597
     ],
-    "wof:lastmodified": 1720715126,
+    "wof:lastmodified": 1720716829,
     "wof:name": "UA900 (LHR-SFO)",
     "wof:parent_id": 1763588455,
     "wof:placetype": "custom",
