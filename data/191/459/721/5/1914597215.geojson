@@ -2,10 +2,12 @@
   "id": 1914597215,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-07-11",
-    "date:inception_upper": "2024-07-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-11",
+    "date:cessation_lower": "2024-07-12",
+    "date:cessation_upper": "2024-07-12",
+    "date:inception_lower": "2024-07-12",
+    "date:inception_upper": "2024-07-12",
+    "edtf:cessation": "2024-07-12T04:31:10Z",
+    "edtf:inception": "2024-07-12T01:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2024-07-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.2506555,
     "geom:longitude": -107.78563,
     "iata:airline": "DL",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102531131,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N863DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91641477",
+      "swim:gufi": "KO01501600"
+    },
     "wof:country": "US",
     "wof:created": 1720802204,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -83,12 +96,13 @@
     ],
     "wof:id": 1914597215,
     "wof:involves": [
-      102531131,
       102527513,
       1159284261,
-      1763588239
+      1763588239,
+      1377564285,
+      102531131
     ],
-    "wof:lastmodified": 1720802204,
+    "wof:lastmodified": 1720803047,
     "wof:name": "DL2080 (SFO-MSP)",
     "wof:parent_id": 1763588239,
     "wof:placetype": "custom",

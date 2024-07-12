@@ -2,10 +2,12 @@
   "id": 1914592803,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-12",
+    "date:cessation_upper": "2024-07-12",
     "date:inception_lower": "2024-07-11",
     "date:inception_upper": "2024-07-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-11",
+    "edtf:cessation": "2024-07-12T00:57:00Z",
+    "edtf:inception": "2024-07-11T18:14:08Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CM",
     "flysfo:date": "2024-07-11",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91701317"
+    },
     "wof:country": "US",
     "wof:created": 1720800726,
     "wof:geomhash": "a24fa29091ad40e8c2dcacd18340610c",
@@ -88,7 +93,7 @@
       1159284211,
       1763588419
     ],
-    "wof:lastmodified": 1720800726,
+    "wof:lastmodified": 1720803032,
     "wof:name": "CM408 (PTY-SFO)",
     "wof:parent_id": 1763588419,
     "wof:placetype": "custom",
