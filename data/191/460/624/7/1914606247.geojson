@@ -2,10 +2,12 @@
   "id": 1914606247,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-12",
+    "date:cessation_upper": "2024-07-12",
     "date:inception_lower": "2024-07-12",
     "date:inception_upper": "2024-07-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-12",
+    "edtf:cessation": "2024-07-12T18:05:00Z",
+    "edtf:inception": "2024-07-12T13:49:22Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2024-07-12",
@@ -48,6 +50,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91783353"
+    },
     "wof:country": "US",
     "wof:created": 1720887460,
     "wof:geomhash": "0a450debd31d00abad70d92377328dce",
@@ -88,7 +93,7 @@
       1763552131,
       1763588139
     ],
-    "wof:lastmodified": 1720887460,
+    "wof:lastmodified": 1720889568,
     "wof:name": "MX228 (SDF-SFO)",
     "wof:parent_id": 1763588139,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914607333,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-13",
+    "date:cessation_upper": "2024-07-13",
     "date:inception_lower": "2024-07-12",
     "date:inception_upper": "2024-07-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-12",
+    "edtf:cessation": "2024-07-13T00:32:00Z",
+    "edtf:inception": "2024-07-12T23:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.484166,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240712-A-ANZ-9353",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N17333",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91846044",
+      "swim:gufi": "KS71961600"
+    },
     "wof:country": "US",
     "wof:created": 1720887844,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -55,9 +68,10 @@
       102532251,
       1159285413,
       1914564313,
-      1159283697
+      1159283697,
+      1528104575
     ],
-    "wof:lastmodified": 1720887844,
+    "wof:lastmodified": 1720889573,
     "wof:name": "UA644 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

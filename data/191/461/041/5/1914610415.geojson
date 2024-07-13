@@ -2,10 +2,12 @@
   "id": 1914610415,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-13",
+    "date:cessation_upper": "2024-07-13",
     "date:inception_lower": "2024-07-12",
     "date:inception_upper": "2024-07-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-12",
+    "edtf:cessation": "2024-07-13T00:09:00Z",
+    "edtf:inception": "2024-07-12T23:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2024-07-12",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91845572"
+    },
     "wof:country": "US",
     "wof:created": 1720888950,
     "wof:geomhash": "b4d056e1d6e58dcf382167f77162f897",
@@ -51,7 +56,7 @@
       1763552131,
       1914564497
     ],
-    "wof:lastmodified": 1720888950,
+    "wof:lastmodified": 1720889545,
     "wof:name": "MX600 (SFO-SBD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

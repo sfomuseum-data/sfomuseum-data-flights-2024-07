@@ -2,10 +2,12 @@
   "id": 1914605833,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-12",
+    "date:cessation_upper": "2024-07-12",
     "date:inception_lower": "2024-07-12",
     "date:inception_upper": "2024-07-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-12",
+    "edtf:cessation": "2024-07-12T16:04:54Z",
+    "edtf:inception": "2024-07-12T14:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F8",
     "flysfo:date": "2024-07-12",
@@ -34,6 +36,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +54,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91786162"
+    },
     "wof:country": "US",
     "wof:created": 1720887316,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
@@ -88,7 +97,7 @@
       1763552143,
       1763588215
     ],
-    "wof:lastmodified": 1720887316,
+    "wof:lastmodified": 1720889558,
     "wof:name": "F81848 (YVR-SFO)",
     "wof:parent_id": 1763588215,
     "wof:placetype": "custom",

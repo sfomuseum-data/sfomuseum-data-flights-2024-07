@@ -2,10 +2,12 @@
   "id": 1914607925,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-13",
+    "date:cessation_upper": "2024-07-13",
     "date:inception_lower": "2024-07-12",
     "date:inception_upper": "2024-07-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-12",
+    "edtf:cessation": "2024-07-13T00:27:00Z",
+    "edtf:inception": "2024-07-12T20:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "AAL",
     "icao:base_airline": "FIN",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:base_flight_id": "20240712-D-FIN-4110",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N301PA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91827758",
+      "swim:gufi": "KO68122600"
+    },
     "wof:country": "US",
     "wof:created": 1720888051,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1914607925,
     "wof:involves": [
+      1914564443,
+      1159284389,
+      1159289871,
       102533631,
       102527513,
-      1159283849,
-      1914564443,
-      1159284389
+      1159283849
     ],
-    "wof:lastmodified": 1720888051,
+    "wof:lastmodified": 1720889560,
     "wof:name": "AA2977 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

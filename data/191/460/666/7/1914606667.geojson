@@ -2,10 +2,12 @@
   "id": 1914606667,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-07-12",
-    "date:inception_upper": "2024-07-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-12",
+    "date:cessation_lower": "2024-07-13",
+    "date:cessation_upper": "2024-07-13",
+    "date:inception_lower": "2024-07-13",
+    "date:inception_upper": "2024-07-13",
+    "edtf:cessation": "2024-07-13T04:37:56Z",
+    "edtf:inception": "2024-07-13T03:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2024-07-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.175762,
     "geom:longitude": -119.778435,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528997,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N7833A",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91753783",
+      "swim:gufi": "KL05122700"
+    },
     "wof:country": "US",
     "wof:created": 1720887608,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
@@ -46,12 +59,13 @@
     ],
     "wof:id": 1914606667,
     "wof:involves": [
-      102527513,
       102528997,
       1159285591,
-      1914564365
+      1914564365,
+      1159289869,
+      102527513
     ],
-    "wof:lastmodified": 1720887608,
+    "wof:lastmodified": 1720889569,
     "wof:name": "WN3919 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

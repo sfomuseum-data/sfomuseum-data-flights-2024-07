@@ -2,10 +2,12 @@
   "id": 1914606985,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-12",
+    "date:cessation_upper": "2024-07-12",
     "date:inception_lower": "2024-07-12",
     "date:inception_upper": "2024-07-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-12",
+    "edtf:cessation": "2024-07-12T21:15:44Z",
+    "edtf:inception": "2024-07-12T16:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240712-A-ANZ-9122",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N57111",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91795693",
+      "swim:gufi": "KN44297600"
+    },
     "wof:country": "US",
     "wof:created": 1720887721,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1914606985,
     "wof:involves": [
-      102527513,
       102530049,
       1159285413,
       1914564229,
-      1159283697
+      1159283697,
+      1159289939,
+      102527513
     ],
-    "wof:lastmodified": 1720887721,
+    "wof:lastmodified": 1720889571,
     "wof:name": "UA1781 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

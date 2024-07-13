@@ -2,10 +2,12 @@
   "id": 1914608477,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-13",
+    "date:cessation_upper": "2024-07-13",
     "date:inception_lower": "2024-07-12",
     "date:inception_upper": "2024-07-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-12",
+    "edtf:cessation": "2024-07-13T09:08:34Z",
+    "edtf:inception": "2024-07-12T18:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AI",
     "flysfo:date": "2024-07-12",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91809281"
+    },
     "wof:country": "US",
     "wof:created": 1720888247,
     "wof:geomhash": "5685f56014cf853d095c4b0f2d5ea6d9",
@@ -88,7 +93,7 @@
       1159283649,
       1763588401
     ],
-    "wof:lastmodified": 1720888247,
+    "wof:lastmodified": 1720889561,
     "wof:name": "AI174 (SFO-DEL)",
     "wof:parent_id": 1763588401,
     "wof:placetype": "custom",

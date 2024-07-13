@@ -2,10 +2,12 @@
   "id": 1914604801,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-12",
+    "date:cessation_upper": "2024-07-12",
     "date:inception_lower": "2024-07-12",
     "date:inception_upper": "2024-07-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-12",
+    "edtf:cessation": "2024-07-12T15:58:52Z",
+    "edtf:inception": "2024-07-12T14:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "91786136"
+    },
     "wof:country": "US",
     "wof:created": 1720886942,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -94,7 +99,7 @@
       1763588225,
       1159283849
     ],
-    "wof:lastmodified": 1720886942,
+    "wof:lastmodified": 1720889550,
     "wof:name": "AS1166 (SEA-SFO)",
     "wof:parent_id": 1763588225,
     "wof:placetype": "custom",
