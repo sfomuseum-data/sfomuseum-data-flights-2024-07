@@ -2,10 +2,12 @@
   "id": 1914620963,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-14",
+    "date:cessation_upper": "2024-07-14",
     "date:inception_lower": "2024-07-13",
     "date:inception_upper": "2024-07-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-13",
+    "edtf:cessation": "2024-07-14T07:17:23Z",
+    "edtf:inception": "2024-07-13T21:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -57.5518295,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102549057,
     "sfomuseum:base_flight_id": "20240713-D-DLH-9403",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N2140U",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91938392",
+      "swim:gufi": "KO70306700"
+    },
     "wof:country": "US",
     "wof:created": 1720975604,
     "wof:geomhash": "a63fc4dac3cd4064d907a0b9ef33a7bc",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1914620963,
     "wof:involves": [
+      1914564081,
+      1159286015,
+      1159289993,
       102549057,
       102527513,
-      1159285413,
-      1914564081,
-      1159286015
+      1159285413
     ],
-    "wof:lastmodified": 1720975604,
+    "wof:lastmodified": 1720975804,
     "wof:name": "UA58 (SFO-FRA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

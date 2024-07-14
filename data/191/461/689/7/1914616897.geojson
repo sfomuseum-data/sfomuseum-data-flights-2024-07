@@ -2,10 +2,12 @@
   "id": 1914616897,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-13",
+    "date:cessation_upper": "2024-07-13",
     "date:inception_lower": "2024-07-13",
     "date:inception_upper": "2024-07-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-13",
+    "edtf:cessation": "2024-07-13T23:08:43Z",
+    "edtf:inception": "2024-07-13T22:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.104038,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240713-A-DLH-8885",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N807UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91938084",
+      "swim:gufi": "KL61391700"
+    },
     "wof:country": "US",
     "wof:created": 1720974207,
     "wof:geomhash": "aae625247f3652ef8a50cae9f49d2791",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1914616897,
     "wof:involves": [
-      102527513,
       102527337,
       1159285413,
       1914564167,
-      1159286015
+      1159286015,
+      1159289407,
+      102527513
     ],
-    "wof:lastmodified": 1720974207,
+    "wof:lastmodified": 1720975814,
     "wof:name": "UA645 (SBA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

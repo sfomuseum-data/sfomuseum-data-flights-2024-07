@@ -2,10 +2,12 @@
   "id": 1914614545,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-14",
+    "date:cessation_upper": "2024-07-14",
     "date:inception_lower": "2024-07-13",
     "date:inception_upper": "2024-07-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-13",
+    "edtf:cessation": "2024-07-14T03:37:00Z",
+    "edtf:inception": "2024-07-13T23:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "IBE",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240713-A-IBE-1659",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N966AK",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91848321"
+    },
     "wof:country": "US",
     "wof:created": 1720973366,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1914614545,
     "wof:involves": [
+      1914564437,
+      1159284511,
+      1528104577,
       102527513,
       102533631,
-      1159283813,
-      1914564437,
-      1159284511
+      1159283813
     ],
-    "wof:lastmodified": 1720973366,
+    "wof:lastmodified": 1720975806,
     "wof:name": "AS597 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

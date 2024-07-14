@@ -2,10 +2,12 @@
   "id": 1914614549,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-13",
+    "date:cessation_upper": "2024-07-13",
     "date:inception_lower": "2024-07-13",
     "date:inception_upper": "2024-07-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-13",
+    "edtf:cessation": "2024-07-13T14:19:06Z",
+    "edtf:inception": "2024-07-13T13:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240713-A-AAL-7565",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N594AS",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91889640"
+    },
     "wof:country": "US",
     "wof:created": 1720973367,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1914614549,
     "wof:involves": [
-      102527513,
-      102527209,
       1159283813,
       1914564385,
-      1159283849
+      1159283849,
+      1159289871,
+      102527513,
+      102527209
     ],
-    "wof:lastmodified": 1720973367,
+    "wof:lastmodified": 1720975807,
     "wof:name": "AS623 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

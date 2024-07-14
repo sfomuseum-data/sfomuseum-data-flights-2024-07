@@ -2,10 +2,12 @@
   "id": 1914619451,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-13",
+    "date:cessation_upper": "2024-07-13",
     "date:inception_lower": "2024-07-13",
     "date:inception_upper": "2024-07-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-13",
+    "edtf:cessation": "2024-07-13T22:27:00Z",
+    "edtf:inception": "2024-07-13T21:06:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2024-07-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.20008,
     "geom:longitude": -117.1757545,
     "iata:airline": "F9",
+    "icao:aircraft": "A320",
     "icao:airline": "FFT",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102527363,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N230FR",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91939120",
+      "swim:gufi": "KO71952700"
+    },
     "wof:country": "US",
     "wof:created": 1720975090,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -49,9 +62,10 @@
       102527363,
       102527513,
       1159284401,
-      1914564003
+      1914564003,
+      1159292085
     ],
-    "wof:lastmodified": 1720975090,
+    "wof:lastmodified": 1720975835,
     "wof:name": "F93394 (SFO-SLC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

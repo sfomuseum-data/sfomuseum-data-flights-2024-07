@@ -2,10 +2,12 @@
   "id": 1914616229,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-07-13",
-    "date:inception_upper": "2024-07-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-13",
+    "date:cessation_lower": "2024-07-14",
+    "date:cessation_upper": "2024-07-14",
+    "date:inception_lower": "2024-07-14",
+    "date:inception_upper": "2024-07-14",
+    "edtf:cessation": "2024-07-14T16:20:56Z",
+    "edtf:inception": "2024-07-14T01:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SQ",
     "flysfo:base_airline": "",
@@ -39,7 +41,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91859108"
+    },
     "wof:country": "US",
     "wof:created": 1720973969,
     "wof:geomhash": "b883d8e3c3c604f714c4dc756f6c1133",
@@ -57,7 +66,7 @@
       1914564081,
       1159283649
     ],
-    "wof:lastmodified": 1720973969,
+    "wof:lastmodified": 1720975831,
     "wof:name": "SQ32 (SIN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

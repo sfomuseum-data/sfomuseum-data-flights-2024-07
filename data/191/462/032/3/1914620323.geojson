@@ -2,10 +2,12 @@
   "id": 1914620323,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-13",
+    "date:cessation_upper": "2024-07-13",
     "date:inception_lower": "2024-07-13",
     "date:inception_upper": "2024-07-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-13",
+    "edtf:cessation": "2024-07-13T20:07:00Z",
+    "edtf:inception": "2024-07-13T17:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2024-07-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.231919500000004,
     "geom:longitude": -109.610733,
     "iata:airline": "WN",
+    "icao:aircraft": "B38M",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102525799,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N8735L",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91908615",
+      "swim:gufi": "KO53342700"
+    },
     "wof:country": "US",
     "wof:created": 1720975384,
     "wof:geomhash": "a08c5b1a6c329f228ec453404f254a51",
@@ -46,12 +59,12 @@
     ],
     "wof:id": 1914620323,
     "wof:involves": [
+      1528104575,
       102525799,
       102527513,
-      1159285591,
-      -1
+      1159285591
     ],
-    "wof:lastmodified": 1720975384,
+    "wof:lastmodified": 1720975797,
     "wof:name": "WN2647 (SFO-DAL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

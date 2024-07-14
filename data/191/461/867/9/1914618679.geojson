@@ -2,10 +2,12 @@
   "id": 1914618679,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-13",
+    "date:cessation_upper": "2024-07-13",
     "date:inception_lower": "2024-07-13",
     "date:inception_upper": "2024-07-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-13",
+    "edtf:cessation": "2024-07-13T23:51:32Z",
+    "edtf:inception": "2024-07-13T18:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102533997,
     "sfomuseum:base_flight_id": "20240713-D-AAL-7458",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N954AK",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91924335"
+    },
     "wof:country": "US",
     "wof:created": 1720974824,
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1914618679,
     "wof:involves": [
+      1159283849,
+      1528104577,
       102533997,
       102527513,
       1159283813,
-      1914564361,
-      1159283849
+      1914564361
     ],
-    "wof:lastmodified": 1720974824,
+    "wof:lastmodified": 1720975820,
     "wof:name": "AS877 (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

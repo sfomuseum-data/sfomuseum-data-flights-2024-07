@@ -2,10 +2,12 @@
   "id": 1914620977,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-13",
+    "date:cessation_upper": "2024-07-13",
     "date:inception_lower": "2024-07-13",
     "date:inception_upper": "2024-07-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-13",
+    "edtf:cessation": "2024-07-13T19:28:00Z",
+    "edtf:inception": "2024-07-13T18:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:base_flight_id": "20240713-D-ANZ-9221",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N37530",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91921590",
+      "swim:gufi": "KO53455700"
+    },
     "wof:country": "US",
     "wof:created": 1720975608,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1914620977,
     "wof:involves": [
+      1159283697,
+      1528104577,
       102527209,
       102527513,
       1159285413,
-      1914564527,
-      1159283697
+      1914564527
     ],
-    "wof:lastmodified": 1720975608,
+    "wof:lastmodified": 1720975804,
     "wof:name": "UA611 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

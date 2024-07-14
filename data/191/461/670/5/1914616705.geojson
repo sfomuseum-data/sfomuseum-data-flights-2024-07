@@ -2,10 +2,12 @@
   "id": 1914616705,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-13",
+    "date:cessation_upper": "2024-07-13",
     "date:inception_lower": "2024-07-13",
     "date:inception_upper": "2024-07-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-13",
+    "edtf:cessation": "2024-07-13T16:21:06Z",
+    "edtf:inception": "2024-07-13T11:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.5210065,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240713-A-ANZ-9035",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N24224",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91881150",
+      "swim:gufi": "KW31756700"
+    },
     "wof:country": "US",
     "wof:created": 1720974138,
     "wof:geomhash": "10c01f207ef95eecc919066d165ec5eb",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1914616705,
     "wof:involves": [
-      102527513,
-      102532047,
       1159285413,
       1914564229,
-      1159283697
+      1159283697,
+      1159289871,
+      102527513,
+      102532047
     ],
-    "wof:lastmodified": 1720974138,
+    "wof:lastmodified": 1720975813,
     "wof:name": "UA281 (BWI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

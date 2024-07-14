@@ -2,10 +2,12 @@
   "id": 1914620641,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-14",
+    "date:cessation_upper": "2024-07-14",
     "date:inception_lower": "2024-07-13",
     "date:inception_upper": "2024-07-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-13",
+    "edtf:cessation": "2024-07-14T02:44:00Z",
+    "edtf:inception": "2024-07-13T22:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-07-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 28.675217,
     "geom:longitude": -139.2030015,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102532939,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N775UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92018584",
+      "swim:gufi": "KO66856700"
+    },
     "wof:country": "US",
     "wof:created": 1720975494,
     "wof:geomhash": "ffd2c7b34797175c51fc3517b1c4b69d",
@@ -46,12 +59,12 @@
     ],
     "wof:id": 1914620641,
     "wof:involves": [
+      1159289985,
       102532939,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1720975494,
+    "wof:lastmodified": 1720975799,
     "wof:name": "UA1758 (SFO-KOA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

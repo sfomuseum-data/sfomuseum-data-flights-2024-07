@@ -2,10 +2,12 @@
   "id": 1914614521,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-13",
+    "date:cessation_upper": "2024-07-13",
     "date:inception_lower": "2024-07-13",
     "date:inception_upper": "2024-07-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-13",
+    "edtf:cessation": "2024-07-13T16:54:38Z",
+    "edtf:inception": "2024-07-13T13:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.006986,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240713-A-AAL-7431",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N928AK",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91892431"
+    },
     "wof:country": "US",
     "wof:created": 1720973360,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -55,9 +67,10 @@
       102521851,
       1159283813,
       1914564369,
-      1159283849
+      1159283849,
+      1528104577
     ],
-    "wof:lastmodified": 1720973360,
+    "wof:lastmodified": 1720975806,
     "wof:name": "AS513 (AUS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914619187,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-14",
+    "date:cessation_upper": "2024-07-14",
     "date:inception_lower": "2024-07-13",
     "date:inception_upper": "2024-07-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-13",
+    "edtf:cessation": "2024-07-14T03:21:00Z",
+    "edtf:inception": "2024-07-13T22:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102534365,
     "sfomuseum:base_flight_id": "20240713-D-AMX-4669",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N722TW",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91945075",
+      "swim:gufi": "KO76561700"
+    },
     "wof:country": "US",
     "wof:created": 1720975000,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -55,9 +68,10 @@
       102527513,
       1159284261,
       1914564579,
-      1159283539
+      1159283539,
+      1159289939
     ],
-    "wof:lastmodified": 1720975000,
+    "wof:lastmodified": 1720975822,
     "wof:name": "DL680 (SFO-JFK)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
