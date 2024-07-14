@@ -1,0 +1,72 @@
+{
+  "id": 1914616271,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-07-13",
+    "date:inception_upper": "2024-07-13",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-13",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "WN",
+    "flysfo:date": "2024-07-13",
+    "flysfo:estimated_timestamp": 1720925580,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "WN4458",
+    "flysfo:gate": "B13",
+    "flysfo:journey": "DAL-SFO",
+    "flysfo:scheduled_timestamp": 1720926600,
+    "flysfo:timestamp": 1720926600,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,32.845849,-96.850523,37.617990",
+    "geom:latitude": 35.231919500000004,
+    "geom:longitude": -109.610733,
+    "iata:airline": "WN",
+    "icao:airline": "SWA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285591,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102525799,
+    "sfomuseum:flight_id": "20240713-A-SWA-4458",
+    "sfomuseum:flight_number": [
+      "SWA4458",
+      "WN4458"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1720973985,
+    "wof:geomhash": "ecfc64ce72b903780fc129f985c12eef",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1914616271,
+        "flight_id": 1914616271
+      }
+    ],
+    "wof:id": 1914616271,
+    "wof:involves": [
+      102527513,
+      102525799,
+      1159285591,
+      1914564365
+    ],
+    "wof:lastmodified": 1720973985,
+    "wof:name": "WN4458 (DAL-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2024-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    32.845849,
+    -96.850523,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-96.850523,32.845849],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
