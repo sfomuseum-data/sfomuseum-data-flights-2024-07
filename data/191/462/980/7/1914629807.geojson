@@ -1,0 +1,72 @@
+{
+  "id": 1914629807,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-07-14",
+    "date:inception_upper": "2024-07-14",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-14",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "CM",
+    "flysfo:date": "2024-07-14",
+    "flysfo:estimated_timestamp": 1721015400,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "CM409",
+    "flysfo:gate": "A15",
+    "flysfo:journey": "SFO-PTY",
+    "flysfo:scheduled_timestamp": 1721012160,
+    "flysfo:timestamp": 1721015400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,0.000000,0.000000,37.617990",
+    "geom:latitude": 18.808995,
+    "geom:longitude": -61.1854715,
+    "iata:airline": "CM",
+    "icao:airline": "CMP",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284211,
+    "sfomuseum:arrival_id": 102547051,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20240714-D-CMP-409",
+    "sfomuseum:flight_number": [
+      "CMP409",
+      "CM409"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1721061430,
+    "wof:geomhash": "f7b726ae54aa9222cfb9d243d2e793d0",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1914629807,
+        "flight_id": 1914629807
+      }
+    ],
+    "wof:id": 1914629807,
+    "wof:involves": [
+      102547051,
+      102527513,
+      1159284211,
+      1914564009
+    ],
+    "wof:lastmodified": 1721061430,
+    "wof:name": "CM409 (SFO-PTY)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2024-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    0,
+    0,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[0,0]],"type":"MultiPoint"}
+}
