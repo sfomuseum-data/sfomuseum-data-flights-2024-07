@@ -2,10 +2,12 @@
   "id": 1914627703,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-14",
+    "date:cessation_upper": "2024-07-14",
     "date:inception_lower": "2024-07-14",
     "date:inception_upper": "2024-07-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-14",
+    "edtf:cessation": "2024-07-14T18:22:41Z",
+    "edtf:inception": "2024-07-14T08:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": 2.1453445,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "icao:base_airline": "AAR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240714-A-AAR-6614",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91974688",
+      "swim:gufi": "KO60800100"
+    },
     "wof:country": "US",
     "wof:created": 1721060695,
     "wof:geomhash": "83e2c60a8819c96e9fa3721059c5eac5",
@@ -55,9 +67,10 @@
       102556451,
       1159285413,
       1914564119,
-      1159283917
+      1159283917,
+      1159293215
     ],
-    "wof:lastmodified": 1721060695,
+    "wof:lastmodified": 1721062344,
     "wof:name": "UA892 (ICN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

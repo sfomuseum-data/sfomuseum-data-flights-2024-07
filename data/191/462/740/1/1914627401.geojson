@@ -2,10 +2,12 @@
   "id": 1914627401,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-14",
+    "date:cessation_upper": "2024-07-14",
     "date:inception_lower": "2024-07-14",
     "date:inception_upper": "2024-07-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-14",
+    "edtf:cessation": "2024-07-14T18:52:00Z",
+    "edtf:inception": "2024-07-14T13:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.057846,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240714-A-ACA-3610",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91986593",
+      "swim:gufi": "KC49763100"
+    },
     "wof:country": "US",
     "wof:created": 1721060589,
     "wof:geomhash": "d6fced31e2f30d79d54c9b38b6916cc7",
@@ -55,9 +67,10 @@
       102554351,
       1159285413,
       1914564305,
-      1159283597
+      1159283597,
+      1528104575
     ],
-    "wof:lastmodified": 1721060589,
+    "wof:lastmodified": 1721062342,
     "wof:name": "UA2858 (YUL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

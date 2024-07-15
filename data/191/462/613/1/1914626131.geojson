@@ -2,10 +2,12 @@
   "id": 1914626131,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-15",
+    "date:cessation_upper": "2024-07-15",
     "date:inception_lower": "2024-07-14",
     "date:inception_upper": "2024-07-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-14",
+    "edtf:cessation": "2024-07-15T00:11:46Z",
+    "edtf:inception": "2024-07-14T12:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "IB",
     "flysfo:date": "2024-07-14",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91984101"
+    },
     "wof:country": "US",
     "wof:created": 1721060140,
     "wof:geomhash": "7a64189ee84e1d057c670ad6a60700c7",
@@ -51,7 +56,7 @@
       1159284511,
       1914564041
     ],
-    "wof:lastmodified": 1721060140,
+    "wof:lastmodified": 1721062329,
     "wof:name": "IB2621 (BCN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

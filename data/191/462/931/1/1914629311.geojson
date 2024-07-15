@@ -2,10 +2,12 @@
   "id": 1914629311,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-15",
+    "date:cessation_upper": "2024-07-15",
     "date:inception_lower": "2024-07-14",
     "date:inception_upper": "2024-07-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-14",
+    "edtf:cessation": "2024-07-15T09:46:00Z",
+    "edtf:inception": "2024-07-14T04:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102530741,
     "sfomuseum:base_flight_id": "20240714-D-AAL-7441",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N707AL",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91970582"
+    },
     "wof:country": "US",
     "wof:created": 1721061256,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1914629311,
     "wof:involves": [
+      1159283849,
+      1528104577,
       102530741,
       102527513,
       1159283813,
-      1914564407,
-      1159283849
+      1914564407
     ],
-    "wof:lastmodified": 1721061256,
+    "wof:lastmodified": 1721062346,
     "wof:name": "AS319 (SFO-BOS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914631429,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-07-14",
-    "date:inception_upper": "2024-07-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-14",
+    "date:cessation_lower": "2024-07-15",
+    "date:cessation_upper": "2024-07-15",
+    "date:inception_lower": "2024-07-15",
+    "date:inception_upper": "2024-07-15",
+    "edtf:cessation": "2024-07-15T10:10:00Z",
+    "edtf:inception": "2024-07-15T06:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -104.324809,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534155,
     "sfomuseum:base_flight_id": "20240714-D-ANZ-2731",
@@ -39,7 +43,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91973436"
+    },
     "wof:country": "US",
     "wof:created": 1721061978,
     "wof:geomhash": "75b67362ad403f806ec665af17b684aa",
@@ -51,13 +61,14 @@
     ],
     "wof:id": 1914631429,
     "wof:involves": [
+      1159283697,
+      1159292085,
       102534155,
       102527513,
       1159285413,
-      1914564301,
-      1159283697
+      1914564301
     ],
-    "wof:lastmodified": 1721061978,
+    "wof:lastmodified": 1721062318,
     "wof:name": "UA1494 (SFO-IND)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

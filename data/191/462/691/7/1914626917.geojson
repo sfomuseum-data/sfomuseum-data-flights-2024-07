@@ -2,10 +2,12 @@
   "id": 1914626917,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-14",
+    "date:cessation_upper": "2024-07-14",
     "date:inception_lower": "2024-07-14",
     "date:inception_upper": "2024-07-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-14",
+    "edtf:cessation": "2024-07-14T14:17:00Z",
+    "edtf:inception": "2024-07-14T12:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2024-07-14",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.7414645,
     "geom:longitude": -113.521581,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531189,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N959WN",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91983547",
+      "swim:gufi": "KD35261100"
+    },
     "wof:country": "US",
     "wof:created": 1721060415,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -49,9 +62,10 @@
       102527513,
       102531189,
       1159285591,
-      1914564353
+      1914564353,
+      1159289869
     ],
-    "wof:lastmodified": 1721060415,
+    "wof:lastmodified": 1721062339,
     "wof:name": "WN1355 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

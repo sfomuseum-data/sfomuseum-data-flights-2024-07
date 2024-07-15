@@ -2,10 +2,12 @@
   "id": 1914627151,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-14",
+    "date:cessation_upper": "2024-07-14",
     "date:inception_lower": "2024-07-14",
     "date:inception_upper": "2024-07-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-14",
+    "edtf:cessation": "2024-07-14T17:38:18Z",
+    "edtf:inception": "2024-07-14T12:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B788",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289995,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240714-A-ANZ-9177",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N27908",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91986128",
+      "swim:gufi": "KW31400100"
+    },
     "wof:country": "US",
     "wof:created": 1721060498,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1914627151,
     "wof:involves": [
+      1159283697,
+      1159289995,
       102527513,
       102528817,
       1159285413,
-      1914564209,
-      1159283697
+      1914564209
     ],
-    "wof:lastmodified": 1721060498,
+    "wof:lastmodified": 1721062340,
     "wof:name": "UA1116 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

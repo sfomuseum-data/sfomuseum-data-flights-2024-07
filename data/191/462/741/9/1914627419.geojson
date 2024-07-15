@@ -2,10 +2,12 @@
   "id": 1914627419,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-15",
+    "date:cessation_upper": "2024-07-15",
     "date:inception_lower": "2024-07-14",
     "date:inception_upper": "2024-07-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-14",
+    "edtf:cessation": "2024-07-15T00:40:00Z",
+    "edtf:inception": "2024-07-14T21:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.006986,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240714-A-ANZ-9116",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N444UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92034644",
+      "swim:gufi": "KH62116100"
+    },
     "wof:country": "US",
     "wof:created": 1721060598,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -55,9 +68,10 @@
       102521851,
       1159285413,
       1914564183,
-      1159283697
+      1159283697,
+      1159292085
     ],
-    "wof:lastmodified": 1721060598,
+    "wof:lastmodified": 1721062342,
     "wof:name": "UA370 (AUS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

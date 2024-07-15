@@ -2,10 +2,12 @@
   "id": 1914628141,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-14",
+    "date:cessation_upper": "2024-07-14",
     "date:inception_lower": "2024-07-14",
     "date:inception_upper": "2024-07-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-14",
+    "edtf:cessation": "2024-07-14T22:16:00Z",
+    "edtf:inception": "2024-07-14T20:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.19416749999999,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "AAL",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:base_flight_id": "20240714-D-BAW-6939",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N342PM",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92023804",
+      "swim:gufi": "KO67771100"
+    },
     "wof:country": "US",
     "wof:created": 1721060854,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1914628141,
     "wof:involves": [
+      1159284021,
+      1159289871,
       102526751,
       102527513,
       1159283849,
-      1914564399,
-      1159284021
+      1914564399
     ],
-    "wof:lastmodified": 1721060854,
+    "wof:lastmodified": 1721062345,
     "wof:name": "AA2124 (SFO-PHX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

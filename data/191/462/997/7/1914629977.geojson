@@ -2,10 +2,12 @@
   "id": 1914629977,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-14",
+    "date:cessation_upper": "2024-07-14",
     "date:inception_lower": "2024-07-14",
     "date:inception_upper": "2024-07-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-14",
+    "edtf:cessation": "2024-07-14T22:31:00Z",
+    "edtf:inception": "2024-07-14T21:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "DAL",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527363,
     "sfomuseum:base_flight_id": "20240714-D-KAL-6743",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N572DT",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92033355",
+      "swim:gufi": "KO71641100"
+    },
     "wof:country": "US",
     "wof:created": 1721061488,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -55,9 +68,10 @@
       102527513,
       1159284261,
       1914564599,
-      1159284625
+      1159284625,
+      1377564297
     ],
-    "wof:lastmodified": 1721061488,
+    "wof:lastmodified": 1721062336,
     "wof:name": "DL902 (SFO-SLC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

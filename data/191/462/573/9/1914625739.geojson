@@ -2,10 +2,12 @@
   "id": 1914625739,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-14",
+    "date:cessation_upper": "2024-07-14",
     "date:inception_lower": "2024-07-14",
     "date:inception_upper": "2024-07-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-14",
+    "edtf:cessation": "2024-07-14T19:31:30Z",
+    "edtf:inception": "2024-07-14T08:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "LH",
     "flysfo:base_airline": "",
@@ -40,6 +42,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "91974972"
+    },
     "wof:country": "US",
     "wof:created": 1721059999,
     "wof:geomhash": "ec6660f1f317e7fe021c7c410168f722",
@@ -57,7 +62,7 @@
       1914564095,
       1159283697
     ],
-    "wof:lastmodified": 1721059999,
+    "wof:lastmodified": 1721062326,
     "wof:name": "LH454 (FRA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914631423,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-14",
+    "date:cessation_upper": "2024-07-14",
     "date:inception_lower": "2024-07-14",
     "date:inception_upper": "2024-07-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-14",
+    "edtf:cessation": "2024-07-14T23:27:00Z",
+    "edtf:inception": "2024-07-14T18:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528817,
     "sfomuseum:base_flight_id": "20240714-D-ANZ-9167",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N27515",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92018933",
+      "swim:gufi": "KO55573100"
+    },
     "wof:country": "US",
     "wof:created": 1721061976,
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
@@ -55,9 +68,10 @@
       102527513,
       1159285413,
       1914564225,
-      1159283697
+      1159283697,
+      1528104577
     ],
-    "wof:lastmodified": 1721061976,
+    "wof:lastmodified": 1721062318,
     "wof:name": "UA1449 (SFO-IAD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

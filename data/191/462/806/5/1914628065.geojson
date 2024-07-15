@@ -2,10 +2,12 @@
   "id": 1914628065,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-14",
+    "date:cessation_upper": "2024-07-14",
     "date:inception_lower": "2024-07-14",
     "date:inception_upper": "2024-07-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-14",
+    "edtf:cessation": "2024-07-14T20:34:19Z",
+    "edtf:inception": "2024-07-14T17:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.9778475,
     "iata:airline": "WS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "WJA",
     "icao:base_airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285523,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240714-A-DAL-7207",
@@ -39,7 +43,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92014542"
+    },
     "wof:country": "US",
     "wof:created": 1721060823,
     "wof:geomhash": "5251ebd94a7bdc5872b19729ff2a2674",
@@ -51,13 +62,14 @@
     ],
     "wof:id": 1914628065,
     "wof:involves": [
-      102527513,
       102554473,
       1159285523,
       1914564381,
-      1159284261
+      1159284261,
+      1159289871,
+      102527513
     ],
-    "wof:lastmodified": 1721060823,
+    "wof:lastmodified": 1721062345,
     "wof:name": "WS1030 (YEG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
