@@ -1,0 +1,72 @@
+{
+  "id": 1914639185,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-07-15",
+    "date:inception_upper": "2024-07-15",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-15",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2024-07-15",
+    "flysfo:estimated_timestamp": 1721104440,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "DL635",
+    "flysfo:gate": "C7",
+    "flysfo:journey": "SFO-ATL",
+    "flysfo:scheduled_timestamp": 1721103840,
+    "flysfo:timestamp": 1721104440,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,33.636518,-84.430686,37.617990",
+    "geom:latitude": 35.627254,
+    "geom:longitude": -103.4008145,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102526927,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20240715-D-DAL-635",
+    "sfomuseum:flight_number": [
+      "DAL635",
+      "DL635"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1721147856,
+    "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1914639185,
+        "flight_id": 1914639185
+      }
+    ],
+    "wof:id": 1914639185,
+    "wof:involves": [
+      102526927,
+      102527513,
+      1159284261,
+      1914564595
+    ],
+    "wof:lastmodified": 1721147856,
+    "wof:name": "DL635 (SFO-ATL)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2024-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    33.636518,
+    -84.430686,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-84.430686,33.636518]],"type":"MultiPoint"}
+}

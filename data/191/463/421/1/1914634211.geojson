@@ -1,0 +1,78 @@
+{
+  "id": 1914634211,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-07-15",
+    "date:inception_upper": "2024-07-15",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-15",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "NZ",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "9386",
+    "flysfo:date": "2024-07-15",
+    "flysfo:estimated_timestamp": 1721060220,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "NZ9386",
+    "flysfo:gate": "D4",
+    "flysfo:journey": "BNA-SFO",
+    "flysfo:scheduled_timestamp": 1721061780,
+    "flysfo:timestamp": 1721061780,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,36.126387,-86.676652,37.617990",
+    "geom:latitude": 36.8721885,
+    "geom:longitude": -104.5237975,
+    "iata:airline": "NZ",
+    "iata:base_airline": "",
+    "icao:airline": "ANZ",
+    "icao:base_airline": "ANZ",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283697,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:base_flight_id": "20240715-A-ANZ-9386",
+    "sfomuseum:departure_id": 102525035,
+    "sfomuseum:flight_id": "20240715-A-ANZ-9386",
+    "sfomuseum:flight_number": [
+      "ANZ9386",
+      "NZ9386"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1721146103,
+    "wof:geomhash": "462e561a68f133085fb895c49eddc748",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1914634211,
+        "flight_id": 1914634211
+      }
+    ],
+    "wof:id": 1914634211,
+    "wof:involves": [
+      102527513,
+      102525035,
+      1159283697,
+      1914564497,
+      1159283697
+    ],
+    "wof:lastmodified": 1721146103,
+    "wof:name": "NZ9386 (BNA-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2024-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    36.126387,
+    -86.676652,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-86.676652,36.126387],[-122.370943,37.61799]],"type":"MultiPoint"}
+}

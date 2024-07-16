@@ -1,0 +1,78 @@
+{
+  "id": 1914633719,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-07-15",
+    "date:inception_upper": "2024-07-15",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-15",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AC",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "6103",
+    "flysfo:date": "2024-07-15",
+    "flysfo:estimated_timestamp": 1721072760,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AC6103",
+    "flysfo:gate": "G9",
+    "flysfo:journey": "AKL-SFO",
+    "flysfo:scheduled_timestamp": 1721073000,
+    "flysfo:timestamp": 1721073000,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,-37.005501,174.788678,37.617990",
+    "geom:latitude": 0.30624449999999825,
+    "geom:longitude": 26.208867500000004,
+    "iata:airline": "AC",
+    "iata:base_airline": "",
+    "icao:airline": "ACA",
+    "icao:base_airline": "ACA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283597,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:base_flight_id": "20240715-A-ACA-6103",
+    "sfomuseum:departure_id": 102552389,
+    "sfomuseum:flight_id": "20240715-A-ACA-6103",
+    "sfomuseum:flight_number": [
+      "ACA6103",
+      "AC6103"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1721145927,
+    "wof:geomhash": "07839d38a937070012f963bfe77eb5da",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1914633719,
+        "flight_id": 1914633719
+      }
+    ],
+    "wof:id": 1914633719,
+    "wof:involves": [
+      102527513,
+      102552389,
+      1159283597,
+      1914564131,
+      1159283597
+    ],
+    "wof:lastmodified": 1721145927,
+    "wof:name": "AC6103 (AKL-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2024-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    -37.005501,
+    174.788678,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[174.788678,-37.005501],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
