@@ -2,10 +2,12 @@
   "id": 1914638709,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-07-15",
-    "date:inception_upper": "2024-07-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-15",
+    "date:cessation_lower": "2024-07-16",
+    "date:cessation_upper": "2024-07-16",
+    "date:inception_lower": "2024-07-16",
+    "date:inception_upper": "2024-07-16",
+    "edtf:cessation": "2024-07-16T03:40:46Z",
+    "edtf:inception": "2024-07-16T02:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:base_flight_id": "20240715-D-AAL-7560",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N514AS",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92059141",
+      "swim:gufi": "KO04692201"
+    },
     "wof:country": "US",
     "wof:created": 1721147691,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1914638709,
     "wof:involves": [
+      1159283849,
+      1159289871,
       102527209,
       102527513,
       1159283813,
-      1914564389,
-      1159283849
+      1914564389
     ],
-    "wof:lastmodified": 1721147691,
+    "wof:lastmodified": 1721148708,
     "wof:name": "AS740 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

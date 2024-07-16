@@ -2,10 +2,12 @@
   "id": 1914635101,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-15",
+    "date:cessation_upper": "2024-07-15",
     "date:inception_lower": "2024-07-15",
     "date:inception_upper": "2024-07-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-15",
+    "edtf:cessation": "2024-07-15T19:25:00Z",
+    "edtf:inception": "2024-07-15T17:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240715-A-AFR-2252",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N521DT",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92110402",
+      "swim:gufi": "KU60061200"
+    },
     "wof:country": "US",
     "wof:created": 1721146420,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -55,9 +68,10 @@
       102527363,
       1159284261,
       1914564583,
-      1159283627
+      1159283627,
+      1377564297
     ],
-    "wof:lastmodified": 1721146420,
+    "wof:lastmodified": 1721148712,
     "wof:name": "DL902 (SLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

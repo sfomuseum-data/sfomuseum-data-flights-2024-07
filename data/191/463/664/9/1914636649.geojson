@@ -2,10 +2,12 @@
   "id": 1914636649,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-15",
+    "date:cessation_upper": "2024-07-15",
     "date:inception_lower": "2024-07-15",
     "date:inception_upper": "2024-07-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-15",
+    "edtf:cessation": "2024-07-15T16:13:26Z",
+    "edtf:inception": "2024-07-15T12:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -104.5237975,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240715-A-ANZ-9386",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N68823",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92078943",
+      "swim:gufi": "KM33158200"
+    },
     "wof:country": "US",
     "wof:created": 1721146966,
     "wof:geomhash": "462e561a68f133085fb895c49eddc748",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1914636649,
     "wof:involves": [
+      1159283697,
+      1377564285,
       102527513,
       102525035,
       1159285413,
-      1914564497,
-      1159283697
+      1914564497
     ],
-    "wof:lastmodified": 1721146966,
+    "wof:lastmodified": 1721148701,
     "wof:name": "UA2669 (BNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

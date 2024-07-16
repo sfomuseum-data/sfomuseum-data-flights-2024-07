@@ -2,10 +2,12 @@
   "id": 1914637457,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-16",
+    "date:cessation_upper": "2024-07-16",
     "date:inception_lower": "2024-07-15",
     "date:inception_upper": "2024-07-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-15",
+    "edtf:cessation": "2024-07-16T01:57:00Z",
+    "edtf:inception": "2024-07-15T20:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102534365,
     "sfomuseum:base_flight_id": "20240715-D-BAW-5604",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N102NN",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92127074",
+      "swim:gufi": "KO68942200"
+    },
     "wof:country": "US",
     "wof:created": 1721147251,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1914637457,
     "wof:involves": [
-      102534365,
-      102527513,
       1159283849,
       1914564443,
-      1159284021
+      1159284021,
+      1159289411,
+      102534365,
+      102527513
     ],
-    "wof:lastmodified": 1721147251,
+    "wof:lastmodified": 1721148704,
     "wof:name": "AA675 (SFO-JFK)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

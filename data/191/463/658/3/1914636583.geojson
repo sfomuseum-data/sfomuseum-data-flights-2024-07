@@ -2,10 +2,12 @@
   "id": 1914636583,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-15",
+    "date:cessation_upper": "2024-07-15",
     "date:inception_lower": "2024-07-15",
     "date:inception_upper": "2024-07-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-15",
+    "edtf:cessation": "2024-07-15T17:09:44Z",
+    "edtf:inception": "2024-07-15T14:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.1959315,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240715-A-ANZ-9883",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92086445",
+      "swim:gufi": "KS46565200"
+    },
     "wof:country": "US",
     "wof:created": 1721146943,
     "wof:geomhash": "4b8d850891e12dfac0a460ee51cd363b",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1914636583,
     "wof:involves": [
+      1914564517,
+      1159283697,
+      1159292085,
       102527513,
       102554947,
-      1159285413,
-      1914564517,
-      1159283697
+      1159285413
     ],
-    "wof:lastmodified": 1721146943,
+    "wof:lastmodified": 1721148701,
     "wof:name": "UA222 (YYC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

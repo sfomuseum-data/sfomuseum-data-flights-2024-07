@@ -2,10 +2,12 @@
   "id": 1914641121,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-16",
+    "date:cessation_upper": "2024-07-16",
     "date:inception_lower": "2024-07-15",
     "date:inception_upper": "2024-07-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-15",
+    "edtf:cessation": "2024-07-16T07:51:11Z",
+    "edtf:inception": "2024-07-15T22:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -58.794018,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102542801,
     "sfomuseum:base_flight_id": "20240715-D-DLH-8730",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N792UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92137234",
+      "swim:gufi": "KO64819200"
+    },
     "wof:country": "US",
     "wof:created": 1721148525,
     "wof:geomhash": "b03e5f5c78933bb0f626aa81ed57f330",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1914641121,
     "wof:involves": [
-      102542801,
-      102527513,
       1159285413,
       1914564085,
-      1159286015
+      1159286015,
+      1159289985,
+      102542801,
+      102527513
     ],
-    "wof:lastmodified": 1721148525,
+    "wof:lastmodified": 1721148696,
     "wof:name": "UA968 (SFO-AMS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

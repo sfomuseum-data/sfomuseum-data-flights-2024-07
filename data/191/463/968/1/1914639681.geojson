@@ -2,10 +2,12 @@
   "id": 1914639681,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-16",
+    "date:cessation_upper": "2024-07-16",
     "date:inception_lower": "2024-07-15",
     "date:inception_upper": "2024-07-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-15",
+    "edtf:cessation": "2024-07-16T10:10:06Z",
+    "edtf:inception": "2024-07-15T22:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AZ",
     "flysfo:date": "2024-07-15",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92220572"
+    },
     "wof:country": "US",
     "wof:created": 1721148026,
     "wof:geomhash": "033526ec5f586bb6dd7c4e05cd770e88",
@@ -51,7 +56,7 @@
       1763699293,
       1914564049
     ],
-    "wof:lastmodified": 1721148026,
+    "wof:lastmodified": 1721148720,
     "wof:name": "AZ641 (SFO-FCO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

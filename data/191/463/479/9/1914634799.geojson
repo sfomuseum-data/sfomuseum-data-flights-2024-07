@@ -2,10 +2,12 @@
   "id": 1914634799,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-15",
+    "date:cessation_upper": "2024-07-15",
     "date:inception_lower": "2024-07-15",
     "date:inception_upper": "2024-07-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-15",
+    "edtf:cessation": "2024-07-15T21:19:55Z",
+    "edtf:inception": "2024-07-15T10:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DE",
     "flysfo:base_airline": "",
@@ -40,6 +42,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92072572"
+    },
     "wof:country": "US",
     "wof:created": 1721146312,
     "wof:geomhash": "ec6660f1f317e7fe021c7c410168f722",
@@ -57,7 +62,7 @@
       1914564053,
       1159283813
     ],
-    "wof:lastmodified": 1721146312,
+    "wof:lastmodified": 1721148699,
     "wof:name": "DE2092 (FRA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914640705,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-15",
+    "date:cessation_upper": "2024-07-15",
     "date:inception_lower": "2024-07-15",
     "date:inception_upper": "2024-07-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-15",
+    "edtf:cessation": "2024-07-15T23:03:41Z",
+    "edtf:inception": "2024-07-15T21:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102555307,
     "sfomuseum:base_flight_id": "20240715-D-ANA-7394",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N13248",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92132374",
+      "swim:gufi": "KO62205200"
+    },
     "wof:country": "US",
     "wof:created": 1721148382,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -55,9 +68,10 @@
       102527513,
       1159285413,
       1914564305,
-      1159283875
+      1159283875,
+      1159289871
     ],
-    "wof:lastmodified": 1721148382,
+    "wof:lastmodified": 1721148693,
     "wof:name": "UA204 (SFO-YVR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
