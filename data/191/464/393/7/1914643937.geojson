@@ -1,0 +1,78 @@
+{
+  "id": 1914643937,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-07-16",
+    "date:inception_upper": "2024-07-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "CZ",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "1065",
+    "flysfo:date": "2024-07-16",
+    "flysfo:estimated_timestamp": 1721186760,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "CZ1065",
+    "flysfo:gate": "C3",
+    "flysfo:journey": "MSP-SFO",
+    "flysfo:scheduled_timestamp": 1721186760,
+    "flysfo:timestamp": 1721186760,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-93.200317,44.883321",
+    "geom:latitude": 41.2506555,
+    "geom:longitude": -107.78563,
+    "iata:airline": "CZ",
+    "iata:base_airline": "",
+    "icao:airline": "CSN",
+    "icao:base_airline": "CSN",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284165,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:base_flight_id": "20240716-A-CSN-1065",
+    "sfomuseum:departure_id": 102531131,
+    "sfomuseum:flight_id": "20240716-A-CSN-1065",
+    "sfomuseum:flight_number": [
+      "CSN1065",
+      "CZ1065"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1721232701,
+    "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1914643937,
+        "flight_id": 1914643937
+      }
+    ],
+    "wof:id": 1914643937,
+    "wof:involves": [
+      102527513,
+      102531131,
+      1159284165,
+      1914564603,
+      1159284165
+    ],
+    "wof:lastmodified": 1721232701,
+    "wof:name": "CZ1065 (MSP-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2024-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -93.200317,
+    44.883321
+  ],
+  "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
