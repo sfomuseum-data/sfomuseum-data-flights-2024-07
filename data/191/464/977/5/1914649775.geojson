@@ -2,10 +2,12 @@
   "id": 1914649775,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-16",
+    "date:cessation_upper": "2024-07-16",
     "date:inception_lower": "2024-07-16",
     "date:inception_upper": "2024-07-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-16",
+    "edtf:cessation": "2024-07-16T22:03:00Z",
+    "edtf:inception": "2024-07-16T18:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.7258735,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102536579,
     "sfomuseum:base_flight_id": "20240716-D-ANZ-9821",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N421UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92213193",
+      "swim:gufi": "KO54188300"
+    },
     "wof:country": "US",
     "wof:created": 1721234557,
     "wof:geomhash": "01999c4327be8e36df88ffd5cda77111",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1914649775,
     "wof:involves": [
+      1159283697,
+      1159292085,
       102536579,
       102527513,
       1159285413,
-      1914564221,
-      1159283697
+      1914564221
     ],
-    "wof:lastmodified": 1721234557,
+    "wof:lastmodified": 1721234903,
     "wof:name": "UA1271 (SFO-MEX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914645773,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-16",
+    "date:cessation_upper": "2024-07-16",
     "date:inception_lower": "2024-07-16",
     "date:inception_upper": "2024-07-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-16",
+    "edtf:cessation": "2024-07-16T16:37:00Z",
+    "edtf:inception": "2024-07-16T11:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.5210065,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240716-A-ANA-7365",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N76254",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92175713",
+      "swim:gufi": "KW36545300"
+    },
     "wof:country": "US",
     "wof:created": 1721233282,
     "wof:geomhash": "10c01f207ef95eecc919066d165ec5eb",
@@ -55,9 +68,10 @@
       102532047,
       1159285413,
       1914564523,
-      1159283875
+      1159283875,
+      1159289871
     ],
-    "wof:lastmodified": 1721233282,
+    "wof:lastmodified": 1721234909,
     "wof:name": "UA281 (BWI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

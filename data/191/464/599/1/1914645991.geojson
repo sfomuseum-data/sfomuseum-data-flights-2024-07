@@ -2,10 +2,12 @@
   "id": 1914645991,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-16",
+    "date:cessation_upper": "2024-07-16",
     "date:inception_lower": "2024-07-16",
     "date:inception_upper": "2024-07-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-16",
+    "edtf:cessation": "2024-07-16T16:13:11Z",
+    "edtf:inception": "2024-07-16T11:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-07-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.8087165,
     "geom:longitude": -102.62808,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532255,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N444UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92176994",
+      "swim:gufi": "KI31942300"
+    },
     "wof:country": "US",
     "wof:created": 1721233353,
     "wof:geomhash": "980d68d8d28509c0742a6b2a7abf5f67",
@@ -46,12 +59,13 @@
     ],
     "wof:id": 1914645991,
     "wof:involves": [
-      102527513,
-      102532255,
       1159285413,
-      1914564317
+      1914564317,
+      1159292085,
+      102527513,
+      102532255
     ],
-    "wof:lastmodified": 1721233353,
+    "wof:lastmodified": 1721234909,
     "wof:name": "UA716 (CMH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

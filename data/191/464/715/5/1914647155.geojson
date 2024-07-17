@@ -2,10 +2,12 @@
   "id": 1914647155,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-16",
+    "date:cessation_upper": "2024-07-16",
     "date:inception_lower": "2024-07-16",
     "date:inception_upper": "2024-07-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-16",
+    "edtf:cessation": "2024-07-16T23:19:38Z",
+    "edtf:inception": "2024-07-16T19:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -112.83645849999999,
     "iata:airline": "AM",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "AMX",
     "icao:base_airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283539,
     "sfomuseum:arrival_id": 102536387,
     "sfomuseum:base_flight_id": "20240716-D-DAL-9123",
@@ -39,7 +43,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "XAAMK",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92225614"
+    },
     "wof:country": "US",
     "wof:created": 1721233732,
     "wof:geomhash": "c9806dbd281b9c6ccae24134b59a20cd",
@@ -51,13 +62,14 @@
     ],
     "wof:id": 1914647155,
     "wof:involves": [
+      1159284261,
+      1159289871,
       102536387,
       102527513,
       1159283539,
-      1914564031,
-      1159284261
+      1914564031
     ],
-    "wof:lastmodified": 1721233732,
+    "wof:lastmodified": 1721234896,
     "wof:name": "AM623 (SFO-GDL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

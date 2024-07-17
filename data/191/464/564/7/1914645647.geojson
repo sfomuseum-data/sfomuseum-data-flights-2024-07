@@ -2,10 +2,12 @@
   "id": 1914645647,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-17",
+    "date:cessation_upper": "2024-07-17",
     "date:inception_lower": "2024-07-16",
     "date:inception_upper": "2024-07-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-16",
+    "edtf:cessation": "2024-07-17T02:38:00Z",
+    "edtf:inception": "2024-07-16T21:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240716-A-ANZ-9154",
@@ -39,7 +43,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92238483",
+      "swim:gufi": "KO04291400"
+    },
     "wof:country": "US",
     "wof:created": 1721233245,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -51,13 +62,14 @@
     ],
     "wof:id": 1914645647,
     "wof:involves": [
-      102527513,
-      102533997,
       1159285413,
       1914564289,
-      1159283697
+      1159283697,
+      1528104577,
+      102527513,
+      102533997
     ],
-    "wof:lastmodified": 1721233245,
+    "wof:lastmodified": 1721234892,
     "wof:name": "UA1947 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

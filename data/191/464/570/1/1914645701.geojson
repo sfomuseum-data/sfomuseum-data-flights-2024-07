@@ -2,10 +2,12 @@
   "id": 1914645701,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-16",
+    "date:cessation_upper": "2024-07-16",
     "date:inception_lower": "2024-07-16",
     "date:inception_upper": "2024-07-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-16",
+    "edtf:cessation": "2024-07-16T22:16:00Z",
+    "edtf:inception": "2024-07-16T21:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240716-A-ANZ-9279",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N77536",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92234274",
+      "swim:gufi": "KL63562300"
+    },
     "wof:country": "US",
     "wof:created": 1721233261,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1914645701,
     "wof:involves": [
-      102527513,
       102533795,
       1159285413,
       1914564317,
-      1159283697
+      1159283697,
+      1159289871,
+      102527513
     ],
-    "wof:lastmodified": 1721233261,
+    "wof:lastmodified": 1721234909,
     "wof:name": "UA2234 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
