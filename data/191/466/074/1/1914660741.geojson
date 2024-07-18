@@ -1,0 +1,78 @@
+{
+  "id": 1914660741,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-07-17",
+    "date:inception_upper": "2024-07-17",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-17",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "PD",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "7691",
+    "flysfo:date": "2024-07-17",
+    "flysfo:estimated_timestamp": 1721223120,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "PD674",
+    "flysfo:gate": "B4",
+    "flysfo:journey": "SFO-YUL",
+    "flysfo:scheduled_timestamp": 1721222100,
+    "flysfo:timestamp": 1721223120,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-73.744749,45.462004",
+    "geom:latitude": 41.539997,
+    "geom:longitude": -98.057846,
+    "iata:airline": "PD",
+    "iata:base_airline": "",
+    "icao:airline": "POE",
+    "icao:base_airline": "TSC",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1880585295,
+    "sfomuseum:arrival_id": 102554351,
+    "sfomuseum:base_flight_id": "20240717-D-TSC-7691",
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20240717-D-POE-674",
+    "sfomuseum:flight_number": [
+      "POE674",
+      "PD674"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1721321594,
+    "wof:geomhash": "60b8ec845b4af47518c8aaafc3d98633",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1914660741,
+        "flight_id": 1914660741
+      }
+    ],
+    "wof:id": 1914660741,
+    "wof:involves": [
+      102554351,
+      102527513,
+      1880585295,
+      1914564423,
+      1159283753
+    ],
+    "wof:lastmodified": 1721321594,
+    "wof:name": "PD674 (SFO-YUL)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2024-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -73.744749,
+    45.462004
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-73.744749,45.462004]],"type":"MultiPoint"}
+}

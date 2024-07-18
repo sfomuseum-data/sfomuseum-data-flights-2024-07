@@ -1,0 +1,78 @@
+{
+  "id": 1914662021,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-07-17",
+    "date:inception_upper": "2024-07-17",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-17",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "VA",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "8002",
+    "flysfo:date": "2024-07-17",
+    "flysfo:estimated_timestamp": 1721287980,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "VA8002",
+    "flysfo:gate": "G4",
+    "flysfo:journey": "SFO-MEL",
+    "flysfo:scheduled_timestamp": 1721283900,
+    "flysfo:timestamp": 1721287980,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,-37.668253,144.843764,37.617990",
+    "geom:latitude": -0.02513150000000053,
+    "geom:longitude": 11.236410499999998,
+    "iata:airline": "VA",
+    "iata:base_airline": "",
+    "icao:airline": "VOZ",
+    "icao:base_airline": "VOZ",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285485,
+    "sfomuseum:arrival_id": 102557779,
+    "sfomuseum:base_flight_id": "20240717-D-VOZ-8002",
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20240717-D-VOZ-8002",
+    "sfomuseum:flight_number": [
+      "VOZ8002",
+      "VA8002"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1721321975,
+    "wof:geomhash": "945559894ecf54761855aac48d7d95c2",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1914662021,
+        "flight_id": 1914662021
+      }
+    ],
+    "wof:id": 1914662021,
+    "wof:involves": [
+      102557779,
+      102527513,
+      1159285485,
+      1914564109,
+      1159285485
+    ],
+    "wof:lastmodified": 1721321975,
+    "wof:name": "VA8002 (SFO-MEL)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2024-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    -37.668253,
+    144.843764,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[144.843764,-37.668253]],"type":"MultiPoint"}
+}
