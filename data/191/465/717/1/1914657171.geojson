@@ -2,10 +2,12 @@
   "id": 1914657171,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-17",
+    "date:cessation_upper": "2024-07-17",
     "date:inception_lower": "2024-07-17",
     "date:inception_upper": "2024-07-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-17",
+    "edtf:cessation": "2024-07-17T17:36:00Z",
+    "edtf:inception": "2024-07-17T14:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -107.78563,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "AAR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240717-A-AAR-6312",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N429UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92282468",
+      "swim:gufi": "KP40123400"
+    },
     "wof:country": "US",
     "wof:created": 1721320529,
     "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1914657171,
     "wof:involves": [
-      102527513,
       102531131,
       1159285413,
       1914564261,
-      1159283917
+      1159283917,
+      1159292085,
+      102527513
     ],
-    "wof:lastmodified": 1721320529,
+    "wof:lastmodified": 1721322110,
     "wof:name": "UA1398 (MSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914658757,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-17",
+    "date:cessation_upper": "2024-07-17",
     "date:inception_lower": "2024-07-17",
     "date:inception_upper": "2024-07-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-17",
+    "edtf:cessation": "2024-07-17T10:26:28Z",
+    "edtf:inception": "2024-07-17T06:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:base_airline": "",
@@ -40,6 +42,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92268946"
+    },
     "wof:country": "US",
     "wof:created": 1721321008,
     "wof:geomhash": "01999c4327be8e36df88ffd5cda77111",
@@ -57,7 +62,7 @@
       1914564031,
       1159284261
     ],
-    "wof:lastmodified": 1721321008,
+    "wof:lastmodified": 1721322112,
     "wof:name": "AM665 (SFO-MEX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914661707,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-17",
+    "date:cessation_upper": "2024-07-17",
     "date:inception_lower": "2024-07-17",
     "date:inception_upper": "2024-07-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-17",
+    "edtf:cessation": "2024-07-17T07:12:00Z",
+    "edtf:inception": "2024-07-17T06:06:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.79198650000001,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "AVA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533927,
     "sfomuseum:base_flight_id": "20240717-D-AVA-2068",
@@ -39,7 +43,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
+    "swim:tail_number": "N444UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92268050"
+    },
     "wof:country": "US",
     "wof:created": 1721321883,
     "wof:geomhash": "ac29143dee46faf8dc4d82fa5cfc7601",
@@ -51,13 +62,14 @@
     ],
     "wof:id": 1914661707,
     "wof:involves": [
+      1159285749,
+      1159292085,
       102533927,
       102527513,
       1159285413,
-      1914564229,
-      1159285749
+      1914564229
     ],
-    "wof:lastmodified": 1721321883,
+    "wof:lastmodified": 1721322103,
     "wof:name": "UA519 (SFO-EUG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

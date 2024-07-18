@@ -2,10 +2,12 @@
   "id": 1914657265,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-17",
+    "date:cessation_upper": "2024-07-17",
     "date:inception_lower": "2024-07-17",
     "date:inception_upper": "2024-07-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-17",
+    "edtf:cessation": "2024-07-17T20:55:42Z",
+    "edtf:inception": "2024-07-17T10:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -55.2970675,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240717-A-DLH-7995",
@@ -39,7 +43,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
+    "swim:tail_number": "N225UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92274214"
+    },
     "wof:country": "US",
     "wof:created": 1721320557,
     "wof:geomhash": "eba9741d16611c9af3d962416d546de7",
@@ -51,13 +62,14 @@
     ],
     "wof:id": 1914657265,
     "wof:involves": [
-      102527513,
-      102549067,
       1159285413,
       1914564131,
-      1159286015
+      1159286015,
+      1159289985,
+      102527513,
+      102549067
     ],
-    "wof:lastmodified": 1721320557,
+    "wof:lastmodified": 1721322117,
     "wof:name": "UA195 (MUC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

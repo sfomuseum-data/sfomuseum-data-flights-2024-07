@@ -2,10 +2,12 @@
   "id": 1914657249,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-17",
+    "date:cessation_upper": "2024-07-17",
     "date:inception_lower": "2024-07-17",
     "date:inception_upper": "2024-07-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-17",
+    "edtf:cessation": "2024-07-17T21:44:00Z",
+    "edtf:inception": "2024-07-17T20:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.778435,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240717-A-ANZ-9598",
@@ -39,7 +43,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
+    "swim:tail_number": "N47282",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92332890"
+    },
     "wof:country": "US",
     "wof:created": 1721320552,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
@@ -55,9 +66,10 @@
       102528997,
       1159285413,
       1914564311,
-      1159283697
+      1159283697,
+      1528104575
     ],
-    "wof:lastmodified": 1721320552,
+    "wof:lastmodified": 1721322117,
     "wof:name": "UA1888 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

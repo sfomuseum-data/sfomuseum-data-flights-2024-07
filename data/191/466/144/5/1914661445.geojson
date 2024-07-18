@@ -2,10 +2,12 @@
   "id": 1914661445,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-17",
+    "date:cessation_upper": "2024-07-17",
     "date:inception_lower": "2024-07-17",
     "date:inception_upper": "2024-07-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-17",
+    "edtf:cessation": "2024-07-17T19:20:00Z",
+    "edtf:inception": "2024-07-17T18:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.97934599999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533575,
     "sfomuseum:base_flight_id": "20240717-D-ACA-4014",
@@ -39,7 +43,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92316240",
+      "swim:gufi": "KO51021400"
+    },
     "wof:country": "US",
     "wof:created": 1721321804,
     "wof:geomhash": "ec8e91229a6790516c63cb7081c35777",
@@ -51,13 +62,14 @@
     ],
     "wof:id": 1914661445,
     "wof:involves": [
+      1159289871,
       102533575,
       102527513,
       1159285413,
       1914564549,
       1159283597
     ],
-    "wof:lastmodified": 1721321804,
+    "wof:lastmodified": 1721322101,
     "wof:name": "UA1610 (SFO-ONT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

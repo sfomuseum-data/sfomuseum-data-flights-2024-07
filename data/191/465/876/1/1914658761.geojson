@@ -2,10 +2,12 @@
   "id": 1914658761,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-17",
+    "date:cessation_upper": "2024-07-17",
     "date:inception_lower": "2024-07-17",
     "date:inception_upper": "2024-07-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-17",
+    "edtf:cessation": "2024-07-17T18:12:14Z",
+    "edtf:inception": "2024-07-17T14:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.7258735,
     "iata:airline": "AM",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "AMX",
     "icao:base_airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283539,
     "sfomuseum:arrival_id": 102536579,
     "sfomuseum:base_flight_id": "20240717-D-DAL-8040",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "XAAMU",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92293693"
+    },
     "wof:country": "US",
     "wof:created": 1721321009,
     "wof:geomhash": "01999c4327be8e36df88ffd5cda77111",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1914658761,
     "wof:involves": [
+      1914564031,
+      1159284261,
+      1159289871,
       102536579,
       102527513,
-      1159283539,
-      1914564031,
-      1159284261
+      1159283539
     ],
-    "wof:lastmodified": 1721321009,
+    "wof:lastmodified": 1721322122,
     "wof:name": "AM699 (SFO-MEX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
