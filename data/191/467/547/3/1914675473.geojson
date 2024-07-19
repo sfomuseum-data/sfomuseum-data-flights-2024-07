@@ -1,0 +1,78 @@
+{
+  "id": 1914675473,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-07-18",
+    "date:inception_upper": "2024-07-18",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-18",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "2925",
+    "flysfo:date": "2024-07-18",
+    "flysfo:estimated_timestamp": 1721381400,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA1637",
+    "flysfo:gate": "E12",
+    "flysfo:journey": "SFO-MIA",
+    "flysfo:scheduled_timestamp": 1721369400,
+    "flysfo:timestamp": 1721381400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,25.790470,-80.296006,37.617990",
+    "geom:latitude": 31.70423,
+    "geom:longitude": -101.3334745,
+    "iata:airline": "UA",
+    "iata:base_airline": "",
+    "icao:airline": "UAL",
+    "icao:base_airline": "ANZ",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102531023,
+    "sfomuseum:base_flight_id": "20240718-D-ANZ-2925",
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20240718-D-UAL-1637",
+    "sfomuseum:flight_number": [
+      "UAL1637",
+      "UA1637"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1721408199,
+    "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1914675473,
+        "flight_id": 1914675473
+      }
+    ],
+    "wof:id": 1914675473,
+    "wof:involves": [
+      102531023,
+      102527513,
+      1159285413,
+      1914564297,
+      1159283697
+    ],
+    "wof:lastmodified": 1721408199,
+    "wof:name": "UA1637 (SFO-MIA)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2024-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    25.79047,
+    -80.296006,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-80.296006,25.79047]],"type":"MultiPoint"}
+}
