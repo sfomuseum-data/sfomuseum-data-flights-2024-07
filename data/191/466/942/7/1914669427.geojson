@@ -2,10 +2,12 @@
   "id": 1914669427,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-19",
+    "date:cessation_upper": "2024-07-19",
     "date:inception_lower": "2024-07-18",
     "date:inception_upper": "2024-07-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-18",
+    "edtf:cessation": "2024-07-19T06:13:00Z",
+    "edtf:inception": "2024-07-18T23:18:31Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CM",
     "flysfo:base_airline": "",
@@ -40,6 +42,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92456858"
+    },
     "wof:country": "US",
     "wof:created": 1721405699,
     "wof:geomhash": "a24fa29091ad40e8c2dcacd18340610c",
@@ -57,7 +62,7 @@
       1914564009,
       1159285413
     ],
-    "wof:lastmodified": 1721405699,
+    "wof:lastmodified": 1721408603,
     "wof:name": "CM382 (PTY-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

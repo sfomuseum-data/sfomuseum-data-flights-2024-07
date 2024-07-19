@@ -2,10 +2,12 @@
   "id": 1914675593,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-19",
+    "date:cessation_upper": "2024-07-19",
     "date:inception_lower": "2024-07-18",
     "date:inception_upper": "2024-07-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-18",
+    "edtf:cessation": "2024-07-19T00:03:00Z",
+    "edtf:inception": "2024-07-18T23:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.07155499999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.618161,
     "lbl:longitude": -122.384735,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102525535,
     "sfomuseum:base_flight_id": "20240718-D-DLH-7740",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N891UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92456878",
+      "swim:gufi": "KO72648500"
+    },
     "wof:country": "US",
     "wof:created": 1721408250,
     "wof:geomhash": "414447526a1ddeb77713c60c4ab5a7e4",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 1914675593,
     "wof:involves": [
+      1159289407,
       102525535,
       102527513,
       1159285413,
       1763588337,
       1159286015
     ],
-    "wof:lastmodified": 1721408250,
+    "wof:lastmodified": 1721408614,
     "wof:name": "UA2334 (SFO-RNO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

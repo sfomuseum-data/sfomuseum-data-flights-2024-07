@@ -2,10 +2,12 @@
   "id": 1914675735,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-19",
+    "date:cessation_upper": "2024-07-19",
     "date:inception_lower": "2024-07-18",
     "date:inception_upper": "2024-07-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-18",
+    "edtf:cessation": "2024-07-19T00:19:00Z",
+    "edtf:inception": "2024-07-18T20:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:base_flight_id": "20240718-D-ANA-7242",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N56859",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92438446",
+      "swim:gufi": "KO60848500"
+    },
     "wof:country": "US",
     "wof:created": 1721408309,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1914675735,
     "wof:involves": [
-      102533631,
-      102527513,
       1159285413,
       1914564179,
-      1159283875
+      1159283875,
+      1159289945,
+      102533631,
+      102527513
     ],
-    "wof:lastmodified": 1721408309,
+    "wof:lastmodified": 1721408622,
     "wof:name": "UA533 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

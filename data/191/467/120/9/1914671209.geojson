@@ -2,10 +2,12 @@
   "id": 1914671209,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-19",
+    "date:cessation_upper": "2024-07-19",
     "date:inception_lower": "2024-07-18",
     "date:inception_upper": "2024-07-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-18",
+    "edtf:cessation": "2024-07-19T00:09:00Z",
+    "edtf:inception": "2024-07-18T23:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240718-A-ANZ-9271",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N421UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92456954",
+      "swim:gufi": "KL80861500"
+    },
     "wof:country": "US",
     "wof:created": 1721406441,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -55,9 +67,10 @@
       102533795,
       1159285413,
       1914564297,
-      1159283697
+      1159283697,
+      1159292085
     ],
-    "wof:lastmodified": 1721406441,
+    "wof:lastmodified": 1721408599,
     "wof:name": "UA2019 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
