@@ -2,10 +2,12 @@
   "id": 1914682457,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-19",
+    "date:cessation_upper": "2024-07-19",
     "date:inception_lower": "2024-07-19",
     "date:inception_upper": "2024-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-19",
+    "edtf:cessation": "2024-07-19T19:59:38Z",
+    "edtf:inception": "2024-07-19T15:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.2742345,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102530049,
     "sfomuseum:base_flight_id": "20240719-D-AAL-7463",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N803AK",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92509240"
+    },
     "wof:country": "US",
     "wof:created": 1721493280,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1914682457,
     "wof:involves": [
+      1159283849,
+      1528104575,
       102530049,
       102527513,
       1159283813,
-      1914564385,
-      1159283849
+      1914564385
     ],
-    "wof:lastmodified": 1721493280,
+    "wof:lastmodified": 1721494360,
     "wof:name": "AS292 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

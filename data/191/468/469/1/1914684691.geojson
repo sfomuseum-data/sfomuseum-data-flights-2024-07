@@ -2,10 +2,12 @@
   "id": 1914684691,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-20",
+    "date:cessation_upper": "2024-07-20",
     "date:inception_lower": "2024-07-19",
     "date:inception_upper": "2024-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-19",
+    "edtf:cessation": "2024-07-20T03:33:00Z",
+    "edtf:inception": "2024-07-19T23:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533997,
     "sfomuseum:base_flight_id": "20240719-D-ANZ-9144",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N773UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92551492",
+      "swim:gufi": "KO73751600"
+    },
     "wof:country": "US",
     "wof:created": 1721494059,
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1914684691,
     "wof:involves": [
-      102533997,
-      102527513,
       1159285413,
       1914564221,
-      1159283697
+      1159283697,
+      1159289985,
+      102533997,
+      102527513
     ],
-    "wof:lastmodified": 1721494059,
+    "wof:lastmodified": 1721494374,
     "wof:name": "UA300 (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

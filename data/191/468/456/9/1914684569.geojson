@@ -2,10 +2,12 @@
   "id": 1914684569,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-19",
+    "date:cessation_upper": "2024-07-19",
     "date:inception_lower": "2024-07-19",
     "date:inception_upper": "2024-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-19",
+    "edtf:cessation": "2024-07-19T16:21:00Z",
+    "edtf:inception": "2024-07-19T13:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.006986,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102521851,
     "sfomuseum:base_flight_id": "20240719-D-ACA-4444",
@@ -39,7 +43,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92480413"
+    },
     "wof:country": "US",
     "wof:created": 1721494019,
     "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
@@ -51,13 +61,14 @@
     ],
     "wof:id": 1914684569,
     "wof:involves": [
+      1528104577,
       102521851,
       102527513,
       1159285413,
       1914564289,
       1159283597
     ],
-    "wof:lastmodified": 1721494019,
+    "wof:lastmodified": 1721494374,
     "wof:name": "UA2070 (SFO-AUS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

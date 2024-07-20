@@ -2,10 +2,12 @@
   "id": 1914680033,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-19",
+    "date:cessation_upper": "2024-07-19",
     "date:inception_lower": "2024-07-19",
     "date:inception_upper": "2024-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-19",
+    "edtf:cessation": "2024-07-19T19:52:46Z",
+    "edtf:inception": "2024-07-19T18:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2024-07-19",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8494965,
     "geom:longitude": -118.7636915,
     "iata:airline": "WN",
+    "icao:aircraft": "B38M",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527209,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N8805L",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92535321",
+      "swim:gufi": "KL55550600"
+    },
     "wof:country": "US",
     "wof:created": 1721492438,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -49,9 +61,10 @@
       102527513,
       102527209,
       1159285591,
-      1914564353
+      1914564353,
+      1528104575
     ],
-    "wof:lastmodified": 1721492438,
+    "wof:lastmodified": 1721494342,
     "wof:name": "WN2313 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914683101,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-07-19",
-    "date:inception_upper": "2024-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-19",
+    "date:cessation_lower": "2024-07-20",
+    "date:cessation_upper": "2024-07-20",
+    "date:inception_lower": "2024-07-20",
+    "date:inception_upper": "2024-07-20",
+    "edtf:cessation": "2024-07-20T06:27:00Z",
+    "edtf:inception": "2024-07-20T02:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2024-07-19",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.627254,
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
+    "icao:aircraft": "B753",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
+    "swim:tail_number": "N593NW",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92562077",
+      "swim:gufi": "KO01452700"
+    },
     "wof:country": "US",
     "wof:created": 1721493504,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -46,12 +58,13 @@
     ],
     "wof:id": 1914683101,
     "wof:involves": [
+      1914564587,
+      1159289945,
       102526927,
       102527513,
-      1159284261,
-      1914564587
+      1159284261
     ],
-    "wof:lastmodified": 1721493504,
+    "wof:lastmodified": 1721494365,
     "wof:name": "DL9845 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

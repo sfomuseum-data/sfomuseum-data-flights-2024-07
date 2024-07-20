@@ -2,10 +2,12 @@
   "id": 1914681237,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-19",
+    "date:cessation_upper": "2024-07-19",
     "date:inception_lower": "2024-07-19",
     "date:inception_upper": "2024-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-19",
+    "edtf:cessation": "2024-07-19T16:53:41Z",
+    "edtf:inception": "2024-07-19T14:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -109.7109545,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "icao:base_airline": "CPA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102528541,
     "sfomuseum:base_flight_id": "20240719-D-CPA-7578",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N162AA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92481353",
+      "swim:gufi": "KO37550600"
+    },
     "wof:country": "US",
     "wof:created": 1721492853,
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1914681237,
     "wof:involves": [
+      1914564443,
+      1159284127,
+      1159289411,
       102528541,
       102527513,
-      1159283849,
-      1914564443,
-      1159284127
+      1159283849
     ],
-    "wof:lastmodified": 1721492853,
+    "wof:lastmodified": 1721494352,
     "wof:name": "AA1198 (SFO-DFW)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

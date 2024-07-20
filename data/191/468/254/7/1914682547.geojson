@@ -2,10 +2,12 @@
   "id": 1914682547,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-19",
+    "date:cessation_upper": "2024-07-19",
     "date:inception_lower": "2024-07-19",
     "date:inception_upper": "2024-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-19",
+    "edtf:cessation": "2024-07-19T17:16:28Z",
+    "edtf:inception": "2024-07-19T16:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "LAN",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20240719-D-LAN-5066",
@@ -39,7 +43,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N577AS",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92515372"
+    },
     "wof:country": "US",
     "wof:created": 1721493311,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -55,9 +66,10 @@
       102527513,
       1159283813,
       1914564361,
-      1159285641
+      1159285641,
+      1159289871
     ],
-    "wof:lastmodified": 1721493311,
+    "wof:lastmodified": 1721494361,
     "wof:name": "AS528 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

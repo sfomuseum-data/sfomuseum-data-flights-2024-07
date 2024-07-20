@@ -2,10 +2,12 @@
   "id": 1914683021,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-07-19",
-    "date:inception_upper": "2024-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-19",
+    "date:cessation_lower": "2024-07-20",
+    "date:cessation_upper": "2024-07-20",
+    "date:inception_lower": "2024-07-20",
+    "date:inception_upper": "2024-07-20",
+    "edtf:cessation": "2024-07-20T12:42:00Z",
+    "edtf:inception": "2024-07-20T08:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20240719-D-AMX-4290",
@@ -39,7 +43,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92480109"
+    },
     "wof:country": "US",
     "wof:created": 1721493476,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -51,13 +61,14 @@
     ],
     "wof:id": 1914683021,
     "wof:involves": [
-      102526927,
       102527513,
       1159284261,
       1914564583,
-      1159283539
+      1159283539,
+      1377564285,
+      102526927
     ],
-    "wof:lastmodified": 1721493476,
+    "wof:lastmodified": 1721494365,
     "wof:name": "DL463 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

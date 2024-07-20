@@ -2,10 +2,12 @@
   "id": 1914684473,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-07-19",
-    "date:inception_upper": "2024-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-19",
+    "date:cessation_lower": "2024-07-20",
+    "date:cessation_upper": "2024-07-20",
+    "date:inception_lower": "2024-07-20",
+    "date:inception_upper": "2024-07-20",
+    "edtf:cessation": "2024-07-20T01:46:24Z",
+    "edtf:inception": "2024-07-20T00:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.2977885,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527733,
     "sfomuseum:base_flight_id": "20240719-D-ACA-3996",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N36207",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92549294",
+      "swim:gufi": "KO63096600"
+    },
     "wof:country": "US",
     "wof:created": 1721493983,
     "wof:geomhash": "5c4ab4afb4473393075e7e0145a9edb2",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1914684473,
     "wof:involves": [
-      102527733,
       102527513,
       1159285413,
       1914564301,
-      1159283597
+      1159283597,
+      1159289871,
+      102527733
     ],
-    "wof:lastmodified": 1721493983,
+    "wof:lastmodified": 1721494373,
     "wof:name": "UA1503 (SFO-BOI)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

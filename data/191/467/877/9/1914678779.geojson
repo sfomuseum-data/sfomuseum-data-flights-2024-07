@@ -2,10 +2,12 @@
   "id": 1914678779,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-19",
+    "date:cessation_upper": "2024-07-19",
     "date:inception_lower": "2024-07-19",
     "date:inception_upper": "2024-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-19",
+    "edtf:cessation": "2024-07-19T15:34:00Z",
+    "edtf:inception": "2024-07-19T14:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240719-A-AMX-4294",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N3741S",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92504269",
+      "swim:gufi": "KL47461602"
+    },
     "wof:country": "US",
     "wof:created": 1721491986,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1914678779,
     "wof:involves": [
-      102527513,
-      102533795,
       1159284261,
       1914564611,
-      1159283539
+      1159283539,
+      1159289871,
+      102527513,
+      102533795
     ],
-    "wof:lastmodified": 1721491986,
+    "wof:lastmodified": 1721494355,
     "wof:name": "DL1421 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

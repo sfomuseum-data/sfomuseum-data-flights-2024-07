@@ -2,10 +2,12 @@
   "id": 1914680675,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-19",
+    "date:cessation_upper": "2024-07-19",
     "date:inception_lower": "2024-07-19",
     "date:inception_upper": "2024-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-19",
+    "edtf:cessation": "2024-07-19T20:31:00Z",
+    "edtf:inception": "2024-07-19T19:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240719-A-ANZ-9240",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N27539",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92536900",
+      "swim:gufi": "KL57081600"
+    },
     "wof:country": "US",
     "wof:created": 1721492658,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1914680675,
     "wof:involves": [
-      102527513,
       102527209,
       1159285413,
       1914564549,
-      1159283697
+      1159283697,
+      1528104577,
+      102527513
     ],
-    "wof:lastmodified": 1721492658,
+    "wof:lastmodified": 1721494347,
     "wof:name": "UA574 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

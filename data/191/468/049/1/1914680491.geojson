@@ -2,10 +2,12 @@
   "id": 1914680491,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-19",
+    "date:cessation_upper": "2024-07-19",
     "date:inception_lower": "2024-07-19",
     "date:inception_upper": "2024-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-19",
+    "edtf:cessation": "2024-07-19T05:01:51Z",
+    "edtf:inception": "2024-07-19T03:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -40,6 +42,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92470787"
+    },
     "wof:country": "US",
     "wof:created": 1721492595,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -57,7 +62,7 @@
       1914564301,
       1159283597
     ],
-    "wof:lastmodified": 1721492595,
+    "wof:lastmodified": 1721494346,
     "wof:name": "UA2482 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

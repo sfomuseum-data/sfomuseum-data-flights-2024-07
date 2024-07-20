@@ -2,10 +2,12 @@
   "id": 1914681455,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-19",
+    "date:cessation_upper": "2024-07-19",
     "date:inception_lower": "2024-07-19",
     "date:inception_upper": "2024-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-19",
+    "edtf:cessation": "2024-07-19T17:35:27Z",
+    "edtf:inception": "2024-07-19T06:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "OZ",
     "flysfo:base_airline": "",
@@ -39,7 +41,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92480427"
+    },
     "wof:country": "US",
     "wof:created": 1721492928,
     "wof:geomhash": "76fab8ba90cc172f777e745d124625d2",
@@ -57,7 +66,7 @@
       1914564131,
       1159286259
     ],
-    "wof:lastmodified": 1721492928,
+    "wof:lastmodified": 1721494353,
     "wof:name": "OZ211 (SFO-ICN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

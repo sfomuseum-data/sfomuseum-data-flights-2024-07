@@ -2,10 +2,12 @@
   "id": 1914680027,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-19",
+    "date:cessation_upper": "2024-07-19",
     "date:inception_lower": "2024-07-19",
     "date:inception_upper": "2024-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-19",
+    "edtf:cessation": "2024-07-19T18:51:53Z",
+    "edtf:inception": "2024-07-19T14:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2024-07-19",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.702760999999995,
     "geom:longitude": -105.058423,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531205,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N234WN",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92508736",
+      "swim:gufi": "KG44139600"
+    },
     "wof:country": "US",
     "wof:created": 1721492436,
     "wof:geomhash": "bbd014edfd8455b7d9e062bec23e52e6",
@@ -46,12 +59,13 @@
     ],
     "wof:id": 1914680027,
     "wof:involves": [
+      1914564365,
+      1159289869,
       102527513,
       102531205,
-      1159285591,
-      1914564365
+      1159285591
     ],
-    "wof:lastmodified": 1721492436,
+    "wof:lastmodified": 1721494342,
     "wof:name": "WN1873 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914684631,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-20",
+    "date:cessation_upper": "2024-07-20",
     "date:inception_lower": "2024-07-19",
     "date:inception_upper": "2024-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-19",
+    "edtf:cessation": "2024-07-20T00:05:00Z",
+    "edtf:inception": "2024-07-19T19:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533997,
     "sfomuseum:base_flight_id": "20240719-D-ANZ-9145",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92535390",
+      "swim:gufi": "KO55573600"
+    },
     "wof:country": "US",
     "wof:created": 1721494039,
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1914684631,
     "wof:involves": [
+      1914564171,
+      1159283697,
+      1159289985,
       102533997,
       102527513,
-      1159285413,
-      1914564171,
-      1159283697
+      1159285413
     ],
-    "wof:lastmodified": 1721494039,
+    "wof:lastmodified": 1721494374,
     "wof:name": "UA2380 (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

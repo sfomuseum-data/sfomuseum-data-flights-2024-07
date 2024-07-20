@@ -2,10 +2,12 @@
   "id": 1914680353,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-19",
+    "date:cessation_upper": "2024-07-19",
     "date:inception_lower": "2024-07-19",
     "date:inception_upper": "2024-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-19",
+    "edtf:cessation": "2024-07-19T16:57:09Z",
+    "edtf:inception": "2024-07-19T13:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -108.5435595,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240719-A-ANZ-9504",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N76533",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92488784",
+      "swim:gufi": "KK31769600"
+    },
     "wof:country": "US",
     "wof:created": 1721492549,
     "wof:geomhash": "35ddb46351d590846e83b74bc4468cc8",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1914680353,
     "wof:involves": [
+      1159283697,
+      1159289871,
       102527513,
       102533051,
       1159285413,
-      1914564313,
-      1159283697
+      1914564313
     ],
-    "wof:lastmodified": 1721492549,
+    "wof:lastmodified": 1721494345,
     "wof:name": "UA1763 (MCI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

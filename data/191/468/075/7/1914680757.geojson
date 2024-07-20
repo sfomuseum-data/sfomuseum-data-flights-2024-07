@@ -2,10 +2,12 @@
   "id": 1914680757,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-19",
+    "date:cessation_upper": "2024-07-19",
     "date:inception_lower": "2024-07-19",
     "date:inception_upper": "2024-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-19",
+    "edtf:cessation": "2024-07-19T21:07:00Z",
+    "edtf:inception": "2024-07-19T16:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-07-19",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.1546165,
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530049,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N220UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92503742",
+      "swim:gufi": "KN46255601"
+    },
     "wof:country": "US",
     "wof:created": 1721492685,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
@@ -46,12 +59,12 @@
     ],
     "wof:id": 1914680757,
     "wof:involves": [
+      1159289985,
       102527513,
       102530049,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1721492685,
+    "wof:lastmodified": 1721494348,
     "wof:name": "UA8128 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

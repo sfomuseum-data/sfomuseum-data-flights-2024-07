@@ -2,10 +2,12 @@
   "id": 1914682421,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-19",
+    "date:cessation_upper": "2024-07-19",
     "date:inception_lower": "2024-07-19",
     "date:inception_upper": "2024-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-19",
+    "edtf:cessation": "2024-07-19T22:25:13Z",
+    "edtf:inception": "2024-07-19T21:14:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -40,6 +42,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92547070"
+    },
     "wof:country": "US",
     "wof:created": 1721493267,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -57,7 +62,7 @@
       1914564403,
       1159283849
     ],
-    "wof:lastmodified": 1721493267,
+    "wof:lastmodified": 1721494360,
     "wof:name": "AS114 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

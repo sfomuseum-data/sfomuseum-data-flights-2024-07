@@ -2,10 +2,12 @@
   "id": 1914678807,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-19",
+    "date:cessation_upper": "2024-07-19",
     "date:inception_lower": "2024-07-19",
     "date:inception_upper": "2024-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-19",
+    "edtf:cessation": "2024-07-19T08:31:26Z",
+    "edtf:inception": "2024-07-19T02:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "DAL",
     "icao:base_airline": "LAN",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240719-A-LAN-6290",
@@ -39,7 +43,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
+    "swim:tail_number": "N572DT",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92465567"
+    },
     "wof:country": "US",
     "wof:created": 1721491995,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -51,13 +62,14 @@
     ],
     "wof:id": 1914678807,
     "wof:involves": [
-      102527513,
       102530741,
       1159284261,
       1914564599,
-      1159285641
+      1159285641,
+      1377564297,
+      102527513
     ],
-    "wof:lastmodified": 1721491995,
+    "wof:lastmodified": 1721494355,
     "wof:name": "DL314 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

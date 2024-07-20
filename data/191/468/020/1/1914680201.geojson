@@ -2,10 +2,12 @@
   "id": 1914680201,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-19",
+    "date:cessation_upper": "2024-07-19",
     "date:inception_lower": "2024-07-19",
     "date:inception_upper": "2024-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-19",
+    "edtf:cessation": "2024-07-19T22:04:19Z",
+    "edtf:inception": "2024-07-19T12:59:53Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "ZG",
     "flysfo:date": "2024-07-19",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92599937"
+    },
     "wof:country": "US",
     "wof:created": 1721492498,
     "wof:geomhash": "d46bcc8d1d94e68df95be799ac6a3b4c",
@@ -51,7 +56,7 @@
       1813375131,
       1914564041
     ],
-    "wof:lastmodified": 1721492498,
+    "wof:lastmodified": 1721494344,
     "wof:name": "ZG26 (NRT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
