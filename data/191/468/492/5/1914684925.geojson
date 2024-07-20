@@ -1,0 +1,72 @@
+{
+  "id": 1914684925,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-07-19",
+    "date:inception_upper": "2024-07-19",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-19",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2024-07-19",
+    "flysfo:estimated_timestamp": 1721459880,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA8155",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-FLL",
+    "flysfo:scheduled_timestamp": 1721455320,
+    "flysfo:timestamp": 1721459880,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,26.074860,-80.138518,37.617990",
+    "geom:latitude": 31.846425,
+    "geom:longitude": -101.2547305,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102530841,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20240719-D-UAL-8155",
+    "sfomuseum:flight_number": [
+      "UAL8155",
+      "UA8155"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1721494141,
+    "wof:geomhash": "2155b19e54308f477f2a379762b2f6c8",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1914684925,
+        "flight_id": 1914684925
+      }
+    ],
+    "wof:id": 1914684925,
+    "wof:involves": [
+      102530841,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1721494141,
+    "wof:name": "UA8155 (SFO-FLL)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2024-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    26.07486,
+    -80.138518,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-80.138518,26.07486]],"type":"MultiPoint"}
+}

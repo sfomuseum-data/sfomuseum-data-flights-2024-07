@@ -1,0 +1,72 @@
+{
+  "id": 1914679625,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-07-19",
+    "date:inception_upper": "2024-07-19",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-19",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "MX",
+    "flysfo:date": "2024-07-19",
+    "flysfo:estimated_timestamp": 1721415900,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "MX228",
+    "flysfo:gate": "D6",
+    "flysfo:journey": "SDF-SFO",
+    "flysfo:scheduled_timestamp": 1721414520,
+    "flysfo:timestamp": 1721415900,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-85.744415,38.187123",
+    "geom:latitude": 37.9025565,
+    "geom:longitude": -104.05767900000001,
+    "iata:airline": "MX",
+    "icao:airline": "MXY",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1763552131,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102533321,
+    "sfomuseum:flight_id": "20240719-A-MXY-228",
+    "sfomuseum:flight_number": [
+      "MXY228",
+      "MX228"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1721492289,
+    "wof:geomhash": "0a450debd31d00abad70d92377328dce",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1914679625,
+        "flight_id": 1914679625
+      }
+    ],
+    "wof:id": 1914679625,
+    "wof:involves": [
+      102527513,
+      102533321,
+      1763552131,
+      1914564557
+    ],
+    "wof:lastmodified": 1721492289,
+    "wof:name": "MX228 (SDF-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2024-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -85.744415,
+    38.187123
+  ],
+  "geometry": {"coordinates":[[-85.744415,38.187123],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
