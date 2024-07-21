@@ -2,10 +2,12 @@
   "id": 1914689059,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-20",
+    "date:cessation_upper": "2024-07-20",
     "date:inception_lower": "2024-07-20",
     "date:inception_upper": "2024-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-20",
+    "edtf:cessation": "2024-07-20T14:22:00Z",
+    "edtf:inception": "2024-07-20T11:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -109.7109545,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "CCA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240720-A-CCA-7310",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N17339",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92599708"
+    },
     "wof:country": "US",
     "wof:created": 1721578965,
     "wof:geomhash": "865973335526f09b753756c305bf4946",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1914689059,
     "wof:involves": [
-      102527513,
       102528541,
       1159285413,
       1914564535,
-      1159283605
+      1159283605,
+      1528104575,
+      102527513
     ],
-    "wof:lastmodified": 1721578965,
+    "wof:lastmodified": 1721580567,
     "wof:name": "UA657 (DFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

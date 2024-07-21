@@ -2,10 +2,12 @@
   "id": 1914692457,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-20",
+    "date:cessation_upper": "2024-07-20",
     "date:inception_lower": "2024-07-20",
     "date:inception_upper": "2024-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-20",
+    "edtf:cessation": "2024-07-20T18:20:00Z",
+    "edtf:inception": "2024-07-20T14:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2024-07-20",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.702760999999995,
     "geom:longitude": -105.058423,
     "iata:airline": "WN",
+    "icao:aircraft": "B38M",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102531205,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N8886C",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92615333",
+      "swim:gufi": "KO48074700"
+    },
     "wof:country": "US",
     "wof:created": 1721580108,
     "wof:geomhash": "b0d868dab19a217943f06d97e1bf7ce6",
@@ -46,12 +59,13 @@
     ],
     "wof:id": 1914692457,
     "wof:involves": [
+      1528104575,
       102531205,
       102527513,
       1159285591,
       1914564381
     ],
-    "wof:lastmodified": 1721580108,
+    "wof:lastmodified": 1721580558,
     "wof:name": "WN373 (SFO-MDW)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

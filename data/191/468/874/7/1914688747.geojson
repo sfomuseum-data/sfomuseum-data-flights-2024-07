@@ -2,10 +2,12 @@
   "id": 1914688747,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-21",
+    "date:cessation_upper": "2024-07-21",
     "date:inception_lower": "2024-07-20",
     "date:inception_upper": "2024-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-20",
+    "edtf:cessation": "2024-07-21T00:20:00Z",
+    "edtf:inception": "2024-07-20T21:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.1959315,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240720-A-ACA-4210",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92667702",
+      "swim:gufi": "KS76277700"
+    },
     "wof:country": "US",
     "wof:created": 1721578862,
     "wof:geomhash": "4b8d850891e12dfac0a460ee51cd363b",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1914688747,
     "wof:involves": [
+      1159283597,
+      1159292085,
       102527513,
       102554947,
       1159285413,
-      1914564305,
-      1159283597
+      1914564305
     ],
-    "wof:lastmodified": 1721578862,
+    "wof:lastmodified": 1721580564,
     "wof:name": "UA211 (YYC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

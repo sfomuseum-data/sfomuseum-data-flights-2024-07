@@ -2,10 +2,12 @@
   "id": 1914688023,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-21",
+    "date:cessation_upper": "2024-07-21",
     "date:inception_lower": "2024-07-20",
     "date:inception_upper": "2024-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-20",
+    "edtf:cessation": "2024-07-21T00:58:43Z",
+    "edtf:inception": "2024-07-20T23:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2024-07-20",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.369605,
     "geom:longitude": -115.4494075,
     "iata:airline": "MX",
+    "icao:aircraft": "BCS3",
     "icao:airline": "MXY",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1763552131,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532065,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N225BZ",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92676391"
+    },
     "wof:country": "US",
     "wof:created": 1721578620,
     "wof:geomhash": "885c4de9460c22786ce1477efbdd0753",
@@ -46,12 +58,13 @@
     ],
     "wof:id": 1914688023,
     "wof:involves": [
-      102527513,
-      102532065,
       1763552131,
-      1914564557
+      1914564557,
+      1813375783,
+      102527513,
+      102532065
     ],
-    "wof:lastmodified": 1721578620,
+    "wof:lastmodified": 1721580559,
     "wof:name": "MX607 (GJT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

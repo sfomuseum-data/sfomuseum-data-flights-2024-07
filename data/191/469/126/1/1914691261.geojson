@@ -2,10 +2,12 @@
   "id": 1914691261,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-20",
+    "date:cessation_upper": "2024-07-20",
     "date:inception_lower": "2024-07-20",
     "date:inception_upper": "2024-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-20",
+    "edtf:cessation": "2024-07-20T14:32:00Z",
+    "edtf:inception": "2024-07-20T13:06:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20240720-D-KLM-6335",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N37700",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92608456",
+      "swim:gufi": "KO43561700"
+    },
     "wof:country": "US",
     "wof:created": 1721579706,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1914691261,
     "wof:involves": [
+      1914564611,
+      1159284613,
+      1159289871,
       102533269,
       102527513,
-      1159284261,
-      1914564611,
-      1159284613
+      1159284261
     ],
-    "wof:lastmodified": 1721579706,
+    "wof:lastmodified": 1721580550,
     "wof:name": "DL1710 (SFO-SEA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914687737,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-20",
+    "date:cessation_upper": "2024-07-20",
     "date:inception_lower": "2024-07-20",
     "date:inception_upper": "2024-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-20",
+    "edtf:cessation": "2024-07-20T23:58:14Z",
+    "edtf:inception": "2024-07-20T12:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "IB",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -62.966477499999996,
     "iata:airline": "IB",
     "iata:base_airline": "",
+    "icao:aircraft": "A332",
     "icao:airline": "IBE",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289421,
     "sfomuseum:airline_id": 1159284511,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240720-A-AAL-8824",
@@ -39,7 +43,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92598130"
+    },
     "wof:country": "US",
     "wof:created": 1721578526,
     "wof:geomhash": "e381de006a7d8b2da90b8f820c28ec9b",
@@ -55,9 +66,10 @@
       102545773,
       1159284511,
       1914564023,
-      1159283849
+      1159283849,
+      1159289421
     ],
-    "wof:lastmodified": 1721578526,
+    "wof:lastmodified": 1721580557,
     "wof:name": "IB6193 (MAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

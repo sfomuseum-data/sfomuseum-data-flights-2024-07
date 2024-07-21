@@ -2,10 +2,12 @@
   "id": 1914687687,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-21",
+    "date:cessation_upper": "2024-07-21",
     "date:inception_lower": "2024-07-20",
     "date:inception_upper": "2024-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-20",
+    "edtf:cessation": "2024-07-21T03:09:26Z",
+    "edtf:inception": "2024-07-20T13:16:52Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "VN",
     "flysfo:date": "2024-07-20",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92704042"
+    },
     "wof:country": "US",
     "wof:created": 1721578509,
     "wof:geomhash": "012961f8e0c3775359f771a39eab25cc",
@@ -51,7 +56,7 @@
       1159285479,
       1914564013
     ],
-    "wof:lastmodified": 1721578509,
+    "wof:lastmodified": 1721580557,
     "wof:name": "VN98 (SGN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

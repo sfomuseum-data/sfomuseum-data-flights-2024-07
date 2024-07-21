@@ -2,10 +2,12 @@
   "id": 1914685657,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-20",
+    "date:cessation_upper": "2024-07-20",
     "date:inception_lower": "2024-07-20",
     "date:inception_upper": "2024-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-20",
+    "edtf:cessation": "2024-07-20T22:22:45Z",
+    "edtf:inception": "2024-07-20T12:07:30Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "OZ",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": 2.1453445,
     "iata:airline": "OZ",
     "iata:base_airline": "",
+    "icao:aircraft": "A359",
     "icao:airline": "AAR",
     "icao:base_airline": "SIA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564293,
     "sfomuseum:airline_id": 1159283917,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240720-A-SIA-5712",
@@ -39,7 +43,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92601951"
+    },
     "wof:country": "US",
     "wof:created": 1721577814,
     "wof:geomhash": "83e2c60a8819c96e9fa3721059c5eac5",
@@ -55,9 +66,10 @@
       102556451,
       1159283917,
       1914564113,
-      1159286259
+      1159286259,
+      1377564293
     ],
-    "wof:lastmodified": 1721577814,
+    "wof:lastmodified": 1721580544,
     "wof:name": "OZ212 (ICN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

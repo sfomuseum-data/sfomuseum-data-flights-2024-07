@@ -2,10 +2,12 @@
   "id": 1914692947,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-20",
+    "date:cessation_upper": "2024-07-20",
     "date:inception_lower": "2024-07-20",
     "date:inception_upper": "2024-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-20",
+    "edtf:cessation": "2024-07-20T19:45:16Z",
+    "edtf:inception": "2024-07-20T15:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-07-20",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.283618000000004,
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528817,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N69840",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92702982",
+      "swim:gufi": "KO41107700"
+    },
     "wof:country": "US",
     "wof:created": 1721580272,
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
@@ -46,12 +59,13 @@
     ],
     "wof:id": 1914692947,
     "wof:involves": [
-      102528817,
-      102527513,
       1159285413,
-      1914564549
+      1914564549,
+      1377564285,
+      102528817,
+      102527513
     ],
-    "wof:lastmodified": 1721580272,
+    "wof:lastmodified": 1721580561,
     "wof:name": "UA3030 (SFO-IAD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

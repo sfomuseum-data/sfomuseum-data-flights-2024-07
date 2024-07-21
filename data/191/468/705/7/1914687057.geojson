@@ -2,10 +2,12 @@
   "id": 1914687057,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-20",
+    "date:cessation_upper": "2024-07-20",
     "date:inception_lower": "2024-07-20",
     "date:inception_upper": "2024-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-20",
+    "edtf:cessation": "2024-07-20T19:21:43Z",
+    "edtf:inception": "2024-07-20T07:06:04Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CA",
     "flysfo:date": "2024-07-20",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92589955"
+    },
     "wof:country": "US",
     "wof:created": 1721578296,
     "wof:geomhash": "96cbe57d72475858a8ed1d7cff76fcd0",
@@ -51,7 +56,7 @@
       1159283605,
       1914564113
     ],
-    "wof:lastmodified": 1721578296,
+    "wof:lastmodified": 1721580553,
     "wof:name": "CA985 (PEK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

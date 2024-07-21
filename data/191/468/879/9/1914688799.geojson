@@ -2,10 +2,12 @@
   "id": 1914688799,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-21",
+    "date:cessation_upper": "2024-07-21",
     "date:inception_lower": "2024-07-20",
     "date:inception_upper": "2024-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-20",
+    "edtf:cessation": "2024-07-21T04:14:00Z",
+    "edtf:inception": "2024-07-20T23:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "BEL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240720-A-BEL-8817",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N221UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92671348",
+      "swim:gufi": "KW75673700"
+    },
     "wof:country": "US",
     "wof:created": 1721578879,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1914688799,
     "wof:involves": [
+      1914564171,
+      1377675597,
+      1159289985,
       102527513,
       102528817,
-      1159285413,
-      1914564171,
-      1377675597
+      1159285413
     ],
-    "wof:lastmodified": 1721578879,
+    "wof:lastmodified": 1721580564,
     "wof:name": "UA2344 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

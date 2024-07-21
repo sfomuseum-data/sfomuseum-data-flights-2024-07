@@ -2,10 +2,12 @@
   "id": 1914692079,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-20",
+    "date:cessation_upper": "2024-07-20",
     "date:inception_lower": "2024-07-20",
     "date:inception_upper": "2024-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-20",
+    "edtf:cessation": "2024-07-20T19:34:03Z",
+    "edtf:inception": "2024-07-20T14:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "PD",
     "flysfo:base_airline": "",
@@ -24,6 +26,7 @@
     "geom:longitude": -98.057846,
     "iata:airline": "PD",
     "iata:base_airline": "",
+    "icao:aircraft": "E295",
     "icao:airline": "POE",
     "icao:base_airline": "TSC",
     "lbl:latitude": 37.61799,
@@ -39,7 +42,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "CGZQX",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92610725"
+    },
     "wof:country": "US",
     "wof:created": 1721579977,
     "wof:geomhash": "60b8ec845b4af47518c8aaafc3d98633",
@@ -57,7 +68,7 @@
       1914564473,
       1159283753
     ],
-    "wof:lastmodified": 1721579977,
+    "wof:lastmodified": 1721580556,
     "wof:name": "PD674 (SFO-YUL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
