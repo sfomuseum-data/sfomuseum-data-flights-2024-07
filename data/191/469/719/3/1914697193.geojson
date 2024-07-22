@@ -2,10 +2,12 @@
   "id": 1914697193,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-21",
+    "date:cessation_upper": "2024-07-21",
     "date:inception_lower": "2024-07-21",
     "date:inception_upper": "2024-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-21",
+    "edtf:cessation": "2024-07-21T21:15:00Z",
+    "edtf:inception": "2024-07-21T15:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240721-A-ANZ-9023",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N37523",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92711269",
+      "swim:gufi": "KB47629100"
+    },
     "wof:country": "US",
     "wof:created": 1721665358,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -55,9 +68,10 @@
       102530741,
       1159285413,
       1914564317,
-      1159283697
+      1159283697,
+      1528104577
     ],
-    "wof:lastmodified": 1721665358,
+    "wof:lastmodified": 1721667241,
     "wof:name": "UA1008 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

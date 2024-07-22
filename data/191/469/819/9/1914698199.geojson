@@ -2,10 +2,12 @@
   "id": 1914698199,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-07-21",
-    "date:inception_upper": "2024-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-21",
+    "date:cessation_lower": "2024-07-22",
+    "date:cessation_upper": "2024-07-22",
+    "date:inception_lower": "2024-07-22",
+    "date:inception_upper": "2024-07-22",
+    "edtf:cessation": "2024-07-22T12:28:00Z",
+    "edtf:inception": "2024-07-22T07:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.3334745,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "AAL",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102531023,
     "sfomuseum:base_flight_id": "20240721-D-BAW-5349",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92698916",
+      "swim:gufi": "KO21624200"
+    },
     "wof:country": "US",
     "wof:created": 1721665704,
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1914698199,
     "wof:involves": [
+      1159284021,
+      1377564297,
       102531023,
       102527513,
       1159283849,
-      1914564427,
-      1159284021
+      1914564427
     ],
-    "wof:lastmodified": 1721665704,
+    "wof:lastmodified": 1721667249,
     "wof:name": "AA2389 (SFO-MIA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

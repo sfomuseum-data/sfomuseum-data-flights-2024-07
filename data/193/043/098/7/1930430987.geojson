@@ -2,10 +2,12 @@
   "id": 1930430987,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-22",
+    "date:cessation_upper": "2024-07-22",
     "date:inception_lower": "2024-07-21",
     "date:inception_upper": "2024-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-21",
+    "edtf:cessation": "2024-07-22T01:20:06Z",
+    "edtf:inception": "2024-07-21T23:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "WS",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "WJA",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285523,
     "sfomuseum:arrival_id": 102555307,
     "sfomuseum:base_flight_id": "20240721-D-AMX-7287",
@@ -39,7 +43,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "CGDDR",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92768496"
+    },
     "wof:country": "US",
     "wof:created": 1721667157,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -55,9 +66,10 @@
       102527513,
       1159285523,
       1914564381,
-      1159283539
+      1159283539,
+      1528104575
     ],
-    "wof:lastmodified": 1721667157,
+    "wof:lastmodified": 1721667236,
     "wof:name": "WS1775 (SFO-YVR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

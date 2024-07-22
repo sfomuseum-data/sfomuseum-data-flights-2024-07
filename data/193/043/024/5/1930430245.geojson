@@ -2,10 +2,12 @@
   "id": 1930430245,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-22",
+    "date:cessation_upper": "2024-07-22",
     "date:inception_lower": "2024-07-21",
     "date:inception_upper": "2024-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-21",
+    "edtf:cessation": "2024-07-22T00:18:00Z",
+    "edtf:inception": "2024-07-21T23:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.07155499999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102525535,
     "sfomuseum:base_flight_id": "20240721-D-ANA-7380",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N854UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92677326",
+      "swim:gufi": "KO73803100"
+    },
     "wof:country": "US",
     "wof:created": 1721666901,
     "wof:geomhash": "414447526a1ddeb77713c60c4ab5a7e4",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1930430245,
     "wof:involves": [
-      102525535,
       102527513,
       1159285413,
       1914564201,
-      1159283875
+      1159283875,
+      1159289407,
+      102525535
     ],
-    "wof:lastmodified": 1721666901,
+    "wof:lastmodified": 1721667230,
     "wof:name": "UA2334 (SFO-RNO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

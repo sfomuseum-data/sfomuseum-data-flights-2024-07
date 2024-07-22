@@ -2,10 +2,12 @@
   "id": 1914693865,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-21",
+    "date:cessation_upper": "2024-07-21",
     "date:inception_lower": "2024-07-21",
     "date:inception_upper": "2024-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-21",
+    "edtf:cessation": "2024-07-21T22:43:00Z",
+    "edtf:inception": "2024-07-21T19:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -109.7109545,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "icao:base_airline": "QFA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240721-A-QFA-3273",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N193UW",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92746329",
+      "swim:gufi": "KF65185100"
+    },
     "wof:country": "US",
     "wof:created": 1721664163,
     "wof:geomhash": "865973335526f09b753756c305bf4946",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1914693865,
     "wof:involves": [
-      102527513,
-      102528541,
       1159283849,
       1914564399,
-      1159285043
+      1159285043,
+      1159289411,
+      102527513,
+      102528541
     ],
-    "wof:lastmodified": 1721664163,
+    "wof:lastmodified": 1721667215,
     "wof:name": "AA2177 (DFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

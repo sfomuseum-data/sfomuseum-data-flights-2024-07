@@ -2,10 +2,12 @@
   "id": 1914697209,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-21",
+    "date:cessation_upper": "2024-07-21",
     "date:inception_lower": "2024-07-21",
     "date:inception_upper": "2024-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-21",
+    "edtf:cessation": "2024-07-21T18:50:00Z",
+    "edtf:inception": "2024-07-21T14:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B788",
     "icao:airline": "UAL",
     "icao:base_airline": "MSR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289995,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240721-A-MSR-9322",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N26902",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92710940",
+      "swim:gufi": "KW42422100"
+    },
     "wof:country": "US",
     "wof:created": 1721665364,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1914697209,
     "wof:involves": [
-      102527513,
-      102528817,
       1159285413,
       1914564209,
-      1159284325
+      1159284325,
+      1159289995,
+      102527513,
+      102528817
     ],
-    "wof:lastmodified": 1721665364,
+    "wof:lastmodified": 1721667241,
     "wof:name": "UA1116 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

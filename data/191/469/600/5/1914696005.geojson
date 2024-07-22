@@ -2,10 +2,12 @@
   "id": 1914696005,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-21",
+    "date:cessation_upper": "2024-07-21",
     "date:inception_lower": "2024-07-21",
     "date:inception_upper": "2024-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-21",
+    "edtf:cessation": "2024-07-21T16:58:00Z",
+    "edtf:inception": "2024-07-21T16:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2024-07-21",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.838961999999995,
     "geom:longitude": -119.97934599999999,
     "iata:airline": "F9",
+    "icao:aircraft": "A321",
     "icao:airline": "FFT",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533575,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N705FR",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92726347",
+      "swim:gufi": "KL53225100"
+    },
     "wof:country": "US",
     "wof:created": 1721664950,
     "wof:geomhash": "094b2380067f0814bdd38962ab53e3d3",
@@ -49,9 +62,10 @@
       102527513,
       102533575,
       1159284401,
-      1914564041
+      1914564041,
+      1159289411
     ],
-    "wof:lastmodified": 1721664950,
+    "wof:lastmodified": 1721667232,
     "wof:name": "F92677 (ONT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

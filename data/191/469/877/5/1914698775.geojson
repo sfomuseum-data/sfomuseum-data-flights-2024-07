@@ -2,10 +2,12 @@
   "id": 1914698775,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-21",
+    "date:cessation_upper": "2024-07-21",
     "date:inception_lower": "2024-07-21",
     "date:inception_upper": "2024-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-21",
+    "edtf:cessation": "2024-07-21T21:27:47Z",
+    "edtf:inception": "2024-07-21T07:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AI",
     "flysfo:date": "2024-07-21",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92696544"
+    },
     "wof:country": "US",
     "wof:created": 1721665919,
     "wof:geomhash": "5685f56014cf853d095c4b0f2d5ea6d9",
@@ -51,7 +56,7 @@
       1159283649,
       -1
     ],
-    "wof:lastmodified": 1721665919,
+    "wof:lastmodified": 1721667251,
     "wof:name": "AI184 (SFO-DEL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

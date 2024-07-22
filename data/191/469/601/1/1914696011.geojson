@@ -2,10 +2,12 @@
   "id": 1914696011,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-21",
+    "date:cessation_upper": "2024-07-21",
     "date:inception_lower": "2024-07-21",
     "date:inception_upper": "2024-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-21",
+    "edtf:cessation": "2024-07-21T16:28:00Z",
+    "edtf:inception": "2024-07-21T15:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2024-07-21",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "F9",
+    "icao:aircraft": "A20N",
     "icao:airline": "FFT",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564295,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,7 +38,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92724790"
+    },
     "wof:country": "US",
     "wof:created": 1721664951,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -46,12 +56,12 @@
     ],
     "wof:id": 1914696011,
     "wof:involves": [
+      1377564295,
       102527513,
       102533795,
-      1159284401,
-      -1
+      1159284401
     ],
-    "wof:lastmodified": 1721664951,
+    "wof:lastmodified": 1721667232,
     "wof:name": "F93307 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

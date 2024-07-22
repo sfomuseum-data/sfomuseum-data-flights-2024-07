@@ -2,10 +2,12 @@
   "id": 1914697295,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-21",
+    "date:cessation_upper": "2024-07-21",
     "date:inception_lower": "2024-07-21",
     "date:inception_upper": "2024-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-21",
+    "edtf:cessation": "2024-07-21T14:38:00Z",
+    "edtf:inception": "2024-07-21T09:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.859366,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240721-A-DLH-7859",
@@ -39,7 +43,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92700982"
+    },
     "wof:country": "US",
     "wof:created": 1721665393,
     "wof:geomhash": "46fccc0e56242535ccfd5ecb278f9a75",
@@ -55,9 +66,10 @@
       102528943,
       1159285413,
       1914564297,
-      1159286015
+      1159286015,
+      1528104575
     ],
-    "wof:lastmodified": 1721665393,
+    "wof:lastmodified": 1721667245,
     "wof:name": "UA1746 (LIH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
