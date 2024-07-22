@@ -1,0 +1,72 @@
+{
+  "id": 1914693835,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-07-21",
+    "date:inception_upper": "2024-07-21",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-21",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AA",
+    "flysfo:date": "2024-07-21",
+    "flysfo:estimated_timestamp": 1721629920,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AA1563",
+    "flysfo:gate": "",
+    "flysfo:journey": "MRY-SFO",
+    "flysfo:scheduled_timestamp": 1721629800,
+    "flysfo:timestamp": 1721629920,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,36.587900,-121.839390,37.617990",
+    "geom:latitude": 37.102945,
+    "geom:longitude": -122.1051665,
+    "iata:airline": "AA",
+    "icao:airline": "AAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283849,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102525191,
+    "sfomuseum:flight_id": "20240721-A-AAL-1563",
+    "sfomuseum:flight_number": [
+      "AAL1563",
+      "AA1563"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1721664149,
+    "wof:geomhash": "9156ee38a86542341666d641670fb814",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1914693835,
+        "flight_id": 1914693835
+      }
+    ],
+    "wof:id": 1914693835,
+    "wof:involves": [
+      102527513,
+      102525191,
+      1159283849,
+      -1
+    ],
+    "wof:lastmodified": 1721664149,
+    "wof:name": "AA1563 (MRY-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2024-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    36.5879,
+    -121.83939,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-121.83939,36.5879],[-122.370943,37.61799]],"type":"MultiPoint"}
+}

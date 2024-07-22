@@ -1,0 +1,72 @@
+{
+  "id": 1914697649,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-07-21",
+    "date:inception_upper": "2024-07-21",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-21",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2024-07-21",
+    "flysfo:estimated_timestamp": 1721600160,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA5967",
+    "flysfo:gate": "E12",
+    "flysfo:journey": "OTH-SFO",
+    "flysfo:scheduled_timestamp": 1721601300,
+    "flysfo:timestamp": 1721601300,
+    "geom:area": 0,
+    "geom:bbox": "-124.243730,37.617990,-122.370943,43.417060",
+    "geom:latitude": 40.517525,
+    "geom:longitude": -123.30733649999999,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102530081,
+    "sfomuseum:flight_id": "20240721-A-UAL-5967",
+    "sfomuseum:flight_number": [
+      "UAL5967",
+      "UA5967"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1721665514,
+    "wof:geomhash": "8c441f4739fc58e145d324772acb8d0d",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1914697649,
+        "flight_id": 1914697649
+      }
+    ],
+    "wof:id": 1914697649,
+    "wof:involves": [
+      102527513,
+      102530081,
+      1159285413,
+      1914564297
+    ],
+    "wof:lastmodified": 1721665514,
+    "wof:name": "UA5967 (OTH-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2024-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -124.24373,
+    37.61799,
+    -122.370943,
+    43.41706
+  ],
+  "geometry": {"coordinates":[[-124.24373,43.41706],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
