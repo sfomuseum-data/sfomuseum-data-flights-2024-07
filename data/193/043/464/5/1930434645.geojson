@@ -2,10 +2,12 @@
   "id": 1930434645,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-22",
+    "date:cessation_upper": "2024-07-22",
     "date:inception_lower": "2024-07-22",
     "date:inception_upper": "2024-07-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-22",
+    "edtf:cessation": "2024-07-22T21:32:00Z",
+    "edtf:inception": "2024-07-22T20:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.778435,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240722-A-ANZ-9598",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N76532",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92853560",
+      "swim:gufi": "KL62705200"
+    },
     "wof:country": "US",
     "wof:created": 1721751725,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1930434645,
     "wof:involves": [
-      102527513,
-      102528997,
       1159285413,
       1914564179,
-      1159283697
+      1159283697,
+      1159289871,
+      102527513,
+      102528997
     ],
-    "wof:lastmodified": 1721751725,
+    "wof:lastmodified": 1721753502,
     "wof:name": "UA1888 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1930434583,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-22",
+    "date:cessation_upper": "2024-07-22",
     "date:inception_lower": "2024-07-22",
     "date:inception_upper": "2024-07-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-22",
+    "edtf:cessation": "2024-07-22T19:59:00Z",
+    "edtf:inception": "2024-07-22T17:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240722-A-ANZ-9074",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N18223",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92835382",
+      "swim:gufi": "KD50804200"
+    },
     "wof:country": "US",
     "wof:created": 1721751703,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1930434583,
     "wof:involves": [
+      1914564305,
+      1159283697,
+      1159289871,
       102527513,
       102531189,
-      1159285413,
-      1914564305,
-      1159283697
+      1159285413
     ],
-    "wof:lastmodified": 1721751703,
+    "wof:lastmodified": 1721753502,
     "wof:name": "UA1561 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

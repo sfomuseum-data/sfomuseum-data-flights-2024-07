@@ -2,10 +2,12 @@
   "id": 1930438893,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-22",
+    "date:cessation_upper": "2024-07-22",
     "date:inception_lower": "2024-07-22",
     "date:inception_upper": "2024-07-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-22",
+    "edtf:cessation": "2024-07-22T18:54:00Z",
+    "edtf:inception": "2024-07-22T18:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.104038,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527337,
     "sfomuseum:base_flight_id": "20240722-D-ANZ-9618",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N26208",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92837479",
+      "swim:gufi": "KO51909200"
+    },
     "wof:country": "US",
     "wof:created": 1721753167,
     "wof:geomhash": "1d9a5fa2c9575ebb155d9645f1016c57",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1930438893,
     "wof:involves": [
+      1914564549,
+      1159283697,
+      1159289871,
       102527337,
       102527513,
-      1159285413,
-      1914564549,
-      1159283697
+      1159285413
     ],
-    "wof:lastmodified": 1721753167,
+    "wof:lastmodified": 1721753517,
     "wof:name": "UA2367 (SFO-SBA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

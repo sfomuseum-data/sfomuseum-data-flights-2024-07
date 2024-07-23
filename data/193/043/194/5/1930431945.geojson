@@ -2,10 +2,12 @@
   "id": 1930431945,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-22",
+    "date:cessation_upper": "2024-07-22",
     "date:inception_lower": "2024-07-22",
     "date:inception_upper": "2024-07-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-22",
+    "edtf:cessation": "2024-07-22T03:37:00Z",
+    "edtf:inception": "2024-07-22T00:13:20Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:base_airline": "",
@@ -39,7 +41,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92776849"
+    },
     "wof:country": "US",
     "wof:created": 1721750800,
     "wof:geomhash": "d1cf00e952c40abdeded8d31cdcdf72b",
@@ -57,7 +66,7 @@
       1914564031,
       1159284261
     ],
-    "wof:lastmodified": 1721750800,
+    "wof:lastmodified": 1721753520,
     "wof:name": "AM608 (GDL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

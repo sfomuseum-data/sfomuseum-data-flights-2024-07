@@ -2,10 +2,12 @@
   "id": 1930436797,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-22",
+    "date:cessation_upper": "2024-07-22",
     "date:inception_lower": "2024-07-22",
     "date:inception_upper": "2024-07-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-22",
+    "edtf:cessation": "2024-07-22T17:27:00Z",
+    "edtf:inception": "2024-07-22T17:08:20Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -40,6 +42,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92914612"
+    },
     "wof:country": "US",
     "wof:created": 1721752460,
     "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
@@ -57,7 +62,7 @@
       1914564433,
       1159283849
     ],
-    "wof:lastmodified": 1721752460,
+    "wof:lastmodified": 1721753510,
     "wof:name": "AS512 (SFO-AUS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
