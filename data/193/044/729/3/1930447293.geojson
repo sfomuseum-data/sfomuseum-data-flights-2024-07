@@ -1,0 +1,72 @@
+{
+  "id": 1930447293,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-07-23",
+    "date:inception_upper": "2024-07-23",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-23",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "WN",
+    "flysfo:date": "2024-07-23",
+    "flysfo:estimated_timestamp": 1721741940,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "WN454",
+    "flysfo:gate": "B9",
+    "flysfo:journey": "SFO-MDW",
+    "flysfo:scheduled_timestamp": 1721739000,
+    "flysfo:timestamp": 1721741940,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-87.745903,41.787532",
+    "geom:latitude": 39.702760999999995,
+    "geom:longitude": -105.058423,
+    "iata:airline": "WN",
+    "icao:airline": "SWA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285591,
+    "sfomuseum:arrival_id": 102531205,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20240723-D-SWA-454",
+    "sfomuseum:flight_number": [
+      "SWA454",
+      "WN454"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1721839693,
+    "wof:geomhash": "b0d868dab19a217943f06d97e1bf7ce6",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1930447293,
+        "flight_id": 1930447293
+      }
+    ],
+    "wof:id": 1930447293,
+    "wof:involves": [
+      102531205,
+      102527513,
+      1159285591,
+      1914564457
+    ],
+    "wof:lastmodified": 1721839693,
+    "wof:name": "WN454 (SFO-MDW)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2024-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -87.745903,
+    41.787532
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-87.745903,41.787532]],"type":"MultiPoint"}
+}
