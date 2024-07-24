@@ -2,10 +2,12 @@
   "id": 1930443365,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-23",
+    "date:cessation_upper": "2024-07-23",
     "date:inception_lower": "2024-07-23",
     "date:inception_upper": "2024-07-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-23",
+    "edtf:cessation": "2024-07-23T14:17:00Z",
+    "edtf:inception": "2024-07-23T11:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -108.5435595,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "AAR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240723-A-AAR-6318",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N35236",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92899980",
+      "swim:gufi": "KK31817300"
+    },
     "wof:country": "US",
     "wof:created": 1721838282,
     "wof:geomhash": "35ddb46351d590846e83b74bc4468cc8",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1930443365,
     "wof:involves": [
-      102527513,
       102533051,
       1159285413,
       1914564549,
-      1159283917
+      1159283917,
+      1159289871,
+      102527513
     ],
-    "wof:lastmodified": 1721838282,
+    "wof:lastmodified": 1721840233,
     "wof:name": "UA1763 (MCI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

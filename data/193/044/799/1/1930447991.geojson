@@ -2,10 +2,12 @@
   "id": 1930447991,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-23",
+    "date:cessation_upper": "2024-07-23",
     "date:inception_lower": "2024-07-23",
     "date:inception_upper": "2024-07-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-23",
+    "edtf:cessation": "2024-07-23T21:00:00Z",
+    "edtf:inception": "2024-07-23T19:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.79198650000001,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533927,
     "sfomuseum:base_flight_id": "20240723-D-ANZ-9189",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N481UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92936499",
+      "swim:gufi": "KO62963300"
+    },
     "wof:country": "US",
     "wof:created": 1721839957,
     "wof:geomhash": "ac29143dee46faf8dc4d82fa5cfc7601",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1930447991,
     "wof:involves": [
-      102533927,
-      102527513,
       1159285413,
       1914564523,
-      1159283697
+      1159283697,
+      1159292085,
+      102533927,
+      102527513
     ],
-    "wof:lastmodified": 1721839957,
+    "wof:lastmodified": 1721840258,
     "wof:name": "UA790 (SFO-EUG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

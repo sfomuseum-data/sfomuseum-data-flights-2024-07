@@ -2,10 +2,12 @@
   "id": 1930443355,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-23",
+    "date:cessation_upper": "2024-07-23",
     "date:inception_lower": "2024-07-23",
     "date:inception_upper": "2024-07-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-23",
+    "edtf:cessation": "2024-07-23T14:36:09Z",
+    "edtf:inception": "2024-07-23T09:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240723-A-DLH-9387",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92895073",
+      "swim:gufi": "KO23212300"
+    },
     "wof:country": "US",
     "wof:created": 1721838279,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -51,13 +63,14 @@
     ],
     "wof:id": 1930443355,
     "wof:involves": [
+      1159286015,
+      1377564285,
       102527513,
       102533997,
       1159285413,
-      1914564557,
-      1159286015
+      1914564557
     ],
-    "wof:lastmodified": 1721838279,
+    "wof:lastmodified": 1721840233,
     "wof:name": "UA1712 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

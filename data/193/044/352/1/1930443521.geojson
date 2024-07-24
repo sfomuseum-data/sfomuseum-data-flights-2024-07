@@ -2,10 +2,12 @@
   "id": 1930443521,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-23",
+    "date:cessation_upper": "2024-07-23",
     "date:inception_lower": "2024-07-23",
     "date:inception_upper": "2024-07-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-23",
+    "edtf:cessation": "2024-07-23T14:19:00Z",
+    "edtf:inception": "2024-07-23T13:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.97934599999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240723-A-ACA-4080",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N78501",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92909500",
+      "swim:gufi": "KL38740300"
+    },
     "wof:country": "US",
     "wof:created": 1721838341,
     "wof:geomhash": "094b2380067f0814bdd38962ab53e3d3",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1930443521,
     "wof:involves": [
-      102527513,
-      102533575,
       1159285413,
       1914564305,
-      1159283597
+      1159283597,
+      1159289871,
+      102527513,
+      102533575
     ],
-    "wof:lastmodified": 1721838341,
+    "wof:lastmodified": 1721840253,
     "wof:name": "UA277 (ONT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

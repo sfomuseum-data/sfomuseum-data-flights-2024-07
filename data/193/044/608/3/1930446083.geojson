@@ -2,10 +2,12 @@
   "id": 1930446083,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-23",
+    "date:cessation_upper": "2024-07-23",
     "date:inception_lower": "2024-07-23",
     "date:inception_upper": "2024-07-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-23",
+    "edtf:cessation": "2024-07-23T19:03:00Z",
+    "edtf:inception": "2024-07-23T14:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20240723-D-AMX-4291",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N727TW",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92916108",
+      "swim:gufi": "KO48361300"
+    },
     "wof:country": "US",
     "wof:created": 1721839269,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -55,9 +68,10 @@
       102527513,
       1159284261,
       1914564603,
-      1159283539
+      1159283539,
+      1159289939
     ],
-    "wof:lastmodified": 1721839269,
+    "wof:lastmodified": 1721840256,
     "wof:name": "DL640 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

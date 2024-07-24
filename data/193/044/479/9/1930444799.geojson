@@ -2,10 +2,12 @@
   "id": 1930444799,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-23",
+    "date:cessation_upper": "2024-07-23",
     "date:inception_lower": "2024-07-23",
     "date:inception_upper": "2024-07-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-23",
+    "edtf:cessation": "2024-07-23T20:12:00Z",
+    "edtf:inception": "2024-07-23T15:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "ACA",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555091,
     "sfomuseum:base_flight_id": "20240723-D-ANZ-4720",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "CFZQS",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92923276",
+      "swim:gufi": "KO46822300"
+    },
     "wof:country": "US",
     "wof:created": 1721838809,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -55,9 +68,10 @@
       102527513,
       1159283597,
       1914564563,
-      1159283697
+      1159283697,
+      1159292085
     ],
-    "wof:lastmodified": 1721838809,
+    "wof:lastmodified": 1721840238,
     "wof:name": "AC738 (SFO-YYZ)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

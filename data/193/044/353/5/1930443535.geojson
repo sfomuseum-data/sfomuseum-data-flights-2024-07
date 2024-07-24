@@ -2,10 +2,12 @@
   "id": 1930443535,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-23",
+    "date:cessation_upper": "2024-07-23",
     "date:inception_lower": "2024-07-23",
     "date:inception_upper": "2024-07-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-23",
+    "edtf:cessation": "2024-07-23T14:57:00Z",
+    "edtf:inception": "2024-07-23T14:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.1186115,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240723-A-ACA-4134",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N76528",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92913111",
+      "swim:gufi": "KL41439300"
+    },
     "wof:country": "US",
     "wof:created": 1721838346,
     "wof:geomhash": "01009f732d03a7803d3f7fd23cf321f4",
@@ -55,9 +67,10 @@
       102534161,
       1159285413,
       1914564523,
-      1159283597
+      1159283597,
+      1159289871
     ],
-    "wof:lastmodified": 1721838346,
+    "wof:lastmodified": 1721840234,
     "wof:name": "UA313 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

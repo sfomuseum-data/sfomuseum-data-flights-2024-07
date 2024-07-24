@@ -2,10 +2,12 @@
   "id": 1930447765,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-23",
+    "date:cessation_upper": "2024-07-23",
     "date:inception_lower": "2024-07-23",
     "date:inception_upper": "2024-07-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-23",
+    "edtf:cessation": "2024-07-23T20:21:00Z",
+    "edtf:inception": "2024-07-23T15:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.5210065,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102532047,
     "sfomuseum:base_flight_id": "20240723-D-ANZ-9031",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N27263",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92922981",
+      "swim:gufi": "KO40004300"
+    },
     "wof:country": "US",
     "wof:created": 1721839869,
     "wof:geomhash": "ff243e97b2d4ce40e0a4accb79115371",
@@ -51,13 +64,14 @@
     ],
     "wof:id": 1930447765,
     "wof:involves": [
+      1159283697,
+      1528104575,
       102532047,
       102527513,
       1159285413,
-      1914564311,
-      1159283697
+      1914564311
     ],
-    "wof:lastmodified": 1721839869,
+    "wof:lastmodified": 1721840247,
     "wof:name": "UA2664 (SFO-BWI)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1930447897,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-23",
+    "date:cessation_upper": "2024-07-23",
     "date:inception_lower": "2024-07-23",
     "date:inception_upper": "2024-07-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-23",
+    "edtf:cessation": "2024-07-23T16:38:00Z",
+    "edtf:inception": "2024-07-23T13:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:base_flight_id": "20240723-D-ANZ-9300",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N75851",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "92904543",
+      "swim:gufi": "KO30423300"
+    },
     "wof:country": "US",
     "wof:created": 1721839920,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -55,9 +68,10 @@
       102527513,
       1159285413,
       1914564221,
-      1159283697
+      1159283697,
+      1159289945
     ],
-    "wof:lastmodified": 1721839920,
+    "wof:lastmodified": 1721840248,
     "wof:name": "UA561 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

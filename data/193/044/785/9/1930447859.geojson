@@ -2,10 +2,12 @@
   "id": 1930447859,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-07-23",
-    "date:inception_upper": "2024-07-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-23",
+    "date:cessation_lower": "2024-07-24",
+    "date:cessation_upper": "2024-07-24",
+    "date:inception_lower": "2024-07-24",
+    "date:inception_upper": "2024-07-24",
+    "edtf:cessation": "2024-07-24T08:03:00Z",
+    "edtf:inception": "2024-07-24T06:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.778435,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.620533,
     "lbl:longitude": -122.389374,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528997,
     "sfomuseum:base_flight_id": "20240723-D-DLH-9222",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N37537",
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -53,6 +62,10 @@
       1914600841,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92889814",
+      "swim:gufi": "KO07441400"
+    },
     "wof:country": "US",
     "wof:created": 1721839906,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1930447859,
     "wof:involves": [
+      1528104577,
       102528997,
       102527513,
       1159285413,
       1914600851,
       1159286015
     ],
-    "wof:lastmodified": 1721839906,
+    "wof:lastmodified": 1721840247,
     "wof:name": "UA538 (SFO-SAN)",
     "wof:parent_id": 1914600851,
     "wof:placetype": "custom",
