@@ -63,14 +63,14 @@
     ],
     "wof:id": 1930445597,
     "wof:involves": [
-      1159283849,
-      1528104577,
       102533997,
       102527513,
       1159283813,
-      1914564369
+      1914564369,
+      1528104577,
+      1159283849
     ],
-    "wof:lastmodified": 1721840240,
+    "wof:lastmodified": 1721866972,
     "wof:name": "AS877 (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -102,13 +102,13 @@
     "wof:id": 1930447965,
     "wof:involves": [
       1159283697,
-      1528104577,
       102533997,
       102527513,
       1159285413,
-      1914600935
+      1914600935,
+      1528104577
     ],
-    "wof:lastmodified": 1721840258,
+    "wof:lastmodified": 1721866980,
     "wof:name": "UA638 (SFO-HNL)",
     "wof:parent_id": 1914600935,
     "wof:placetype": "custom",

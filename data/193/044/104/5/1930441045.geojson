@@ -65,12 +65,12 @@
     "wof:involves": [
       1914564451,
       1159283849,
-      1528104577,
       102527513,
       102533269,
-      1159283813
+      1159283813,
+      1528104577
     ],
-    "wof:lastmodified": 1721840224,
+    "wof:lastmodified": 1721866955,
     "wof:name": "AS1132 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

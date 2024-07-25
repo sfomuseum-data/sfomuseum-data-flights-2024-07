@@ -64,14 +64,14 @@
     ],
     "wof:id": 1930441737,
     "wof:involves": [
+      1914564611,
+      1159283539,
       1159289871,
       102527513,
       102533269,
-      1159284261,
-      1914564611,
-      1159283539
+      1159284261
     ],
-    "wof:lastmodified": 1721840227,
+    "wof:lastmodified": 1721866958,
     "wof:name": "DL1730 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

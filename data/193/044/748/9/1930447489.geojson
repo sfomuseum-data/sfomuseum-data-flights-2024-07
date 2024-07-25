@@ -6,7 +6,7 @@
     "date:cessation_upper": "2024-07-24",
     "date:inception_lower": "2024-07-24",
     "date:inception_upper": "2024-07-24",
-    "edtf:cessation": "2024-07-24T21:26:32Z",
+    "edtf:cessation": "2024-07-24T21:40:11Z",
     "edtf:inception": "2024-07-24T06:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -96,13 +96,13 @@
     ],
     "wof:id": 1930447489,
     "wof:involves": [
+      1159285413,
+      1914601063,
       1159293215,
       102551593,
-      102527513,
-      1159285413,
-      1914601063
+      102527513
     ],
-    "wof:lastmodified": 1721840245,
+    "wof:lastmodified": 1721866978,
     "wof:name": "UA1 (SFO-SIN)",
     "wof:parent_id": 1914601063,
     "wof:placetype": "custom",

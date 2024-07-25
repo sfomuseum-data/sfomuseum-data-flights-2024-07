@@ -96,13 +96,13 @@
     ],
     "wof:id": 1930448039,
     "wof:involves": [
-      1159289993,
       102541737,
       102527513,
       1159285413,
-      1914600853
+      1914600853,
+      1159289993
     ],
-    "wof:lastmodified": 1721840248,
+    "wof:lastmodified": 1721866981,
     "wof:name": "UA869 (SFO-HKG)",
     "wof:parent_id": 1914600853,
     "wof:placetype": "custom",

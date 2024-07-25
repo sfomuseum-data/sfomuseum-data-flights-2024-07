@@ -64,14 +64,14 @@
     ],
     "wof:id": 1930447519,
     "wof:involves": [
-      1528104575,
-      102528943,
       102527513,
       1159285413,
       1914564561,
-      1159286015
+      1159286015,
+      1528104575,
+      102528943
     ],
-    "wof:lastmodified": 1721840246,
+    "wof:lastmodified": 1721866978,
     "wof:name": "UA1150 (SFO-LIH)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

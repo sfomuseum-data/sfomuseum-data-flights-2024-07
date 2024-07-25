@@ -58,13 +58,13 @@
     ],
     "wof:id": 1930445987,
     "wof:involves": [
+      1377564293,
       102527513,
       1159284127,
       1914564045,
-      1377564293,
       102541737
     ],
-    "wof:lastmodified": 1721840241,
+    "wof:lastmodified": 1721866973,
     "wof:name": "CX873 (SFO-HKG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

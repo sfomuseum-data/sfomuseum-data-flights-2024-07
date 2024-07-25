@@ -100,14 +100,14 @@
     ],
     "wof:id": 1930445579,
     "wof:involves": [
+      1159289871,
       1159283813,
       1914601223,
       1159283849,
-      1159289871,
       102527209,
       102527513
     ],
-    "wof:lastmodified": 1721840240,
+    "wof:lastmodified": 1721866972,
     "wof:name": "AS706 (SFO-LAS)",
     "wof:parent_id": 1914601223,
     "wof:placetype": "custom",

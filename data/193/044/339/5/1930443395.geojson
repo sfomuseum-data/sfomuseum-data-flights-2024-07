@@ -64,14 +64,14 @@
     ],
     "wof:id": 1930443395,
     "wof:involves": [
-      1377564285,
       102527513,
       102528817,
       1159285413,
       1914564289,
-      1159283697
+      1159283697,
+      1377564285
     ],
-    "wof:lastmodified": 1721840233,
+    "wof:lastmodified": 1721866964,
     "wof:name": "UA1927 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

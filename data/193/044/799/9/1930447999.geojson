@@ -6,7 +6,7 @@
     "date:cessation_upper": "2024-07-24",
     "date:inception_lower": "2024-07-24",
     "date:inception_upper": "2024-07-24",
-    "edtf:cessation": "2024-07-24T19:02:05Z",
+    "edtf:cessation": "2024-07-24T19:02:00Z",
     "edtf:inception": "2024-07-24T07:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -101,14 +101,14 @@
     ],
     "wof:id": 1930447999,
     "wof:involves": [
-      1159289985,
-      102556451,
-      102527513,
       1159285413,
       1914601071,
-      1159283917
+      1159283917,
+      1159289985,
+      102556451,
+      102527513
     ],
-    "wof:lastmodified": 1721840248,
+    "wof:lastmodified": 1721866981,
     "wof:name": "UA805 (SFO-ICN)",
     "wof:parent_id": 1914601071,
     "wof:placetype": "custom",

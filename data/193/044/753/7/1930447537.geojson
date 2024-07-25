@@ -64,14 +64,14 @@
     ],
     "wof:id": 1930447537,
     "wof:involves": [
-      1528104575,
-      102533795,
       102527513,
       1159285413,
       1914564261,
-      1159283697
+      1159283697,
+      1528104575,
+      102533795
     ],
-    "wof:lastmodified": 1721840246,
+    "wof:lastmodified": 1721866994,
     "wof:name": "UA1260 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

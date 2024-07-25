@@ -62,14 +62,14 @@
     ],
     "wof:id": 1930443567,
     "wof:involves": [
-      1159285413,
       1914564221,
       1159283605,
-      1159289993,
       102527513,
-      102533997
+      102533997,
+      1159289993,
+      1159285413
     ],
-    "wof:lastmodified": 1721840234,
+    "wof:lastmodified": 1721866965,
     "wof:name": "UA396 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -64,14 +64,14 @@
     ],
     "wof:id": 1930447961,
     "wof:involves": [
+      1914564549,
+      1159283697,
       1159289871,
       102528181,
       102527513,
-      1159285413,
-      1914564549,
-      1159283697
+      1159285413
     ],
-    "wof:lastmodified": 1721840258,
+    "wof:lastmodified": 1721866995,
     "wof:name": "UA602 (SFO-PIT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -101,14 +101,14 @@
     ],
     "wof:id": 1930441183,
     "wof:involves": [
+      1377564285,
       102527513,
       102533269,
       1159283813,
       1914601213,
-      1159283849,
-      1377564285
+      1159283849
     ],
-    "wof:lastmodified": 1721840225,
+    "wof:lastmodified": 1721866956,
     "wof:name": "AS584 (SEA-SFO)",
     "wof:parent_id": 1914601213,
     "wof:placetype": "custom",

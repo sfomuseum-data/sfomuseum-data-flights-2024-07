@@ -63,14 +63,14 @@
     ],
     "wof:id": 1930443599,
     "wof:involves": [
-      1159285413,
       1914564229,
       1159283597,
-      1159289407,
       102527513,
-      1746879083
+      1746879083,
+      1159289407,
+      1159285413
     ],
-    "wof:lastmodified": 1721840234,
+    "wof:lastmodified": 1721866965,
     "wof:name": "UA488 (BUR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

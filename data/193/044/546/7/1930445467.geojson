@@ -63,14 +63,14 @@
     ],
     "wof:id": 1930445467,
     "wof:involves": [
-      1528104577,
       102534365,
       102527513,
       1159283813,
       1914564433,
-      1159286153
+      1159286153,
+      1528104577
     ],
-    "wof:lastmodified": 1721840240,
+    "wof:lastmodified": 1721866972,
     "wof:name": "AS28 (SFO-JFK)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

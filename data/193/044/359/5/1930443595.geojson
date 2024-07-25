@@ -64,14 +64,14 @@
     ],
     "wof:id": 1930443595,
     "wof:involves": [
-      1159283875,
       1528104575,
+      1159283875,
       102527513,
       102533795,
       1159285413,
       1914564167
     ],
-    "wof:lastmodified": 1721840234,
+    "wof:lastmodified": 1721866965,
     "wof:name": "UA487 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

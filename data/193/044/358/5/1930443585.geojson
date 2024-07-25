@@ -64,14 +64,14 @@
     ],
     "wof:id": 1930443585,
     "wof:involves": [
+      1528104577,
       1159285413,
       1914564291,
       1159283697,
-      1528104577,
       102527513,
       102527373
     ],
-    "wof:lastmodified": 1721840234,
+    "wof:lastmodified": 1721866990,
     "wof:name": "UA470 (SAT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

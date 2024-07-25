@@ -6,7 +6,7 @@
     "date:cessation_upper": "2024-07-25",
     "date:inception_lower": "2024-07-24",
     "date:inception_upper": "2024-07-24",
-    "edtf:cessation": "2024-07-25T03:32:26Z",
+    "edtf:cessation": "2024-07-25T03:42:01Z",
     "edtf:inception": "2024-07-24T15:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
@@ -101,7 +101,7 @@
       1159285413,
       1914601069
     ],
-    "wof:lastmodified": 1721840248,
+    "wof:lastmodified": 1721866981,
     "wof:name": "UA853 (SFO-TPE)",
     "wof:parent_id": 1914601069,
     "wof:placetype": "custom",
