@@ -2,10 +2,12 @@
   "id": 1930450315,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-24",
+    "date:cessation_upper": "2024-07-24",
     "date:inception_lower": "2024-07-24",
     "date:inception_upper": "2024-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-24",
+    "edtf:cessation": "2024-07-24T18:17:14Z",
+    "edtf:inception": "2024-07-24T05:37:55Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CA",
     "flysfo:date": "2024-07-24",
@@ -48,6 +50,9 @@
       1914600999,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "92989738"
+    },
     "wof:country": "US",
     "wof:created": 1721923992,
     "wof:geomhash": "96cbe57d72475858a8ed1d7cff76fcd0",
@@ -88,7 +93,7 @@
       1159283605,
       1914601079
     ],
-    "wof:lastmodified": 1721923992,
+    "wof:lastmodified": 1721926479,
     "wof:name": "CA985 (PEK-SFO)",
     "wof:parent_id": 1914601079,
     "wof:placetype": "custom",

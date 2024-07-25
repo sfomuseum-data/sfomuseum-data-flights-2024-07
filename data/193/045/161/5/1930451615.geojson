@@ -2,10 +2,12 @@
   "id": 1930451615,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-24",
+    "date:cessation_upper": "2024-07-24",
     "date:inception_lower": "2024-07-24",
     "date:inception_upper": "2024-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-24",
+    "edtf:cessation": "2024-07-24T18:25:00Z",
+    "edtf:inception": "2024-07-24T14:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SY",
     "flysfo:date": "2024-07-24",
@@ -48,6 +50,9 @@
       1914600999,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "93019051"
+    },
     "wof:country": "US",
     "wof:created": 1721924446,
     "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
@@ -88,7 +93,7 @@
       1159285227,
       1914601007
     ],
-    "wof:lastmodified": 1721924446,
+    "wof:lastmodified": 1721926491,
     "wof:name": "SY393 (MSP-SFO)",
     "wof:parent_id": 1914601007,
     "wof:placetype": "custom",
