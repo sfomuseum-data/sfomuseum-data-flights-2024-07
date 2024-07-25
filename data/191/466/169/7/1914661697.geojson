@@ -44,7 +44,20 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "swim:tail_number": "N212UA",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1914600839,
+      102527513,
+      1914600845,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1914600849,
+      1914600841,
+      102085387
+    ],
     "wof:concordances": {
       "swim:flight_ref": "92269561",
       "swim:gufi": "KO13231400"
@@ -54,8 +67,32 @@
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
     "wof:hierarchy": [
       {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914600845,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
         "custom_id": 1914661697,
-        "flight_id": 1914661697
+        "flight_id": 1914661697,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914600849,
+        "wing_id": 1914600841
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914600845,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1914661697,
+        "flight_id": 1914661697,
+        "region_id": 85688637,
+        "venue_id": 1914600849,
+        "wing_id": 1914600841
       }
     ],
     "wof:id": 1914661697,
@@ -67,9 +104,9 @@
       1914564171,
       1159283597
     ],
-    "wof:lastmodified": 1721322103,
+    "wof:lastmodified": 1721869658,
     "wof:name": "UA476 (SFO-ORD)",
-    "wof:parent_id": -1,
+    "wof:parent_id": 1914600849,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

@@ -48,7 +48,20 @@
       "swim-path"
     ],
     "swim:tail_number": "N76533",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1914600839,
+      102527513,
+      1914600917,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1914600925,
+      1914600841,
+      102085387
+    ],
     "wof:concordances": {
       "swim:flight_ref": "92488784",
       "swim:gufi": "KK31769600"
@@ -58,8 +71,32 @@
     "wof:geomhash": "35ddb46351d590846e83b74bc4468cc8",
     "wof:hierarchy": [
       {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914600917,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
         "custom_id": 1914680353,
-        "flight_id": 1914680353
+        "flight_id": 1914680353,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914600925,
+        "wing_id": 1914600841
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914600917,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1914680353,
+        "flight_id": 1914680353,
+        "region_id": 85688637,
+        "venue_id": 1914600925,
+        "wing_id": 1914600841
       }
     ],
     "wof:id": 1914680353,
@@ -71,9 +108,9 @@
       1159285413,
       1914564313
     ],
-    "wof:lastmodified": 1721494345,
+    "wof:lastmodified": 1721869608,
     "wof:name": "UA1763 (MCI-SFO)",
-    "wof:parent_id": -1,
+    "wof:parent_id": 1914600925,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

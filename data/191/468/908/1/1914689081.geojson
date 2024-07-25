@@ -46,7 +46,20 @@
     "src:geom_alt": [
       "swim-path"
     ],
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1914600839,
+      102527513,
+      1914600917,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1914600919,
+      1914600841,
+      102085387
+    ],
     "wof:concordances": {
       "swim:flight_ref": "92664165",
       "swim:gufi": "KS74772700"
@@ -56,8 +69,32 @@
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
     "wof:hierarchy": [
       {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914600917,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
         "custom_id": 1914689081,
-        "flight_id": 1914689081
+        "flight_id": 1914689081,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914600919,
+        "wing_id": 1914600841
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914600917,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1914689081,
+        "flight_id": 1914689081,
+        "region_id": 85688637,
+        "venue_id": 1914600919,
+        "wing_id": 1914600841
       }
     ],
     "wof:id": 1914689081,
@@ -69,9 +106,9 @@
       102527513,
       102555307
     ],
-    "wof:lastmodified": 1721580567,
+    "wof:lastmodified": 1721869912,
     "wof:name": "UA733 (YVR-SFO)",
-    "wof:parent_id": -1,
+    "wof:parent_id": 1914600919,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

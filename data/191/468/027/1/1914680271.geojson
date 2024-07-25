@@ -43,7 +43,20 @@
       "swim-path"
     ],
     "swim:tail_number": "N26967",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1914600839,
+      102527513,
+      1914601057,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1914601079,
+      1914600999,
+      102085387
+    ],
     "wof:concordances": {
       "swim:flight_ref": "92481712",
       "swim:gufi": "KO67222600"
@@ -53,8 +66,32 @@
     "wof:geomhash": "cb635fc427df70f0d5f88d1f39ad4ded",
     "wof:hierarchy": [
       {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601057,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
         "custom_id": 1914680271,
-        "flight_id": 1914680271
+        "flight_id": 1914680271,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914601079,
+        "wing_id": 1914600999
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601057,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1914680271,
+        "flight_id": 1914680271,
+        "region_id": 85688637,
+        "venue_id": 1914601079,
+        "wing_id": 1914600999
       }
     ],
     "wof:id": 1914680271,
@@ -65,9 +102,9 @@
       1914564085,
       1159293215
     ],
-    "wof:lastmodified": 1721494344,
+    "wof:lastmodified": 1721869604,
     "wof:name": "UA114 (PPT-SFO)",
-    "wof:parent_id": -1,
+    "wof:parent_id": 1914601079,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

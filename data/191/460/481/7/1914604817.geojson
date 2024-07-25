@@ -47,7 +47,20 @@
       "swim-route",
       "swim-path"
     ],
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1914600839,
+      102527513,
+      1914601199,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1914601223,
+      1914601197,
+      102085387
+    ],
     "wof:concordances": {
       "swim:flight_ref": "91736128"
     },
@@ -56,8 +69,32 @@
     "wof:geomhash": "87e43b321087b5e7d68ac47fe0a6e824",
     "wof:hierarchy": [
       {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601199,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
         "custom_id": 1914604817,
-        "flight_id": 1914604817
+        "flight_id": 1914604817,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914601223,
+        "wing_id": 1914601197
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601199,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1914604817,
+        "flight_id": 1914604817,
+        "region_id": 85688637,
+        "venue_id": 1914601223,
+        "wing_id": 1914601197
       }
     ],
     "wof:id": 1914604817,
@@ -69,9 +106,9 @@
       1528104577,
       102527513
     ],
-    "wof:lastmodified": 1720889550,
+    "wof:lastmodified": 1721869620,
     "wof:name": "AS1370 (PVR-SFO)",
-    "wof:parent_id": -1,
+    "wof:parent_id": 1914601223,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

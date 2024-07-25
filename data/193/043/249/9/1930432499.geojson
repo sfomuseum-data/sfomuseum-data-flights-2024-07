@@ -39,14 +39,51 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1914600839,
+      102527513,
+      1914601199,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1914601217,
+      1914601197,
+      102085387
+    ],
     "wof:country": "US",
     "wof:created": 1721750990,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
     "wof:hierarchy": [
       {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601199,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
         "custom_id": 1930432499,
-        "flight_id": 1930432499
+        "flight_id": 1930432499,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914601217,
+        "wing_id": 1914601197
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601199,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1930432499,
+        "flight_id": 1930432499,
+        "region_id": 85688637,
+        "venue_id": 1914601217,
+        "wing_id": 1914601197
       }
     ],
     "wof:id": 1930432499,
@@ -57,9 +94,9 @@
       1914564389,
       1159283849
     ],
-    "wof:lastmodified": 1721750990,
+    "wof:lastmodified": 1721869855,
     "wof:name": "AS3301 (SAN-SFO)",
-    "wof:parent_id": -1,
+    "wof:parent_id": 1914601217,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

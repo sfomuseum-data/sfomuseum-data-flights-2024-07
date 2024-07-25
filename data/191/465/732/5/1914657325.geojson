@@ -39,7 +39,20 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "swim:tail_number": "N873UA",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1914600839,
+      102527513,
+      1914601349,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1914601355,
+      1914601345,
+      102085387
+    ],
     "wof:concordances": {
       "swim:flight_ref": "92336942"
     },
@@ -48,8 +61,32 @@
     "wof:geomhash": "e570a09b358444cf621c068c13b8dbc0",
     "wof:hierarchy": [
       {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601349,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
         "custom_id": 1914657325,
-        "flight_id": 1914657325
+        "flight_id": 1914657325,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914601355,
+        "wing_id": 1914601345
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601349,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1914657325,
+        "flight_id": 1914657325,
+        "region_id": 85688637,
+        "venue_id": 1914601355,
+        "wing_id": 1914601345
       }
     ],
     "wof:id": 1914657325,
@@ -60,9 +97,9 @@
       1159285413,
       1914564545
     ],
-    "wof:lastmodified": 1721322117,
+    "wof:lastmodified": 1721869757,
     "wof:name": "UA2262 (RDM-SFO)",
-    "wof:parent_id": -1,
+    "wof:parent_id": 1914601355,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

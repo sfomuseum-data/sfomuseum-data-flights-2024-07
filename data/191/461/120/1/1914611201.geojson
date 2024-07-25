@@ -48,7 +48,20 @@
       "swim-path"
     ],
     "swim:tail_number": "N18220",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1914600839,
+      102527513,
+      1914600917,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1914600929,
+      1914600841,
+      102085387
+    ],
     "wof:concordances": {
       "swim:flight_ref": "91834270",
       "swim:gufi": "KO63617600"
@@ -58,8 +71,32 @@
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
     "wof:hierarchy": [
       {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914600917,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
         "custom_id": 1914611201,
-        "flight_id": 1914611201
+        "flight_id": 1914611201,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914600929,
+        "wing_id": 1914600841
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914600917,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1914611201,
+        "flight_id": 1914611201,
+        "region_id": 85688637,
+        "venue_id": 1914600929,
+        "wing_id": 1914600841
       }
     ],
     "wof:id": 1914611201,
@@ -71,9 +108,9 @@
       1159289871,
       102555307
     ],
-    "wof:lastmodified": 1720889550,
+    "wof:lastmodified": 1721869620,
     "wof:name": "UA204 (SFO-YVR)",
-    "wof:parent_id": -1,
+    "wof:parent_id": 1914600929,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

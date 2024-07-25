@@ -39,14 +39,51 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1914600839,
+      102527513,
+      1914601001,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1914601015,
+      1914600999,
+      102085387
+    ],
     "wof:country": "US",
     "wof:created": 1720973412,
     "wof:geomhash": "5bc73b85d9408e1579ad3f82b41c3e68",
     "wof:hierarchy": [
       {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601001,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
         "custom_id": 1914614675,
-        "flight_id": 1914614675
+        "flight_id": 1914614675,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914601015,
+        "wing_id": 1914600999
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601001,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1914614675,
+        "flight_id": 1914614675,
+        "region_id": 85688637,
+        "venue_id": 1914601015,
+        "wing_id": 1914600999
       }
     ],
     "wof:id": 1914614675,
@@ -57,9 +94,9 @@
       1914564023,
       1159284349
     ],
-    "wof:lastmodified": 1720973412,
+    "wof:lastmodified": 1721869695,
     "wof:name": "AV562 (SAL-SFO)",
-    "wof:parent_id": -1,
+    "wof:parent_id": 1914601015,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

@@ -39,14 +39,51 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1914600839,
+      102527513,
+      1914600917,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1914600931,
+      1914600841,
+      102085387
+    ],
     "wof:country": "US",
     "wof:created": 1721579256,
     "wof:geomhash": "5b5841a3ebf3c57d9843115edfb8ee6b",
     "wof:hierarchy": [
       {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914600917,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
         "custom_id": 1914689931,
-        "flight_id": 1914689931
+        "flight_id": 1914689931,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914600931,
+        "wing_id": 1914600841
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914600917,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1914689931,
+        "flight_id": 1914689931,
+        "region_id": 85688637,
+        "venue_id": 1914600931,
+        "wing_id": 1914600841
       }
     ],
     "wof:id": 1914689931,
@@ -57,9 +94,9 @@
       1914564297,
       1159283597
     ],
-    "wof:lastmodified": 1721579256,
+    "wof:lastmodified": 1721869925,
     "wof:name": "AC4198 (SFO-BUR)",
-    "wof:parent_id": -1,
+    "wof:parent_id": 1914600931,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

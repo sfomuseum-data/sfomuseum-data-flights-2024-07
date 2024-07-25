@@ -48,7 +48,20 @@
       "swim-path"
     ],
     "swim:tail_number": "N1902U",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1914600839,
+      102527513,
+      1914600917,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1914600923,
+      1914600841,
+      102085387
+    ],
     "wof:concordances": {
       "swim:flight_ref": "92113219",
       "swim:gufi": "KO53893200"
@@ -58,8 +71,32 @@
     "wof:geomhash": "a7dd599440af55c5534b52449c3164ed",
     "wof:hierarchy": [
       {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914600917,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
         "custom_id": 1914640711,
-        "flight_id": 1914640711
+        "flight_id": 1914640711,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914600923,
+        "wing_id": 1914600841
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914600917,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1914640711,
+        "flight_id": 1914640711,
+        "region_id": 85688637,
+        "venue_id": 1914600923,
+        "wing_id": 1914600841
       }
     ],
     "wof:id": 1914640711,
@@ -71,9 +108,9 @@
       1914564311,
       1159283597
     ],
-    "wof:lastmodified": 1721148693,
+    "wof:lastmodified": 1721869622,
     "wof:name": "UA205 (SFO-YYC)",
-    "wof:parent_id": -1,
+    "wof:parent_id": 1914600923,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

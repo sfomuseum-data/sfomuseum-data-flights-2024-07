@@ -43,7 +43,20 @@
       "swim-path"
     ],
     "swim:tail_number": "B2099",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1914600839,
+      102527513,
+      1914601001,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1914601025,
+      1914600999,
+      102085387
+    ],
     "wof:concordances": {
       "swim:flight_ref": "92481624"
     },
@@ -52,8 +65,32 @@
     "wof:geomhash": "45e7108794d81a2dcecee3acf14ea6a4",
     "wof:hierarchy": [
       {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601001,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
         "custom_id": 1914682955,
-        "flight_id": 1914682955
+        "flight_id": 1914682955,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914601025,
+        "wing_id": 1914600999
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601001,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1914682955,
+        "flight_id": 1914682955,
+        "region_id": 85688637,
+        "venue_id": 1914601025,
+        "wing_id": 1914600999
       }
     ],
     "wof:id": 1914682955,
@@ -64,9 +101,9 @@
       1159289993,
       102550529
     ],
-    "wof:lastmodified": 1721494364,
+    "wof:lastmodified": 1721869709,
     "wof:name": "CZ660 (SFO-WUH)",
-    "wof:parent_id": -1,
+    "wof:parent_id": 1914601025,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

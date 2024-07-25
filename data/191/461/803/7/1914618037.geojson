@@ -39,14 +39,51 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1914600839,
+      102527513,
+      1914601001,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1914601007,
+      1914600999,
+      102085387
+    ],
     "wof:country": "US",
     "wof:created": 1720974599,
     "wof:geomhash": "01999c4327be8e36df88ffd5cda77111",
     "wof:hierarchy": [
       {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601001,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
         "custom_id": 1914618037,
-        "flight_id": 1914618037
+        "flight_id": 1914618037,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914601007,
+        "wing_id": 1914600999
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601001,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1914618037,
+        "flight_id": 1914618037,
+        "region_id": 85688637,
+        "venue_id": 1914601007,
+        "wing_id": 1914600999
       }
     ],
     "wof:id": 1914618037,
@@ -57,9 +94,9 @@
       1914564031,
       1159284261
     ],
-    "wof:lastmodified": 1720974599,
+    "wof:lastmodified": 1721869826,
     "wof:name": "AM665 (SFO-MEX)",
-    "wof:parent_id": -1,
+    "wof:parent_id": 1914601007,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
