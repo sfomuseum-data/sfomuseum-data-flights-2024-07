@@ -40,27 +40,27 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [
-      1914600839,
       102527513,
-      1914601309,
       102191575,
       85633793,
       102087579,
       85922583,
       554784711,
       85688637,
-      1930448513,
-      1914601197,
-      102085387
+      102085387,
+      1729792387,
+      1729792691,
+      1729792731,
+      1729792435
     ],
     "wof:country": "US",
     "wof:created": 1721578143,
     "wof:geomhash": "c01fce3544b8d9a4d0cb6d6783ef8a82",
     "wof:hierarchy": [
       {
-        "building_id": 1914600839,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1914601309,
+        "concourse_id": 1729792691,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -69,21 +69,21 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1930448513,
-        "wing_id": 1914601197
+        "venue_id": 1729792731,
+        "wing_id": 1729792435
       },
       {
-        "building_id": 1914600839,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1914601309,
+        "concourse_id": 1729792691,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "custom_id": 1914686601,
         "flight_id": 1914686601,
         "region_id": 85688637,
-        "venue_id": 1930448513,
-        "wing_id": 1914601197
+        "venue_id": 1729792731,
+        "wing_id": 1729792435
       }
     ],
     "wof:id": 1914686601,
@@ -94,9 +94,9 @@
       1914564635,
       1159283849
     ],
-    "wof:lastmodified": 1721869845,
+    "wof:lastmodified": 1722018940,
     "wof:name": "AS2078 (PAE-SFO)",
-    "wof:parent_id": 1930448513,
+    "wof:parent_id": 1729792731,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

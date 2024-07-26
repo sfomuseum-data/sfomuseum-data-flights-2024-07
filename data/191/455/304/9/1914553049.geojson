@@ -44,18 +44,18 @@
     ],
     "swim:tail_number": "BLRK",
     "wof:belongsto": [
-      1763588121,
       102527513,
-      1763588371,
       102191575,
       85633793,
       102087579,
       85922583,
       554784711,
       85688637,
-      1763588417,
-      1763588369,
-      102085387
+      102085387,
+      1914600839,
+      1914601001,
+      1914601013,
+      1914600999
     ],
     "wof:concordances": {
       "swim:flight_ref": "91321851"
@@ -65,9 +65,9 @@
     "wof:geomhash": "b8fc8d95bb44b1c6b9f6cb201e4d2ca9",
     "wof:hierarchy": [
       {
-        "building_id": 1763588121,
+        "building_id": 1914600839,
         "campus_id": 102527513,
-        "concourse_id": 1763588371,
+        "concourse_id": 1914601001,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -76,21 +76,21 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1763588417,
-        "wing_id": 1763588369
+        "venue_id": 1914601013,
+        "wing_id": 1914600999
       },
       {
-        "building_id": 1763588121,
+        "building_id": 1914600839,
         "campus_id": 102527513,
-        "concourse_id": 1763588371,
+        "concourse_id": 1914601001,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "custom_id": 1914553049,
         "flight_id": 1914553049,
         "region_id": 85688637,
-        "venue_id": 1763588417,
-        "wing_id": 1763588369
+        "venue_id": 1914601013,
+        "wing_id": 1914600999
       }
     ],
     "wof:id": 1914553049,
@@ -101,9 +101,9 @@
       1159284127,
       1763588417
     ],
-    "wof:lastmodified": 1720457541,
+    "wof:lastmodified": 1722018919,
     "wof:name": "CX879 (SFO-HKG)",
-    "wof:parent_id": 1763588417,
+    "wof:parent_id": 1914601013,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

@@ -49,18 +49,18 @@
     ],
     "swim:tail_number": "N833UA",
     "wof:belongsto": [
-      1763588121,
       102527513,
-      1763588125,
       102191575,
       85633793,
       102087579,
       85922583,
       554784711,
       85688637,
-      1763588141,
-      1763588123,
-      102085387
+      102085387,
+      1914600839,
+      1914601349,
+      1914601363,
+      1914601345
     ],
     "wof:concordances": {
       "swim:flight_ref": "90782824",
@@ -71,9 +71,9 @@
     "wof:geomhash": "865973335526f09b753756c305bf4946",
     "wof:hierarchy": [
       {
-        "building_id": 1763588121,
+        "building_id": 1914600839,
         "campus_id": 102527513,
-        "concourse_id": 1763588125,
+        "concourse_id": 1914601349,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -82,21 +82,21 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1763588141,
-        "wing_id": 1763588123
+        "venue_id": 1914601363,
+        "wing_id": 1914601345
       },
       {
-        "building_id": 1763588121,
+        "building_id": 1914600839,
         "campus_id": 102527513,
-        "concourse_id": 1763588125,
+        "concourse_id": 1914601349,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "custom_id": 1914502805,
         "flight_id": 1914502805,
         "region_id": 85688637,
-        "venue_id": 1763588141,
-        "wing_id": 1763588123
+        "venue_id": 1914601363,
+        "wing_id": 1914601345
       }
     ],
     "wof:id": 1914502805,
@@ -108,9 +108,9 @@
       1159289407,
       102527513
     ],
-    "wof:lastmodified": 1720025427,
+    "wof:lastmodified": 1722018921,
     "wof:name": "UA1387 (DFW-SFO)",
-    "wof:parent_id": 1763588141,
+    "wof:parent_id": 1914601363,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"

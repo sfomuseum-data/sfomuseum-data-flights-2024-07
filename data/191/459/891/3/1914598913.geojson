@@ -49,18 +49,18 @@
     ],
     "swim:tail_number": "N896UA",
     "wof:belongsto": [
-      1763588121,
       102527513,
-      1763588433,
       102191575,
       85633793,
       102087579,
       85922583,
       554784711,
       85688637,
-      1763588443,
-      1763588369,
-      102085387
+      102085387,
+      1914600839,
+      1914601057,
+      1914601063,
+      1914600999
     ],
     "wof:concordances": {
       "swim:flight_ref": "91704939",
@@ -71,9 +71,9 @@
     "wof:geomhash": "8115bc7828d3bd6404c793fb172971b8",
     "wof:hierarchy": [
       {
-        "building_id": 1763588121,
+        "building_id": 1914600839,
         "campus_id": 102527513,
-        "concourse_id": 1763588433,
+        "concourse_id": 1914601057,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -82,21 +82,21 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1763588443,
-        "wing_id": 1763588369
+        "venue_id": 1914601063,
+        "wing_id": 1914600999
       },
       {
-        "building_id": 1763588121,
+        "building_id": 1914600839,
         "campus_id": 102527513,
-        "concourse_id": 1763588433,
+        "concourse_id": 1914601057,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "custom_id": 1914598913,
         "flight_id": 1914598913,
         "region_id": 85688637,
-        "venue_id": 1763588443,
-        "wing_id": 1763588369
+        "venue_id": 1914601063,
+        "wing_id": 1914600999
       }
     ],
     "wof:id": 1914598913,
@@ -108,9 +108,9 @@
       1159285413,
       1763588443
     ],
-    "wof:lastmodified": 1720803053,
+    "wof:lastmodified": 1722018939,
     "wof:name": "UA2224 (SFO-BZN)",
-    "wof:parent_id": 1763588443,
+    "wof:parent_id": 1914601063,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
