@@ -2,10 +2,12 @@
   "id": 1930460821,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-25",
+    "date:cessation_upper": "2024-07-25",
     "date:inception_lower": "2024-07-25",
     "date:inception_upper": "2024-07-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-25",
+    "edtf:cessation": "2024-07-25T16:24:00Z",
+    "edtf:inception": "2024-07-25T11:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.809414,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.619367,
     "lbl:longitude": -122.38387,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240725-A-ANA-7021",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N68834",
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -53,6 +62,10 @@
       1914600841,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "93097628",
+      "swim:gufi": "KN23767500"
+    },
     "wof:country": "US",
     "wof:created": 1722011068,
     "wof:geomhash": "70ecaf1bff2da3af9ba52c9bde5534af",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1930460821,
     "wof:involves": [
-      102527513,
-      102529403,
       1159285413,
       1914600929,
-      1159283875
+      1159283875,
+      1377564285,
+      102527513,
+      102529403
     ],
-    "wof:lastmodified": 1722011068,
+    "wof:lastmodified": 1722012996,
     "wof:name": "UA1596 (PHL-SFO)",
     "wof:parent_id": 1914600929,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1930465603,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-26",
+    "date:cessation_upper": "2024-07-26",
     "date:inception_lower": "2024-07-25",
     "date:inception_upper": "2024-07-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-25",
+    "edtf:cessation": "2024-07-26T07:51:48Z",
+    "edtf:inception": "2024-07-25T22:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -59.914066999999996,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.61776,
     "lbl:longitude": -122.3918,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102544459,
     "sfomuseum:base_flight_id": "20240725-D-DLH-8665",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N226UA",
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -53,6 +62,10 @@
       1914600999,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "93160209",
+      "swim:gufi": "KO63117500"
+    },
     "wof:country": "US",
     "wof:created": 1722012748,
     "wof:geomhash": "ad7dd7ece479a882a3440fb19be6ff4c",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1930465603,
     "wof:involves": [
+      1159289985,
       102544459,
       102527513,
       1159285413,
       1914601065,
       1159286015
     ],
-    "wof:lastmodified": 1722012748,
+    "wof:lastmodified": 1722013021,
     "wof:name": "UA990 (SFO-CDG)",
     "wof:parent_id": 1914601065,
     "wof:placetype": "custom",

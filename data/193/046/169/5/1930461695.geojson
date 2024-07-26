@@ -2,10 +2,12 @@
   "id": 1930461695,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-25",
+    "date:cessation_upper": "2024-07-25",
     "date:inception_lower": "2024-07-25",
     "date:inception_upper": "2024-07-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-25",
+    "edtf:cessation": "2024-07-25T21:21:52Z",
+    "edtf:inception": "2024-07-25T19:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1914601197,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "93142878"
+    },
     "wof:country": "US",
     "wof:created": 1722011382,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
@@ -94,7 +99,7 @@
       1914601211,
       1159284261
     ],
-    "wof:lastmodified": 1722011382,
+    "wof:lastmodified": 1722013005,
     "wof:name": "WS1774 (YVR-SFO)",
     "wof:parent_id": 1914601211,
     "wof:placetype": "custom",

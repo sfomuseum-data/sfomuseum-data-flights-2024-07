@@ -2,10 +2,12 @@
   "id": 1930463851,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-25",
+    "date:cessation_upper": "2024-07-25",
     "date:inception_lower": "2024-07-25",
     "date:inception_upper": "2024-07-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-25",
+    "edtf:cessation": "2024-07-25T13:56:00Z",
+    "edtf:inception": "2024-07-25T12:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2024-07-25",
@@ -48,6 +50,9 @@
       1914600999,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "93104558"
+    },
     "wof:country": "US",
     "wof:created": 1722012131,
     "wof:geomhash": "ec8e91229a6790516c63cb7081c35777",
@@ -88,7 +93,7 @@
       1159284401,
       1914601019
     ],
-    "wof:lastmodified": 1722012131,
+    "wof:lastmodified": 1722013027,
     "wof:name": "F92678 (SFO-ONT)",
     "wof:parent_id": 1914601019,
     "wof:placetype": "custom",
