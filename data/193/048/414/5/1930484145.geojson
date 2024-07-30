@@ -2,10 +2,12 @@
   "id": 1930484145,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-29",
+    "date:cessation_upper": "2024-07-29",
     "date:inception_lower": "2024-07-28",
     "date:inception_upper": "2024-07-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-28",
+    "edtf:cessation": "2024-07-29T01:55:51Z",
+    "edtf:inception": "2024-07-28T21:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "PD",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1914601197,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "93478965"
+    },
     "wof:country": "US",
     "wof:created": 1722377124,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -94,7 +99,7 @@
       1914601313,
       1159283753
     ],
-    "wof:lastmodified": 1722377124,
+    "wof:lastmodified": 1722377874,
     "wof:name": "PD670 (SFO-YYZ)",
     "wof:parent_id": 1914601313,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1930478361,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-28",
+    "date:cessation_upper": "2024-07-28",
     "date:inception_lower": "2024-07-28",
     "date:inception_upper": "2024-07-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-28",
+    "edtf:cessation": "2024-07-28T22:39:24Z",
+    "edtf:inception": "2024-07-28T17:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "QFA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240728-A-QFA-3655",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N433AS",
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -53,6 +62,9 @@
       1914601197,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "93453675"
+    },
     "wof:country": "US",
     "wof:created": 1722374627,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 1930478361,
     "wof:involves": [
+      1377564285,
       102527513,
       102534365,
       1159283813,
       1914601237,
       1159285043
     ],
-    "wof:lastmodified": 1722374627,
+    "wof:lastmodified": 1722377849,
     "wof:name": "AS15 (JFK-SFO)",
     "wof:parent_id": 1914601237,
     "wof:placetype": "custom",

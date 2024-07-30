@@ -2,10 +2,12 @@
   "id": 1930478487,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-29",
+    "date:cessation_upper": "2024-07-29",
     "date:inception_lower": "2024-07-28",
     "date:inception_upper": "2024-07-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-28",
+    "edtf:cessation": "2024-07-29T00:49:00Z",
+    "edtf:inception": "2024-07-28T21:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -136.169672,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240728-A-AAL-7526",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -53,6 +61,9 @@
       1914601197,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "93477534"
+    },
     "wof:country": "US",
     "wof:created": 1722374684,
     "wof:geomhash": "40576486fbb454d3a66da49d62a0ae33",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 1930478487,
     "wof:involves": [
+      1159289871,
       102527513,
       102531979,
       1159283813,
       1914601205,
       1159283849
     ],
-    "wof:lastmodified": 1722374684,
+    "wof:lastmodified": 1722377851,
     "wof:name": "AS633 (ANC-SFO)",
     "wof:parent_id": 1914601205,
     "wof:placetype": "custom",

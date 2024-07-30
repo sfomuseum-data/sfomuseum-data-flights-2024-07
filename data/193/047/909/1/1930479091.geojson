@@ -2,10 +2,12 @@
   "id": 1930479091,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-28",
+    "date:cessation_upper": "2024-07-28",
     "date:inception_lower": "2024-07-28",
     "date:inception_upper": "2024-07-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-28",
+    "edtf:cessation": "2024-07-28T18:46:00Z",
+    "edtf:inception": "2024-07-28T13:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240728-A-AMX-4704",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N711ZX",
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -53,6 +62,10 @@
       1914601345,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "93428708",
+      "swim:gufi": "KN43852100"
+    },
     "wof:country": "US",
     "wof:created": 1722374950,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -92,9 +105,10 @@
       102534365,
       1159284261,
       1914601425,
-      1159283539
+      1159283539,
+      1159289939
     ],
-    "wof:lastmodified": 1722374950,
+    "wof:lastmodified": 1722377856,
     "wof:name": "DL669 (JFK-SFO)",
     "wof:parent_id": 1914601425,
     "wof:placetype": "custom",
