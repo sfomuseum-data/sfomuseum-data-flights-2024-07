@@ -2,10 +2,12 @@
   "id": 1930491143,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-27",
+    "date:cessation_upper": "2024-07-27",
     "date:inception_lower": "2024-07-27",
     "date:inception_upper": "2024-07-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-27",
+    "edtf:cessation": "2024-07-27T03:44:53Z",
+    "edtf:inception": "2024-07-27T02:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1914601197,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "93292168"
+    },
     "wof:country": "US",
     "wof:created": 1722380627,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -94,7 +99,7 @@
       1914601243,
       1159283849
     ],
-    "wof:lastmodified": 1722380627,
+    "wof:lastmodified": 1722381833,
     "wof:name": "AS740 (SFO-LAS)",
     "wof:parent_id": 1914601243,
     "wof:placetype": "custom",

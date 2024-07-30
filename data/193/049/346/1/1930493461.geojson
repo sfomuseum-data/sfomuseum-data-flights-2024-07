@@ -2,10 +2,12 @@
   "id": 1930493461,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-27",
+    "date:cessation_upper": "2024-07-27",
     "date:inception_lower": "2024-07-27",
     "date:inception_upper": "2024-07-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-27",
+    "edtf:cessation": "2024-07-27T22:47:11Z",
+    "edtf:inception": "2024-07-27T17:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-07-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 28.675217,
     "geom:longitude": -139.2030015,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617532,
     "lbl:longitude": -122.382384,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102532939,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N37434",
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -48,6 +57,10 @@
       1914601345,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "93347395",
+      "swim:gufi": "KO55703700"
+    },
     "wof:country": "US",
     "wof:created": 1722381593,
     "wof:geomhash": "ffd2c7b34797175c51fc3517b1c4b69d",
@@ -86,9 +99,10 @@
       102532939,
       102527513,
       1159285413,
-      1914601377
+      1914601377,
+      1377564285
     ],
-    "wof:lastmodified": 1722381593,
+    "wof:lastmodified": 1722381853,
     "wof:name": "UA694 (SFO-KOA)",
     "wof:parent_id": 1914601377,
     "wof:placetype": "custom",

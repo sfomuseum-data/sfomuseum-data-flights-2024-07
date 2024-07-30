@@ -2,10 +2,12 @@
   "id": 1930493163,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-27",
+    "date:cessation_upper": "2024-07-27",
     "date:inception_lower": "2024-07-27",
     "date:inception_upper": "2024-07-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-27",
+    "edtf:cessation": "2024-07-27T20:15:00Z",
+    "edtf:inception": "2024-07-27T18:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.1959315,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102554947,
     "sfomuseum:base_flight_id": "20240727-D-ANZ-9882",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N486UA",
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -53,6 +62,10 @@
       1914601345,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "93351634",
+      "swim:gufi": "KO51104700"
+    },
     "wof:country": "US",
     "wof:created": 1722381472,
     "wof:geomhash": "a7dd599440af55c5534b52449c3164ed",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1930493163,
     "wof:involves": [
-      102554947,
-      102527513,
       1159285413,
       1914601373,
-      1159283697
+      1159283697,
+      1159292085,
+      102554947,
+      102527513
     ],
-    "wof:lastmodified": 1722381472,
+    "wof:lastmodified": 1722381850,
     "wof:name": "UA205 (SFO-YYC)",
     "wof:parent_id": 1914601373,
     "wof:placetype": "custom",
