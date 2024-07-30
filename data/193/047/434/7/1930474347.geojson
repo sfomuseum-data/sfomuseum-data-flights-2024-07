@@ -2,10 +2,12 @@
   "id": 1930474347,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-29",
+    "date:cessation_upper": "2024-07-29",
     "date:inception_lower": "2024-07-29",
     "date:inception_upper": "2024-07-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-29",
+    "edtf:cessation": "2024-07-29T22:38:02Z",
+    "edtf:inception": "2024-07-29T19:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "QTR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:base_flight_id": "20240729-D-QTR-2963",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N935AK",
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -53,6 +62,9 @@
       1914601197,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "93563528"
+    },
     "wof:country": "US",
     "wof:created": 1722372142,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 1930474347,
     "wof:involves": [
+      1914601237,
+      1159286153,
+      1528104577,
       102533631,
       102527513,
-      1159283813,
-      1914601237,
-      1159286153
+      1159283813
     ],
-    "wof:lastmodified": 1722372142,
+    "wof:lastmodified": 1722373378,
     "wof:name": "AS598 (SFO-ORD)",
     "wof:parent_id": 1914601237,
     "wof:placetype": "custom",
