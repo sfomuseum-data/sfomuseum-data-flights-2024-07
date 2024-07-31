@@ -2,10 +2,12 @@
   "id": 1930508197,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-30",
+    "date:cessation_upper": "2024-07-30",
     "date:inception_lower": "2024-07-30",
     "date:inception_upper": "2024-07-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-30",
+    "edtf:cessation": "2024-07-30T08:55:06Z",
+    "edtf:inception": "2024-07-30T04:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102528817,
     "sfomuseum:base_flight_id": "20240730-D-AAL-7428",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
+    "swim:tail_number": "N530AS",
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -53,6 +61,9 @@
       1914601197,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "93612640"
+    },
     "wof:country": "US",
     "wof:created": 1722443640,
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 1930508197,
     "wof:involves": [
+      1159283849,
+      1159289871,
       102528817,
       102527513,
       1159283813,
-      1914601213,
-      1159283849
+      1914601213
     ],
-    "wof:lastmodified": 1722443640,
+    "wof:lastmodified": 1722444697,
     "wof:name": "AS455 (SFO-IAD)",
     "wof:parent_id": 1914601213,
     "wof:placetype": "custom",
