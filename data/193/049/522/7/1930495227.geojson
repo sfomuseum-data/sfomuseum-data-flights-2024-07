@@ -2,10 +2,12 @@
   "id": 1930495227,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-26",
+    "date:cessation_upper": "2024-07-26",
     "date:inception_lower": "2024-07-26",
     "date:inception_upper": "2024-07-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-26",
+    "edtf:cessation": "2024-07-26T16:17:55Z",
+    "edtf:inception": "2024-07-26T11:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.614944,
     "lbl:longitude": -122.383123,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240726-A-AAL-7425",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N960AK",
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -53,6 +62,9 @@
       1914601345,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "93200880"
+    },
     "wof:country": "US",
     "wof:created": 1722389476,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 1930495227,
     "wof:involves": [
+      1528104577,
       102527513,
       102528817,
       1159283813,
       1914601423,
       1159283849
     ],
-    "wof:lastmodified": 1722389476,
+    "wof:lastmodified": 1722392080,
     "wof:name": "AS458 (IAD-SFO)",
     "wof:parent_id": 1914601423,
     "wof:placetype": "custom",

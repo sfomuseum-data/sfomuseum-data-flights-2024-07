@@ -2,10 +2,12 @@
   "id": 1930500427,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-26",
+    "date:cessation_upper": "2024-07-26",
     "date:inception_lower": "2024-07-26",
     "date:inception_upper": "2024-07-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-26",
+    "edtf:cessation": "2024-07-26T21:27:44Z",
+    "edtf:inception": "2024-07-26T16:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "HA",
     "flysfo:date": "2024-07-26",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -48,6 +53,9 @@
       1914600999,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "93228543"
+    },
     "wof:country": "US",
     "wof:created": 1722391343,
     "wof:geomhash": "8c8f659fbae3cc58419f360e0abfbe56",
@@ -88,7 +96,7 @@
       1159284489,
       1914601031
     ],
-    "wof:lastmodified": 1722391343,
+    "wof:lastmodified": 1722392073,
     "wof:name": "HA41 (SFO-OGG)",
     "wof:parent_id": 1914601031,
     "wof:placetype": "custom",
