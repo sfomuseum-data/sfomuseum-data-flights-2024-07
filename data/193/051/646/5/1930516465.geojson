@@ -2,10 +2,12 @@
   "id": 1930516465,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-31",
+    "date:cessation_upper": "2024-07-31",
     "date:inception_lower": "2024-07-31",
     "date:inception_upper": "2024-07-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-07-31",
+    "edtf:cessation": "2024-07-31T03:37:00Z",
+    "edtf:inception": "2024-07-31T01:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B737",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.618149,
     "lbl:longitude": -122.381669,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240731-A-ANA-6494",
@@ -53,6 +57,9 @@
       1914601345,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "93698528"
+    },
     "wof:country": "US",
     "wof:created": 1722529360,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
@@ -88,13 +95,14 @@
     ],
     "wof:id": 1930516465,
     "wof:involves": [
+      1914601375,
+      1159283875,
+      1159289869,
       102527513,
       102555307,
-      1159285413,
-      1914601375,
-      1159283875
+      1159285413
     ],
-    "wof:lastmodified": 1722529360,
+    "wof:lastmodified": 1722531222,
     "wof:name": "UA1230 (YVR-SFO)",
     "wof:parent_id": 1914601375,
     "wof:placetype": "custom",
